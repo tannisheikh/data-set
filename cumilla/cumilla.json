@@ -1,0 +1,387 @@
+[
+  {
+    "bangla_speech": "একটু পর অন্ধকার হয়ে যাবে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কদ্দূর পরে আন্দাইর অইবো",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "সে কি করে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হেতে কিতা করে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "what does he do"
+  },
+  {
+    "bangla_speech": "কাজ করো না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কাম করছ না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Don't work?"
+  },
+  {
+    "bangla_speech": "সে এইভাবে শুয়ে আছে কেন?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হেতে এমনে হুইত্তা রইছে কিত্তো",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Why is he lying like this?"
+  },
+  {
+    "bangla_speech": "এক পা উপরে আরেক পা নিচে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "এক ঠ্যাং উফরে আরেক ঠ্যাং নিছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "One foot up, one foot down"
+  },
+  {
+    "bangla_speech": "আসার পর থেকে দেখছি সে শুয়ে আছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আওনের পর তে দেখতাছি হেতে হুইত্তা রইছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "I have seen him sleeping since coming"
+  },
+  {
+    "bangla_speech": "এখন পর্যন্ত একটা কাজ করে নাই ঘরের",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "অহন পইযন্ত একটা কাম করছে না ঘরের",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "So far no work has been done in the house"
+  },
+  {
+    "bangla_speech": "কি করছো?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কিতারে করছ?",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "what are you doing"
+  },
+  {
+    "bangla_speech": "সন্ধা বেলা কিসের খাবার খাও?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হান্জা বেলা কিসের খাওন খাছ",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "চলেন ভিতরে কি আছে দেখি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "চলেন ভিতরে কিতা আছে চাই",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Let's see what's inside"
+  },
+  {
+    "bangla_speech": "এখানে চানাচুর বিক্রি করে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "এনো চানাচুর বেছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Chanachur is sold here"
+  },
+  {
+    "bangla_speech": "এখন চিন্তা করতেছি হালিম খাবো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "অহন অইলো চিন্তা করতাছি হালিম খামু",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Now I am thinking of eating Halim"
+  },
+  {
+    "bangla_speech": "তার মানে তার খাবারটা ভালো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "তার মানে হেতের খানাডা ভালা",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "That means his food is good"
+  },
+  {
+    "bangla_speech": "তার দোকানে মানুষ বেশি আছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হেতের দোহানে মানুষ বেশি আছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "There are more people in his shop"
+  },
+  {
+    "bangla_speech": "আপনাদের ইচ্ছা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আমনারার ইচ্ছা",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "your wish"
+  },
+  {
+    "bangla_speech": "আসেন হালিম খাবো আজকে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আইয়েন হলিম খামু আইজগা",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Come eat Halim today"
+  },
+  {
+    "bangla_speech": "হালিম আপনারা পেয়ে যাবেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হালিম আফনারা পাইয়া যাইবেন",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Halim Anna will get it"
+  },
+  {
+    "bangla_speech": "ভাই কে কি বললো তা কানে না দিয়ে চালিয়ে যান",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "ভাই কেডায় কিতা কইলো ইতা কনে না দিয়া চালায় যান",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Ignore what your brother said and continue"
+  },
+  {
+    "bangla_speech": "ভালোই লাগলো শুনতে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "ভালাই লাগলো হুনতে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Good to hear"
+  },
+  {
+    "bangla_speech": "সকল মানুষ তাদের নিজ ভাষায় কথা বলে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হগল মানু তাগো তাগো ভাষায় কতা কয়",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "All people speak their own language"
+  },
+  {
+    "bangla_speech": "আমরা যেভাবে কথা বলি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আমরা যেমনে কতা কই",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "the way we talk"
+  },
+  {
+    "bangla_speech": "চার বোন বাড়িতে আছি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "চাইর বইন বাইত আছি",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Four sisters are at home"
+  },
+  {
+    "bangla_speech": "যা খাবো সেটাই লাভ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "যা খায়াম তাই লাভ",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "What I eat is the profit"
+  },
+  {
+    "bangla_speech": "দেখেন সে কি নাটক করছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "দেহেন হেতি কি নাটক করতাছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "See what drama he is doing"
+  },
+  {
+    "bangla_speech": "এগুলো  আমাদের গাছ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "এডি আমরার গাছ",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "These are our trees"
+  },
+  {
+    "bangla_speech": "কি বলতে হবে বলো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কি কওন লাগবো ক",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "tell me what to say"
+  },
+  {
+    "bangla_speech": "এসে আর খাই নাই",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আইয়া আর খাইছি না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "I did not come and eat"
+  },
+  {
+    "bangla_speech": "তার দেখার বিষয় না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "তারার দেহার বিষয় না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Not his thing to watch"
+  },
+
+  {
+    "bangla_speech": "মাটির চুলা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "মাইট্টা পাহা",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Clay oven"
+  },
+  {
+    "bangla_speech": "ঐ যায়গায় যেয়ো না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হেদিকে যাইছ না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Don't go there"
+  },
+  {
+    "bangla_speech": "ভাত খেতে আসো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "ভাত খাইতে আয়",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "come to eat rice"
+  },
+  {
+    "bangla_speech": "আজকে আমি বাজার করতে যাব",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আজগা আমি বাজার করতাম যায়াম",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Today I will go to the market"
+  },
+  {
+    "bangla_speech": "প্রতিদিন একই খাবার খেতে আর ভালো লাগে না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "প্রতিদিন এক খাওন খাইতে আর ভাল লাগে না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "I don't like eating the same food every day"
+  },
+  {
+    "bangla_speech": "তুমি হঠাৎ করে কোথা থেকে আসলে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "তুই আতকা কইত্তে আইলি",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Where did you suddenly come from?"
+  },
+  {
+    "bangla_speech": "আজ সন্ধা বেলা ঘুরতে যাবো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আজকে হাইন্জা বেলা ঘুরতাম যামু",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "I will go for a walk this evening"
+  },
+  {
+    "bangla_speech": "সকালে কাজ শুরু করি রাতেও শেষ হয় না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "বেইন্না বেলা কাম শুরু করি রাইতেও শেষ হয় না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "I start work in the morning and it doesn't end at night"
+  },
+  {
+    "bangla_speech": "এই মহিলাটা খুব বেয়াদব",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "এই বেডিডা হুদ্দা বেয়াদব",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "This woman is very rude"
+  },
+  {
+    "bangla_speech": "সারাটা দিন পরে পরে ঘুমায়",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হারাডা দিন পইরা পইরা ঘুমায়",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "After the whole day he sleeps"
+  },
+  {
+    "bangla_speech": "কাজের কোনো খবর নাই",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কাম কাইজের কোনো খবর নাই",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "No work news"
+  },
+  {
+    "bangla_speech": "এই মেয়ে তুই এখানে কি করিস",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কিলো ছেরি তুই এনো কিরোছ",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "what are you doing here girl"
+  },
+  {
+    "bangla_speech": "আরে সে তো একটা চাপাবাজ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আও হেইতে তো একটা চাফাবাজ",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Hey, he's a pushover"
+  },
+  {
+    "bangla_speech": "কথায় কথায় শুধু মিথ্যে কথা বলে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কতায় কতায় খালি মিছা কতা কয়",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Words only tell lies"
+  },
+  {
+    "bangla_speech": "এখন আর আগের মতো খাইতে পারি না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "আও এহন আর আগের মতন খাইতাম পারি না",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Now I can't eat like before"
+  },
+  {
+    "bangla_speech": "তুমি না আগে দেখতে আরও সুন্দর ছিলা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "কিও তুমি না আগে দেকতে আরও সুন্দর আছিলা",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "You were more beautiful than before"
+  },
+  {
+    "bangla_speech": "পেয়ারা খাবা?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "গম খাবি?",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Eat guava?"
+  },
+  {
+    "bangla_speech": "কাছে আসো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "এইফিল আয়",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "come closer"
+  },
+  {
+    "bangla_speech": "পানি খাব",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "পানি খায়াম",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "drink water"
+  },
+  {
+    "bangla_speech": "ওরা কোথা থেকে আসছে?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "cumilla_bangla_speech": "হেতারা কইত্তে আইছে",
+    "cumilla_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "cumilla",
+    "english_speech": "Where are they coming from?"
+  }
+]
