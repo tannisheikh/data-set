@@ -1,24 +1,40 @@
 [
   {
-    "bangla_speech": "তোমার আব্বু কেমন আছে?",
+    "bangla_speech": "আজকে আমাদের পরিক্ষা",
     "banglish_speech": "tomar abbu kemon ache?",
-    "patuakhali_bangla_speech": "তোর বাপে কেমন আছে",
+    "patuakhali_bangla_speech": " আজকে মোদের পরিক্ষা",
     "patuakhali_banglish_speech": "tomar bap kemot ase?",
     "region_name": "patuakhali",
     "english_speech": "How is your father?"
   },
   {
-    "bangla_speech": "আমার বড়  বোনের আজকে মন ভালো নেই",
+    "bangla_speech": "আপনারা সবাই কেমন আছে?",
+    "banglish_speech": "tomar abbu kemon ache?",
+    "patuakhali_bangla_speech": " আমনেরা বেহেই কেমন আছে",
+    "patuakhali_banglish_speech": "tomar bap kemot ase?",
+    "region_name": "patuakhali",
+    "english_speech": "How is your father?"
+  },
+  {
+    "bangla_speech": "আমার ভাই অনেক ভালো",
+    "banglish_speech": "tomar abbu kemon ache?",
+    "patuakhali_bangla_speech": "ামার ভাই একছের ভালো",
+    "patuakhali_banglish_speech": "tomar bap kemot ase?",
+    "region_name": "patuakhali",
+    "english_speech": "How is your father?"
+  },
+  {
+    "bangla_speech": "আমার আজকে মন ভালো নেই",
     "banglish_speech": "amar boro  boner ajke mon valo nei",
-    "patuakhali_bangla_speech": "আমার বড়  আপার আজগো মন ভালো নাই",
+    "patuakhali_bangla_speech": "আমার আজগো মন ভালো নাই",
     "patuakhali_banglish_speech": "amar boro  boiner aij mon vala nai",
     "region_name": "patuakhali",
     "english_speech": "My elder sister is not feeling well today"
   },
   {
-    "bangla_speech": "তুমি কি আমাকে এই কাজটি করে দিতে পারবে?",
+    "bangla_speech": "আমাকে এই কাজটি করে দিতে পারবে?",
     "banglish_speech": "tumi ki amake ei kajti kore dite parbe?",
-    "patuakhali_bangla_speech": "তুমি কি আমারে এই কাজডা কইরা দিতা ফারবা?",
+    "patuakhali_bangla_speech": "আমারে এই কাজডা কইরা দিতা ফারবা?",
     "patuakhali_banglish_speech": "tumi kita amare ei kamda koira dita farba?",
     "region_name": "patuakhali",
     "english_speech": "Can you do this for me?"
@@ -40,9 +56,9 @@
     "english_speech": "Everything you say is wrong"
   },
   {
-    "bangla_speech": "তোমার মত খারাপ ছেলে আমি আর একটাও  দেখিনি",
+    "bangla_speech": "তোমার মত খারাপ মেয়ে আমি আর একটাও  দেখিনি",
     "banglish_speech": "tomar moto kharap chele ami ar ektao  dekhini",
-    "patuakhali_bangla_speech": "তোমার মত জাউরা পোলা আমি আর একটাও  দেহিনাই",
+    "patuakhali_bangla_speech": "তোমার মত জাউরা মেয়ে আমি আর একটাও  দেহিনাই",
     "patuakhali_banglish_speech": "tomar moto kharap chera ami ar ektao  dekhsina",
     "region_name": "patuakhali",
     "english_speech": "I've never seen a bad boy like you"
@@ -154,7 +170,7 @@
   {
     "bangla_speech": "তিনি আমাকে অনেক অপমান করেছে",
     "banglish_speech": "tini amake onek opman koreche",
-    "patuakhali_bangla_speech": "হে মোরে একচের যা তা করসে",
+    "patuakhali_bangla_speech": "হে মোরে একছের যা তা করসে",
     "patuakhali_banglish_speech": "hey amare mela opoman korse",
     "region_name": "patuakhali",
     "english_speech": "He insulted me a lot"
@@ -162,7 +178,7 @@
   {
     "bangla_speech": "আমার সকালে উঠে বই পরতে অনেক ভালো লাগে",
     "banglish_speech": "amar sokale uthe boi porte onek valo lage",
-    "patuakhali_bangla_speech": "মোর বেইন্নালে উইত্থা বইডা দরতে মনডা চাই না",
+    "patuakhali_bangla_speech": "মোর বেইন্নালে উইত্থা বইডা দরতে একছের ভালা লাগে",
     "patuakhali_banglish_speech": "amar sokale uittha boi porte mela vala lage",
     "region_name": "patuakhali",
     "english_speech": "I like to get up in the morning and wear a book"
@@ -226,7 +242,7 @@
   {
     "bangla_speech": "আমার আম্মু অনেক ভালো রান্না করে",
     "banglish_speech": "amar ammu onek valo ranna kore",
-    "patuakhali_bangla_speech": " মোর মায় একচের ভালো রানদে ",
+    "patuakhali_bangla_speech": " মোর মায় একছের ভালো রানদে ",
     "patuakhali_banglish_speech": "amar ammu onek vala ranna kore",
     "region_name": "patuakhali",
     "english_speech": "My mom cooks very well"
@@ -426,7 +442,7 @@
   {
     "bangla_speech": "তোমার সাথে অনেক দিন পর  দেখা",
     "banglish_speech": "tomar sathe onek din por  dekha",
-    "patuakhali_bangla_speech": "তোমার লগে অনেক দিন পর দেহা",
+    "patuakhali_bangla_speech": "তোমার লগে মেলা দিন পর দেহা",
     "patuakhali_banglish_speech": "tomar loge onek din por deha",
     "region_name": "patuakhali",
     "english_speech": "See you after a long time"
@@ -472,10 +488,10 @@
     "english_speech": "The man got married a few days ago"
   },
   {
-    "bangla_speech": "প্রথমে তোমাকে একটি বইয়ের দোকানে যেতে হবে",
-    "banglish_speech": "prothome tomake ekti boiyer dokane jete hobe",
-    "patuakhali_bangla_speech": "প্রেথম তোমারে একটা বইয়ের দোকানে যাইতে হইবে",
-    "patuakhali_banglish_speech": "prothome tomare ekta biyer dokane jaite hoibo",
+    "bangla_speech": "প্রথমে তোমাকে একটি  দোকানে যেতে হবে",
+    "banglish_speech": "prothome tomake ekti  dokane jete hobe",
+    "patuakhali_bangla_speech": "প্রেথম তোমারে একটা  দোকানে যাইতে হইবে",
+    "patuakhali_banglish_speech": "prothome tomare ekta  dokane jaite hoibo",
     "region_name": "patuakhali",
     "english_speech": "First you need to go to a bookstore"
   },
@@ -544,9 +560,9 @@
     "english_speech": "My mom brought me home beating me in front of everyone"
   },
   {
-    "bangla_speech": "আপনি কি জানেন  এখানে অনেক ছেলে কমেন্ট পড়তে আসবে",
+    "bangla_speech": "আপনি কি জানেন  এখানে অনেক ছেলে মেয়ে কমেন্ট পড়তে আসবে",
     "banglish_speech": "apni ki janen  ekhane onek chele comment porte asbe",
-    "patuakhali_bangla_speech": "আমনে কি জানেন  এইহানে একছের পোলা কমেন্ট পড়তে আই্বে",
+    "patuakhali_bangla_speech": "আমনে কি জানেন  এইহানে একছের পোলা মাইয়া কমেন্ট পড়তে আই্বে",
     "patuakhali_banglish_speech": "afne ki janen  eihane mela chera comment porte aibo",
     "region_name": "patuakhali",
     "english_speech": "Do you know that many boys will come here to read comments"
@@ -642,23 +658,23 @@
   {
     "bangla_speech": "আপনাকে ভালোবাসি  এই কথাটি বলা বাকি",
     "banglish_speech": "apnake valobashi  ei kothati bola baki",
-    "patuakhali_bangla_speech": "আমনেরে ভালপাই  এই কথাডা কওইয়াই হয়না",
+    "patuakhali_bangla_speech": "আমনেরে ভালোপাই  এই কথাডা কওইয়াই হয়না",
     "patuakhali_banglish_speech": "afnere valobasi  ei kothada kown baki",
     "region_name": "patuakhali",
     "english_speech": "All that is left to say is that I love you"
   },
   {
-    "bangla_speech": "আমার আব্বুর খুব গরম লাগছে",
+    "bangla_speech": "আমার ভাইয়ের খুব গরম লাগছে",
     "banglish_speech": "amar abbur khub gorom lagche",
-    "patuakhali_bangla_speech": "মোর বাপের ্জম্মের গরম লাগতাছে",
+    "patuakhali_bangla_speech": "মোর ভাইয়ের ্ জম্মের গরম লাগতাছে",
     "patuakhali_banglish_speech": "amar abbar mela gorom lagtase",
     "region_name": "patuakhali",
     "english_speech": "My father feels very hot"
   },
   {
-    "bangla_speech": "আমার ছোট বোনের গরম লাগছে",
+    "bangla_speech": "আমার ছোট ভাইয়ের গরম লাগছে",
     "banglish_speech": "amar choto boner gorom lagche",
-    "patuakhali_bangla_speech": "মোর ছোট বইনের গরম লাগদেআছে",
+    "patuakhali_bangla_speech": "মোর ছোট ভাইয়ের গরম লাগদেআছে",
     "patuakhali_banglish_speech": "amar chotoo boiner gorom lagtase",
     "region_name": "patuakhali",
     "english_speech": "My little sister feels very hot"
@@ -672,50 +688,50 @@
     "english_speech": "This child feels very cold"
   },
   {
-    "bangla_speech": "আমার বন্ধুর খুব মন খারাপ",
+    "bangla_speech": "আমার বোনের খুব মন খারাপ",
     "banglish_speech": "amar bondhur khub mon kharap",
-    "patuakhali_bangla_speech": "মোর বন্ধুর জম্মেরমতো মন খারাপ",
+    "patuakhali_bangla_speech": "মোর বোনের জম্মেরমতো মন খারাপ",
     "patuakhali_banglish_speech": "amar bondhur mela mon kharap",
     "region_name": "patuakhali",
     "english_speech": "My friend is very upset"
   },
   {
-    "bangla_speech": "আম্মু আমার জন্য নীল শাড়ি কিনে এনেছে",
+    "bangla_speech": "আম্মু আমার জন্য লাল শাড়ি কিনে এনেছে",
     "banglish_speech": "ammu amar jonno nil shari kine eneche",
-    "patuakhali_bangla_speech": "মায় মোর লাইজ্ঞা নীল শাড়ি কিন্না আনছে",
+    "patuakhali_bangla_speech": "মায় মোর লাইজ্ঞা লাল শাড়ি কিন্না আনছে",
     "patuakhali_banglish_speech": "amma amar laigga nil shari kinna anse",
     "region_name": "patuakhali",
     "english_speech": "Mom bought a blue saree for me"
   },
   {
-    "bangla_speech": "আমি আমার বন্ধুকে  একটি লাল গোলাপ কিনে উপহার দিয়েছি",
+    "bangla_speech": "আমি আমার বন্ধুকে  একটি কালো গোলাপ কিনে উপহার দিয়েছি",
     "banglish_speech": "ami amar bondhuke  ekti lal golap kine upohar diyechi",
-    "patuakhali_bangla_speech": "মুই মোর বন্ধুরে  একটা লাল গোলাপ কিন্না বেবার দিছি",
+    "patuakhali_bangla_speech": "মুই মোর বন্ধুরে  একটা  কালো গোলাপ কিন্না বেবার দিছি",
     "patuakhali_banglish_speech": "ami amar bondhure  ekta lal golap kinna upohar disi",
     "region_name": "patuakhali",
     "english_speech": "I bought and gifted a red rose to my friend"
   },
   {
-    "bangla_speech": "আমি আমার স্বামীর সাথে বিকালে পার্কে ঘুরতে যাব",
+    "bangla_speech": "আমি আমার বউয়ের সাথে বিকালে পার্কে ঘুরতে যাব",
     "banglish_speech": "ami amar shamir sathe bikale park e ghurte jabo",
-    "patuakhali_bangla_speech": "মুই মর জামাইয়ের লগে বিহালে পার্কে ঘুরতে যামু",
+    "patuakhali_bangla_speech": "মুই মর বউয়ের লগে বিহালে পার্কে ঘুরতে যামু",
     "patuakhali_banglish_speech": "ami amar jamaiyer sathe bikale park e ghurte jayam",
     "region_name": "patuakhali",
     "english_speech": "I will go for a walk in the park with my husband in the afternoon"
   },
   {
-    "bangla_speech": "কাউকে ভালোবাসা দেওয়াতেই বেশি আনন্দ লাগে আমার",
+    "bangla_speech": "কাউকে কিছু দেওয়াতেই বেশি আনন্দ লাগে আমার",
     "banglish_speech": "kauke valobasha deoyatei beshi anondo lage amar",
-    "patuakhali_bangla_speech": "কাউরে ভালবাসা দেতেই জম্মের মজা লাগে মোর",
+    "patuakhali_bangla_speech": "কাউরে কিছু দেতেই জম্মের মজা লাগে মোর",
     "patuakhali_banglish_speech": "kaure valobasa dewnei beshi anondo lage amar",
     "region_name": "patuakhali",
     "english_speech": "I am more happy to give love to someone"
   },
   {
-    "bangla_speech": "যদি তুমি আমার কাছে ফিরে আস ,তবে তাকে ছেড়ে দাও",
-    "banglish_speech": "jodi tumi amar kache fire asho ,tobe take chere dao",
-    "patuakhali_bangla_speech": "যদি তুমি মোর ধারে চইল্লা আও ,হেলে হেরে ছইড়া দেও",
-    "patuakhali_banglish_speech": "jodi tumi amar kase fira aw ,taile tare choira deo",
+    "bangla_speech": "তুমি আমার কাছে ফিরে আস ,তবে তাকে ছেড়ে দাও",
+    "banglish_speech": "tumi amar kache fire asho ,tobe take chere dao",
+    "patuakhali_bangla_speech": " তুমি মোর ধারে চইল্লা আও ,হেলে হেরে ছইড়া দেও",
+    "patuakhali_banglish_speech": "tumi amar kase fira aw ,taile tare choira deo",
     "region_name": "patuakhali",
     "english_speech": "If you come back to me, let him go"
   },
@@ -768,25 +784,25 @@
     "english_speech": "You can never take away someone else's love"
   },
   {
-    "bangla_speech": "তুমি  জোর করে অন্যের ভালো লাগার মানুষ হতে পারবে না",
+    "bangla_speech": "তুমি  জোর করে আমার লাগার মানুষ হতে পারবে না",
     "banglish_speech": "tumi  jor kore onner valo lagar manush hote parbe na",
-    "patuakhali_bangla_speech": "তুমি  জোর হইরা অন্যের ভাল লাগার মানুষ হইতে পারবা না",
+    "patuakhali_bangla_speech": "তুমি  জোর হইরা মোর লাগার মানুষ হইতে পারবা না",
     "patuakhali_banglish_speech": "tumi  jor koira onner valo lagar manush hoite parba na",
     "region_name": "patuakhali",
     "english_speech": "You can't force others to like you"
   },
   {
-    "bangla_speech": "আগামিকাল সকালবেলা  তাদেরকে দেখতে পাবেন",
-    "banglish_speech": "agamikal sokalbela  taderke dekhte paben",
-    "patuakhali_bangla_speech": "কালগো সকালবেলা  হেগোরে দেখতে পাইবেন",
-    "patuakhali_banglish_speech": "kalke sokalbela  tarare dekhte parben",
+    "bangla_speech": "আগামিকাল  তাদেরকে দেখতে পাবেন",
+    "banglish_speech": "agamikal   taderke dekhte paben",
+    "patuakhali_bangla_speech": "কালগো  হেগোরে দেখতে পাইবেন",
+    "patuakhali_banglish_speech": "kalke   tarare dekhte parben",
     "region_name": "patuakhali",
     "english_speech": "You will see them again tomorrow morning"
   },
   {
-    "bangla_speech": "তোমার কোন কথাতেই কোনও নিশ্চয়তা নেই",
+    "bangla_speech": "আমার কোন কথাতেই কোনও নিশ্চয়তা নেই",
     "banglish_speech": "tomar kono kothatei kono nishchoyta nei",
-    "patuakhali_bangla_speech": "তোমার কোন কথাতেই কোনও নিশ্চয়তা নাই",
+    "patuakhali_bangla_speech": "মোর কোন কথাতেই কোনও নিশ্চয়তা নাই",
     "patuakhali_banglish_speech": "tomar kono kothatei kono nishcoyta nai",
     "region_name": "patuakhali",
     "english_speech": "There is no guarantee of anything you say"
