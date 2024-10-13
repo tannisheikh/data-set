@@ -1,0 +1,1425 @@
+[
+  {
+    "bangla_speech": "চাচা, চা খেয়ে আমার সঙ্গে যাবেন নাকি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "চাচা চা খাইয়া আমার লগে যাইবেন নিকি",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "বাজার থেকে কী কিনেছ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "বাজার থন কী কিন্ছস্",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "what does he do"
+  },
+  {
+    "bangla_speech": "ওই জলিল্লা, হইল কী",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আবে জলিল্লা, হইল কী",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "Don't work?"
+  },
+  {
+    "bangla_speech": "আমি কি শুনলাম সব ঠিক আছে , যাইয়া দেখি কিছু নাই ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমি বি হুনলাম ছব ঠিক আছে, মগর জাইয়া দেহি কিচছু নাই।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "Why is he lying like this?"
+  },
+  {
+    "bangla_speech": "আজকে স্যার শালায় আমারে খুব আদর করছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আইজকা ছার হালায় আমারে খুব আদর করছে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "One foot up, one foot down"
+  },
+  {
+    "bangla_speech": "গাড়ি রেখে গরু শালায় দৌড় মেরেছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "গারি থুইয়া গরু বি হালায় দৌর মারছে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "I have seen him sleeping since coming"
+  },
+  {
+    "bangla_speech": "াবার কালকে ছুরি করিছ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আবার কাইলা ছুরু করিছ",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "So far no work has been done in the house"
+  },
+  {
+    "bangla_speech": "কেন করছো?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কেলা করছ?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "what are you doing"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার লগে যাইবেন নিকি?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+
+  {
+    "bangla_speech": "আমাদের পুরান ঢাকার ছক্কু বেপারী লেনের নাম শুনছেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমগো পুরান ঢাকার ছক্কু বেপারী লেনের নাম হুনছেন!",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "না শুনেন নাই",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "না হুনেন নাইক্কা!",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "চাংখার পুলের নাম তো শুনছেন না কি বলেন?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মাগার চাংখার পুলের নাম তো হুনছেন না কি কন?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "ওইটা না তবে ঐ গল্লির মধ্যে ঢুকে দুই পা সামনে গেলেই দেখবেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ঐডা না তয় ঐ গল্লির মইধ্যে ঢুইকা দুই কদম ছামনে গেলেই দেখবেন",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আরো চাপা একটা গলি ডানে গেছে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আরো চিপা এউগা গল্লি ডাইনে গেছে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "দুই দিকে পুরাতন পুরাতন ব্রিটিশ আমলের দালান",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "দুই দিকে পুরান পুরান বিটিশ আমলের দলান।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আস্তর খোলে পড়ছে ইটের ফাকে বট গাছ গজাইছে। ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আস্তর খইসা পড়ছে, ইটের ফাকে বট গাছ ভী গজাইছে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "এখনো দাঁড়িয়ে আছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মাগার অক্ষনও খাড়ায় আছে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "দুই চারবার ভুমিকম্প হলেও নড়াতে পারবে না বলে দিলাম",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "দুই চাইরবার ভুমিকম্প হইলেও হিলাইতে পারবো না কয়া দিলাম।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+
+  {
+    "bangla_speech": "এই গলির শেষ মাথায় হলো গিয়া আমার বাড়ি, নম্বর সতেরো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এই গল্লিরই ছেছ মাথায় অইলো গিয়া আমার বাড়ি, লম্বর ছতরো।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার বাবা বানিয়ে রেখে গিয়েছিল",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার বাপে বানায় রাইখা গেছিলো।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "নাম্বার খুজে না পালে আমার নাম বললেই মানুষ দেখিয়ে দিবে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "লম্বর খুইজা না পাইলে আমার নাম কইলেই মাইনছে দেখায় দিবো।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "এই মহল্লার সকলে আমাকে বেরেল ফকির নামেই চিনে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এই মহল্লার বেবাকতে আমারে বেরেল ফকির নামেই চিনে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+
+  {
+    "bangla_speech": "আমার প্রথম বউ মারা যাওয়ার দুই বছর পর আরেকটা বিয়ে করেছিলাম।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার পরথম বিবি মারা যাওয়ার দুই বচ্ছর পর আরেকক্ষান শাদী করছিলাম।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "তার নাম হলো নুরজাহান।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হের নাম অইলো গিয়া নুরজাহান।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "তবে তাকে আমি আদর করে কমলা বলে ডাকি।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "তয় তারে আমি ছোহাগ কইরা কমলা কয়া ডাকি।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "পাঁচ নাম্বার সন্তান হওয়ার পর থেকে সেই যে খাটে শুয়েছে আর উঠতে পারেনা।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "পাঁচ লম্বর ছাওয়ালডা হওয়ার পর থেইক্কা হেই যে খাটে হুইছে আর উঠবার পারেনা।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "এতো মানুষকে তাবিজ কবচ আর পানি পড়া দিয়া ভালো করতে পারছি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এত মাইনছেরে তাবিজ কবচ আর পানি পড়া দিয়া ভালো করবার লাগছি",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কিন্তু তার কিছুই করতে পারলাম না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মাগার হেরে কিচ্ছুই করবার পারলাম না।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বিছনায় পড়ে থাকলে কি হবে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "বিছনায় পইড়া থাকলে কি অইবো",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার কমলির চেহারাটা যেন আকাশের চাঁদের মতো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার কমলির চেহারাডা যেন আসমানের চাঁন্দের লাহান",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "না না ভুল বলতেছি একবারে পাকা একটা কমলা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "না না ভুল কইতাছি এক্কেরে পাকা একখান কমলা",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "তার মুখের দিকে থাকালে শুধু চেয়ে থাকতে মন চায়।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হের মুখের দিকে চাইলে খালি চায়া থাকবার মুন চায়।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বাড়ি ঘর পোলাপান নষ্ট হয়ে যাচ্ছে দেখে কমলি আমাকে সেদিন ডেকে বলল",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "বাড়ি ঘর পুলাপাইন ছব ভাইছা যাইবার লাগছে দেইখা কমলি আমারে ছেদিন ডাইকা কয়",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আপনাকে একটা কথা বলতে চাই হাসেমের বাবা আপনি কিন্তু রাগকরতে পারবেন না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আপনারে এক্ষান কথা কইবার চাই হাছেমের আব্বা আপনি কইলাম চেতবার পারবেন না",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বলো কি রাগকরব কেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কও কি চেতুম কেলা! ",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "ঢোক গিলে কমলি বলে উঠে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ঢোক গিলে কমলি বলে উঠে,",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বলেছিলাম কি আপনি একটা বিয়ে করেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কইছিলাম কি আপনি এক্ষান ছাদী করেন",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বাসার সবার অনেক হয়রানী হচ্ছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "বাসার ছব্বাইর বহুত পেরেসানী হইতাছে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "সাথে আপনারও যে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": " লগে আপনেরও ভী",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "একটা মুচকি হাসি দিয়ে কমলা চেয়ে রইলো বারেক ফকিরের দিকে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "একটা ক্লিষ্ট হাসি দিয়ে কমলা চেয়ে রইলো বারেক ফকিরের দিকে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+
+  {
+    "bangla_speech": "এইটা তুমি কি বলতেছ কমলা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এইডা তুমি কি কইতাছো কমলা",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "সত্যি বলতেছি দেখতে পারছেন না বাড়ি ঘরের কি অবস্থা হয়েছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'হাচাই কইতাছি, দেখবার পারতাছেন না বাড়ি ঘরের কি অবস্থা হইছে'।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমি আর কিছু বলতে পারলাম না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমি আর কিচ্ছু কইবার পারলাম না",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কমলা সত্যি বলতেছে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কমলা হাচাই কইতাছে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সোনার সংসার যেন ছাই হয়ে যাওয়ার লাগছে, আমিও বুঝতে পারেছি।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার ছোনার ছংছার যেন ছাই হয়া যাইবার লাগছে, আমিও বুঝবার পারতাছি।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আল্লাহর মাল দশ দশটা সন্তান",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আল্লার মাল দছ দছটা পোলাপান",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কে যে কি করার লাগছে সেটা যে বলতে পারব না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কে যে কি করবার লাগছে হেইডা ভী কইবার পারুম না",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "সেদিন মহল্লার দুই একজন মানুষ আমাকে ডেকে বলে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ছেদিন মহল্লার দু একজন মাইনছে আমারে ডাইকা কয়",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "হুজুর কথা বলি কিছু মনে করবেন না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুর এক্ষান কথা কই কিছু মনে লয়েন না",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আপনাকে আমরা মহল্লার মানুষ অনেক সন্মান করি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আপনেরে আমরা মহল্লার মানুছ বহুত ছন্মান করি",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কিন্তু আপনার বড় ছেলে দুইটা হাসেম আর কাসেম কিন্তু আপনার মতো হয়নাই",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মাগার আপনার বড় পোলা দুইডা হাছেম আর কাছেম কিন্তক আপনের লাহান হয়নাইক্কা",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "হ্যাঁ ঠিক বলছ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হ ঠিকই কইছো",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "মা মরা সন্তান",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মা মরা ছাওয়াল",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "খেয়াল করতে পারিনা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "খেয়াল করবার পারিনা",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কে কোথায় কি করতে লাগছে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কেঠা কুনহানে কি করবার লাগছে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আর আমার অন্দরমহলের কথাতো সবই জানো তোমরা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আর আমার অন্দরমহলের কথাতো ছবই জানো তুমরা",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বলতে বলতে মাথাটা নিচু হয়ে আসে বারেক ফকিরের",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "বলতে বলতে মাথাটা নীচু হয়ে আসে বারেক ফকিরের।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  
+  {
+    "bangla_speech": "না একটা বিয়ে করাই লাগবে দেখতেছি",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "না এক্ষান ছাদী করনই লাগবো দেখতাছি ",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "নইলে বাকি সন্তানগুলোও জাহান্নামে যাইবে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "নইলে বাকি পুলাপানটিও জাহান্নামে যাইবো",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বাবা দুনিয়ার মানুষ এসে বসে আছে বৈঠকখানায়",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আব্বা দুইন্নার মাইনছে আয়া বয়া আছে বৈঠকখানায়",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আপনি করতেছেন কি উঠানে দাঁড়িয়ে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": " আপনে করতাছেন কি উঠানে খারায়া?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আসতেন না কেন? কখন থেকে চিৎকার করেতেছি'",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আইবার লাগছেন না কেলা? কহন থিক্কা চিক্কুইর পারতাছি",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "এই ছেলেটা আমাকে একটু কম ভয়",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এই পুলাডা আমারে একটু কম ডরায়।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "ও বলিনাই, আমি ফকিরি লাইনে আছি।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ও কইনাইক্কা, আমি ফকিরি লাইনে আছি।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "পাড়ার মানুষ আসে, কতরকম তাদের সমস্যা।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "পাড়ার মাইনছে আহে, কত্তরকম তাগো ছমছ্যা।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কারো বেমার কারো স্বামী আরেকটা বিয়া করছে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কারো বিমার কারো ছোয়ামী আরেকক্ষান বিয়ে করছে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমি ঝাড় ফুক, তাবিজ কবচ দেই।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমি ঝাড় ফুক, তাবিজ কবচ দেই।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "পানি পড়ে রাখছি ড্রাম ভরে, যার যেমন দরকার।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "পানি পইড়াই থুইছি ডেরাম ভইরা, যার যিমুন দরকার।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "সকাল বেলা মেয়ে মানুষ। বিকাল থেকে পুরুষ মানুষ।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ছক্কাল বেলা মাইয়া মানুছ। বিকাল থিক্কা পুরুছ মানুছ।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আস্তে আস্তে বারেক ফকির তার বৈঠকখানায় এসে জায়নামাজ বিছানো একটু উচু চৌকির উপর এসে বসে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আস্তে আস্তে বারেক ফকির তার বৈঠকখানায় এসে জায়নামাজ বিছানো একটু উচু চৌকির উপর এসে বসে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "ডান হাতে একটা তেল চকচকে কাঠের তসবী।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ডান হাতে একটা তেল চুকচুকে কাঠের তসবী।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  
+  {
+    "bangla_speech": "সালাম হুজুর, মহিলারা সমস্বরে বলে উঠে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ছালাম হুজুর, মহিলারা সমস্বরে বলে উঠে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কারো কোলে, কারো বা হাতে ধরা ছোটো ছোটো বাচ্চা।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কারো কোলে, কারো বা হাতে ধরা ছোটো ছোটো বাচ্চা।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কেউ বা একা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কেউ বা একা।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "সবাই এগিয়ে এসে বসার চেষ্টা করে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "সবাই এগিয়ে এসে বসবার চেষ্টা করে",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "কে কার আগে তার সমস্যার কথা বলবে।",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "কে কার আগে তার সমস্যার কথা বলবে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "এটা নিয়ে মৃদু একটা ধাক্কা ধাক্কি চলতে থাকে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এটা নিয়ে মৃদু একটা ধাক্কা ধাক্কি চলতে থাকে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "হুজুরের এ্যসিস্টেন্ট শহীদ ধম্‌কে উঠে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুরের এ্যসিস্টেন্ট শহীদ ধম্‌কে উঠে,",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আরে ঐ তোরা এমন ঠেলা ঠেলি করতাচছ কেন!",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আব্বে ঐ তরা এমুন ঠেলা ঠেলি করতাছোস কেলা! ",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "চুপ কইরা বস, দুরে সর, দুরে সর, সিরিয়াল কইরা বস",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": " চুপ কইরা ব, দুরে ছর, দুরে ছর, সিজিল কইরা ব",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "হুজুরের খাঠের সাথে যেন পা না লাগে, ঐ মেয়ে তোর ছেলে সামলা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": " হুজুরের চক্কির লগে যেন ঠ্যাং না লাগে, ঐ ছেমরী তর পোলা ছামলা'।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুর এবার প্যাকেট থেকে চারটে আগরবাতি জ্বালিয়ে চাল ভরা একটা পুরোনো কৌটার মধ্যে গুজে রেখে সামনের দিকে তাকায়।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "তার হাল্কা কাঁচা পাকা মেহেদী লাগানো দাড়িতে বা হাত বুলাতে বুলাতে সামনে বসা বাচ্চা আলা মেয়েটাকে জিজ্ঞেস করে?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'কও কি অইছে'?",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'হুজুর আমার পুলাডা তিন দিন ধইরা রাইতে ঘুমায় না, খালি চইমকা চইমকা উঠে আর চিক্কুর পাইরা কান্দে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "আমার ছাছুড়ি কইলো 'জীনের বদ নজর লাগছে, জলদি হুজুরের কাছে লইয়া যা'।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এট্টুসখানি ঝাইরা দেন হুজু..র।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'আনো কাছে আনো, হ হ ঐখানেই থাড়াও আর আউগাইয়োনা, তুমার পুলার চেহারাডা একটু দেইখা লই'",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ভালো করে একবার বাচ্চাটার মুখের দিকে তাকিয়ে বল্লো,",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'মুখটা এইদিক করো দেখি, হ তোমার ছাছুড়ি হাঁচাই কইছে, বদ নজরই লাগছে'।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুর একটা ছোট্ট কাগজে লেখা তাবিজ মহিলার দিকে বাড়িয়ে ধরলো,",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'ধরো এইডা, রুপার তাবিজে ভইরা কালা ছুতা দিয়া পুলার কোমোরে বাইন্ধা রাইখো আছরের নামাজ পইরা।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "ঠিক মত নামাজ কালাম পইরো আর যদ্দুর মনে অয় তুমি ছন্ধ্যার ছময় পুলা লয়া বাইর অইছিলা'!",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "দশটা টাকা হুজুরের হাতে দিয়ে মাথা নীচু করে মহিলার প্রস্থান।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুর কি যেন বিড় বিড় করতে থাকে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "এর পর এগিয়ে আসে এক তরুনী।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "চেহারায় ক্লান্তির ছাপ, চুলগুলো উস্কোখুস্কো।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "শীর্নদেহে মলিন শাড়িটা টেনে টুনে একটু সামনে এগিয়ে এসে ফিস ফিস করে কথা বলতে শুরু করে, ভাবটা যেন তার দীনতার কথা কেউ শুনে না ফেলে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "'আব্বে কি কইতাছো! একটু জোরে জোরে কও, ঠিক মত ছুনবার পারতাছিনা'!",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "হুজুর বিরক্ত হয়ে উঠে।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "dhaka_bangla_speech": "মেয়েটা দ্বীর্ঘশ্বাস ফেলে দম নিয়ে গলাটা একটু উচুস্বরে তুলে বলে, 'হুজু.র কি আর কমু , আমার ছোয়ামীতো আমগো বস্তিরই এক মাগীর লগে কয়দিন ধইরা আছনাই করবার লাগছে'।",
+    "dhaka_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "dhaka",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "হুজুরের কথায় তরুনীটি আবার বলতে শুরু করে।",
+    "dhaka_banglish_speech": "hujur-er kothay toruni-ti abar bolte shuru kore.",
+    "region_name": "dhaka",
+    "english_speech": "Do you understand how?"
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "'হুজু..র আমি তো পয়লা পরথম কিচ্ছুই বুঝবার পারি নাইক্কা, আমগো ঘরের লগে থাকে যে আমার ছই বুলবুলি, উই ছেদিন আমারে ডাইকা কয়,",
+    "dhaka_banglish_speech": "hujur ami to poila porothom kichhui bujbar pari naikka, amgo ghorer loge thake je amar chhoy bulbuli, ui chhedin amare daika koy.",
+    "region_name": "dhaka",
+    "english_speech": "I cannot understand anything for the first time."
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "\"কিরে, তর মুন্নীর বাপ যে ঐ ঘরের আদুরীর লগে পিরীত করতাছে তুই কি কিছুই বুঝবার পারোছ না!\"",
+    "dhaka_banglish_speech": "kire, tor Munir-er bap je oi ghorer aduri-r loge pirith kortaiche tui ki kichui bujbar paroch na!",
+    "region_name": "dhaka",
+    "english_speech": "Do you not understand that Munir's father is in love with that girl?"
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "বুলবুলির কথা ছুইনা আমার বুকটা ধ্বক্‌ কইরা উঠলো হুজু..র।",
+    "dhaka_banglish_speech": "Bulbulir kotha shuina amar bukta dhok kora uthise hujur.",
+    "region_name": "dhaka",
+    "english_speech": "Hearing Bulbuli's words, my heart skipped a beat."
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "আমি কইলাম 'কইতাছোছ কি তুই' ?",
+    "dhaka_banglish_speech": "Ami koilam 'kaitachosh ki tui'?",
+    "region_name": "dhaka",
+    "english_speech": "I said, 'What are you talking about?'"
+  },
+
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "বুলবুলির কথা ছুইনা আমার বুকটা ধ্বক্‌ কইরা উঠলো হুজু..র।",
+    "dhaka_banglish_speech": "Bulbulir kotha shuina amar bukta dhok kora uthise hujur.",
+    "region_name": "dhaka",
+    "english_speech": "Hearing Bulbuli's words, my heart skipped a beat."
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "আমি কইলাম 'কইতাছোছ কি তুই' ?",
+    "dhaka_banglish_speech": "Ami koilam 'kaitachosh ki tui'?",
+    "region_name": "dhaka",
+    "english_speech": "I said, 'What are you talking about?'"
+  },
+  {
+    "bangla_speech": "বুঝলা কেমতে!",
+    "banglish_speech": "bujhla kemte!",
+    "dhaka_bangla_speech": "বুঝলা কেমতে!",
+    "dhaka_banglish_speech": "Ami koilam 'kaitachosh ki tui'?",
+    "region_name": "dhaka",
+    "english_speech": "I said, 'What are you talking about?'"
+  },
+  {
+    "bangla_speech": "হ হাচা কইতাছি, মিছা কমু কেলা! তুই আইজ রাইতে জাইগা দেখিছ হাচা কই না মিছা কই!",
+    "banglish_speech": "h hacha koitachi, micha komu kela! tui aij raitai jaiga dekhish hacha koi na micha koi!",
+    "dhaka_bangla_speech": "বুলবুলি জোর গলায় বলে উঠে।",
+    "dhaka_banglish_speech": "Bulbuli jor golai bole uthe.",
+    "region_name": "dhaka",
+    "english_speech": "Bulbuli shouted loudly."
+  },
+  {
+    "bangla_speech": "হ হাচা কইতাছি, মিছা কমু কেলা! তুই আইজ রাইতে জাইগা দেখিছ হাচা কই না মিছা কই!",
+    "banglish_speech": "h hacha koitachi, micha komu kela! tui aij raitai jaiga dekhish hacha koi na micha koi!",
+    "dhaka_bangla_speech": "হ হাচা কইতাছি, মিছা কমু কেলা! তুই আইজ রাইতে জাইগা দেখিছ হাচা কই না মিছা কই!",
+    "dhaka_banglish_speech": "Bulbuli jor golai bole uthe.",
+    "region_name": "dhaka",
+    "english_speech": "Bulbuli shouted loudly."
+  },
+  {
+    "bangla_speech": "হুজুর এই কথা ছুইনা আমি তিন রাইত জাইগা রইছি, দেখি মাঝরাইতে উইঠা আমার খসম ঘর থিকা বাইর অইতাছে, হাতে একখান ঠোংগা।",
+    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "dhaka_bangla_speech": "আমি কি কমু বুঝবার পারলাম না।",
+    "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
+    "region_name": "dhaka",
+    "english_speech": "I couldn't understand what to say."
+  },
+  {
+    "bangla_speech": "হুজুর এই কথা ছুইনা আমি তিন রাইত জাইগা রইছি, দেখি মাঝরাইতে উইঠা আমার খসম ঘর থিকা বাইর অইতাছে, হাতে একখান ঠোংগা।",
+    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "dhaka_bangla_speech": "হুজুর এই কথা ছুইনা আমি তিন রাইত জাইগা রইছি, দেখি মাঝরাইতে উইঠা আমার খসম ঘর থিকা বাইর অইতাছে, হাতে একখান ঠোংগা।",
+    "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
+    "region_name": "dhaka",
+    "english_speech": "I couldn't understand what to say."
+  },
+  {
+    "bangla_speech": "আস্তে কইরা পিছন পিছন যায়া দেখি মুন্নীর বাপ গুসোল খানার কোনায় খাড়ায়া আদুরীর লগে হাছাহাছি করতাছে,",
+    "banglish_speech": "Aste koira pichon pichon jaya dekhi Munni'r bap gusol khanar konay kharaiya Aduri'r loge hasahashi kortache.",
+    "dhaka_bangla_speech": "আর ঠোংগা থিকা কি জানি বাইর কইরা ওরে খিলায় দিতাছে।",
+    "dhaka_banglish_speech": "Ar thonga thika ki jani bair koira ore khilai ditache.",
+    "region_name": "dhaka",
+    "english_speech": "And I saw something coming out from the thonga."
+  },
+  {
+    "bangla_speech": "আস্তে কইরা পিছন পিছন যায়া দেখি মুন্নীর বাপ গুসোল খানার কোনায় খাড়ায়া আদুরীর লগে হাছাহাছি করতাছে,",
+    "banglish_speech": "Aste koira pichon pichon jaya dekhi Munni'r bap gusol khanar konay kharaiya Aduri'r loge hasahashi kortache.",
+    "dhaka_bangla_speech": "আর ঠোংগা থিকা কি জানি বাইর কইরা ওরে খিলায় দিতাছে।",
+    "dhaka_banglish_speech": "Ar thonga thika ki jani bair koira ore khilai ditache.",
+    "region_name": "dhaka",
+    "english_speech": "And I saw something coming out from the thonga."
+  },
+  {
+    "bangla_speech": "হুজুর এর পর থেইক্কা আমি খিয়াল কইরা দেখছি, পরায় রাইতেই হ্যায় ভি বাইরে যাইবার লাইগ্গা উঠে, উই ছেমরী ভি বাইরে যাইবার লাইগ্গা উঠে। আপনি একটা কিছু করেন হুজুর, আমার পিচ্চি দুইখান মাইয়া।",
+    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "dhaka_bangla_speech": "তুমি চিন্তা কইরো না ছব ঠিক হয়া যাইবো। তুমার সোয়ামীরে পানি পড়া খিলাইতে পারবা নি হেইডা কও?",
+    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "region_name": "dhaka",
+    "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
+  },
+  {
+    "bangla_speech": "হুজুর এর পর থেইক্কা আমি খিয়াল কইরা দেখছি, পরায় রাইতেই হ্যায় ভি বাইরে যাইবার লাইগ্গা উঠে, উই ছেমরী ভি বাইরে যাইবার লাইগ্গা উঠে। আপনি একটা কিছু করেন হুজুর, আমার পিচ্চি দুইখান মাইয়া।",
+    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "dhaka_bangla_speech": "হুজুর এর পর থেইক্কা আমি খিয়াল কইরা দেখছি, পরায় রাইতেই হ্যায় ভি বাইরে যাইবার লাইগ্গা উঠে, উই ছেমরী ভি বাইরে যাইবার লাইগ্গা উঠে। আপনি একটা কিছু করেন হুজুর, আমার পিচ্চি দুইখান মাইয়া।",
+    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "region_name": "dhaka",
+    "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
+  },
+  {
+    "bangla_speech": "হ তা পারুম",
+    "banglish_speech": "H ta parum.",
+    "dhaka_bangla_speech": "বিষন্ন করুন কন্ঠে তরুনীর উত্তর।",
+    "dhaka_banglish_speech": "Bishonno korun konte tarunir uttar.",
+    "region_name": "dhaka",
+    "english_speech": "I can do that,said the girl in a sorrowful tone."
+  },
+  {
+    "bangla_speech": "হ তা পারুম",
+    "banglish_speech": "H ta parum.",
+    "dhaka_bangla_speech": "হ তা পারুম",
+    "dhaka_banglish_speech": "Bishonno korun konte tarunir uttar.",
+    "region_name": "dhaka",
+    "english_speech": "I can do that,said the girl in a sorrowful tone."
+  },
+  {
+    "bangla_speech": "ঐ ছহীদ কই গেলি?",
+    "banglish_speech": "Oi shoheed koi geli?",
+    "dhaka_bangla_speech": "ঐ ছহীদ কই গেলি?",
+    "dhaka_banglish_speech": "Oi shoheed koi geli?",
+    "region_name": "dhaka",
+    "english_speech": "Where did that martyr go?"
+  },
+  {
+    "bangla_speech": "এই যে হুজুর আমি তো এহানেই খাড়ায় আছি।",
+    "banglish_speech": "Ei je hujur ami to ehanai kharaya achi.",
+    "dhaka_bangla_speech": "এই যে হুজুর আমি তো এহানেই খাড়ায় আছি।",
+    "dhaka_banglish_speech": "Ei je hujur ami to ehanai kharaya achi.",
+    "region_name": "dhaka",
+    "english_speech": "Here, sir, I am standing right here."
+  },
+  {
+    "bangla_speech": "এই যে হুজুর আমি তো এহানেই খাড়ায় আছি।",
+    "banglish_speech": "Ei je hujur ami to ehanai kharaya achi.",
+    "dhaka_bangla_speech": "এই যে হুজুর আমি তো এহানেই খাড়ায় আছি।",
+    "dhaka_banglish_speech": "Ei je hujur ami to ehanai kharaya achi.",
+    "region_name": "dhaka",
+    "english_speech": "Here, sir, I am standing right here."
+  },
+  {
+    "bangla_speech": "ওই ঐ যে নীল ডেরামে ছামী বছ করনের লেগা পানি ফু দিয়া রাখছি ঐ খান থিক্কা এক বোতল পানি দিয়া দে, বোতল আনছো নি ? না আনলে আলাদা দশটাক্কা দেওন লাগবো।",
+    "banglish_speech": "Oi oi je nil derame chhami boch koroner lega pani fu diya rakhchi oi khan thikka ek bottle pani diya de, bottle ancho ni? Na anle alada dosh takka deon lagbo.",
+    "dhaka_bangla_speech": "মেয়েটিকে উদ্দেশ্য করে বল্লো বারেক ফকির।",
+    "dhaka_banglish_speech": "Meyetike udeshya kore bolla Barek Fakir.",
+    "region_name": "dhaka",
+    "english_speech": "Barek Fakir said to the girl, 'From that blue drum, give me a bottle of water, haven’t you brought it? If not, you’ll have to pay an extra ten takas.'"
+  },
+  {
+    "bangla_speech": "ওই ঐ যে নীল ডেরামে ছামী বছ করনের লেগা পানি ফু দিয়া রাখছি ঐ খান থিক্কা এক বোতল পানি দিয়া দে, বোতল আনছো নি ? না আনলে আলাদা দশটাক্কা দেওন লাগবো।",
+    "banglish_speech": "Oi oi je nil derame chhami boch koroner lega pani fu diya rakhchi oi khan thikka ek bottle pani diya de, bottle ancho ni? Na anle alada dosh takka deon lagbo.",
+    "dhaka_bangla_speech": "ওই ঐ যে নীল ডেরামে ছামী বছ করনের লেগা পানি ফু দিয়া রাখছি ঐ খান থিক্কা এক বোতল পানি দিয়া দে, বোতল আনছো নি ? না আনলে আলাদা দশটাক্কা দেওন লাগবো।",
+    "dhaka_banglish_speech": "Meyetike udeshya kore bolla Barek Fakir.",
+    "region_name": "dhaka",
+    "english_speech": "Barek Fakir said to the girl, 'From that blue drum, give me a bottle of water, haven’t you brought it? If not, you’ll have to pay an extra ten takas.'"
+  },
+  {
+    "bangla_speech": "না না হুজুর আনছি।",
+    "banglish_speech": "Na na hujur anchi.",
+    "dhaka_bangla_speech": "শহীদ পানি এনে দেয়।",
+    "dhaka_banglish_speech": "Shahid pani enee dey.",
+    "region_name": "dhaka",
+    "english_speech": "No, no, sir, I have brought it,Shahid brings the water."
+  },
+  {
+    "bangla_speech": "না না হুজুর আনছি।",
+    "banglish_speech": "Na na hujur anchi.",
+    "dhaka_bangla_speech": "না না হুজুর আনছি।",
+    "dhaka_banglish_speech": "Shahid pani enee dey.",
+    "region_name": "dhaka",
+    "english_speech": "No, no, sir, I have brought it,Shahid brings the water."
+  },
+  {
+    "bangla_speech": "এই লও, নিয়ম কইরা তিন বেলা খাওয়াইবা কয়া দিলাম। এক ছপ্তাহ পর আবার আইছো।",
+    "banglish_speech": "Ei lao, niyom koira tin bela khawaiba koya dilam. Ek soptah por abar aicho.",
+    "dhaka_bangla_speech": "মেয়েটা দশ টাকা দিয়ে পানির বোতল নিয়ে যায়।",
+    "dhaka_banglish_speech": "Meyeta dosh taka diye panir bottle niye jai.",
+    "region_name": "dhaka",
+    "english_speech": "Here, take this; I told you to feed three times regularly. Come back in a week."
+  },
+  {
+    "bangla_speech": "এই লও, নিয়ম কইরা তিন বেলা খাওয়াইবা কয়া দিলাম। এক ছপ্তাহ পর আবার আইছো।",
+    "banglish_speech": "Ei lao, niyom koira tin bela khawaiba koya dilam. Ek soptah por abar aicho.",
+    "dhaka_bangla_speech": "এই লও, নিয়ম কইরা তিন বেলা খাওয়াইবা কয়া দিলাম। এক ছপ্তাহ পর আবার আইছো",
+    "dhaka_banglish_speech": "Meyeta dosh taka diye panir bottle niye jai.",
+    "region_name": "dhaka",
+    "english_speech": "Here, take this; I told you to feed three times regularly. Come back in a week."
+  },
+  {
+    "bangla_speech": "কিছুক্ষন পর পকেট হাতড়ে কতগুলো খুচরা টাকা বের করে গুনে দরজা দাড়ানো শহীদের দিকে বাড়িয়ে ধরে বারেক ফকির।",
+    "banglish_speech": "Kichukhon por poket hatore kothogulo khuchra taka ber kore gune dorja darano Shahider dike baraiye dhore Barek Fakir.",
+    "dhaka_bangla_speech": "বারেক ফকির বলল, 'আব্বে ঐ ছহীদ , এই ল একছ টাকা, আমার বড় পোলারে দিয়া ক হেরে বাজারে যাইতে, নইলে আইজ খাওন নাইক্কা।'",
+    "dhaka_banglish_speech": "Barek Fakir boll, 'Abbe oi shoheed, ei la ekchh taka, amar boro polare diya k here bazare jaitay, noile aij khawon naikka.'",
+    "region_name": "dhaka",
+    "english_speech": "After a while, Barek Fakir rummaged through his pocket, pulled out some loose change, counted it, and held it out to the standing Shahid, saying, 'Here, take this money. Let my elder son go to the market, or he won't have food today.'"
+  },
+  {
+    "bangla_speech": "কিছুক্ষন পর পকেট হাতড়ে কতগুলো খুচরা টাকা বের করে গুনে দরজা দাড়ানো শহীদের দিকে বাড়িয়ে ধরে বারেক ফকির।",
+    "banglish_speech": "Kichukhon por poket hatore kothogulo khuchra taka ber kore gune dorja darano Shahider dike baraiye dhore Barek Fakir.",
+    "dhaka_bangla_speech": "কিছুক্ষন পর পকেট হাতড়ে কতগুলো খুচরা টাকা বের করে গুনে দরজা দাড়ানো শহীদের দিকে বাড়িয়ে ধরে বারেক ফকির।",
+    "dhaka_banglish_speech": "Barek Fakir boll, 'Abbe oi shoheed, ei la ekchh taka, amar boro polare diya k here bazare jaitay, noile aij khawon naikka.'",
+    "region_name": "dhaka",
+    "english_speech": "After a while, Barek Fakir rummaged through his pocket, pulled out some loose change, counted it, and held it out to the standing Shahid, saying, 'Here, take this money. Let my elder son go to the market, or he won't have food today.'"
+  },
+  {
+    "bangla_speech": "কিছুক্ষন পর হুজুর তাকিয়ে দেখলো পেছনে একটা ১৮ /২০ বছরের ছেলে পেটে হাত দিয়ে বসা।",
+    "banglish_speech": "Kichukhon por hujur takiye dekhlo pechone ekta 18/20 bochorer chele pete haat diye basa.",
+    "dhaka_bangla_speech": "পাড়ার ছেলে মুখ চেনা।",
+    "dhaka_banglish_speech": "Parar chele muk chena.",
+    "region_name": "dhaka",
+    "english_speech": "A little later, the sir looked back and saw a boy around 18 or 20 years old sitting with his hand on his stomach. He recognized him as a boy from the neighborhood."
+  },
+  {
+    "bangla_speech": "কিছুক্ষন পর হুজুর তাকিয়ে দেখলো পেছনে একটা ১৮ /২০ বছরের ছেলে পেটে হাত দিয়ে বসা।",
+    "banglish_speech": "Kichukhon por hujur takiye dekhlo pechone ekta 18/20 bochorer chele pete haat diye basa.",
+    "dhaka_bangla_speech": "কিছুক্ষন পর হুজুর তাকিয়ে দেখলো পেছনে একটা ১৮ /২০ বছরের ছেলে পেটে হাত দিয়ে বসা।",
+    "dhaka_banglish_speech": "Parar chele muk chena.",
+    "region_name": "dhaka",
+    "english_speech": "A little later, the sir looked back and saw a boy around 18 or 20 years old sitting with his hand on his stomach. He recognized him as a boy from the neighborhood."
+  },
+  {
+    "bangla_speech": "'কি অইছে তুমি অখন আইছো কেলা ? তুমি জানোনা অখন মাইয়া মাইনছের টাইম। বিকালে আহো তখন ছুনমুনে।'",
+    "banglish_speech": "'Ki oise tumi akhon aichho kela? Tumi janona akhon maiya maincher time. Bikal e aho tokhon shunmune.'",
+    "dhaka_bangla_speech": "'হুজুর আমি জানি , মাগার বহুৎ বিপদে পইরা আইছি এই টাইমে।'",
+    "dhaka_banglish_speech": "'Hujur ami jani, magar bahut bipode poira aichhi ei time.'",
+    "region_name": "dhaka",
+    "english_speech": "'What are you doing here at this time? You know it’s the time for the girls. Come in the evening when it’s quiet,' the sir said. 'I know, sir, but I've come here in a lot of trouble.'"
+  },
+  {
+    "bangla_speech": "'কি অইছে তুমি অখন আইছো কেলা ? তুমি জানোনা অখন মাইয়া মাইনছের টাইম। বিকালে আহো তখন ছুনমুনে।'",
+    "banglish_speech": "'Ki oise tumi akhon aichho kela? Tumi janona akhon maiya maincher time. Bikal e aho tokhon shunmune.'",
+    "dhaka_bangla_speech": "কি অইছে তুমি অখন আইছো কেলা ? তুমি জানোনা অখন মাইয়া মাইনছের টাইম। বিকালে আহো তখন ছুনমুনে।",
+    "dhaka_banglish_speech": "'Hujur ami jani, magar bahut bipode poira aichhi ei time.'",
+    "region_name": "dhaka",
+    "english_speech": "'What are you doing here at this time? You know it’s the time for the girls. Come in the evening when it’s quiet,' the sir said. 'I know, sir, but I've come here in a lot of trouble.'"
+  },
+  {
+    "bangla_speech": "হ বিপদে পড়লেই তো আমার কাছে মাইনছে আহে, হুদাইতো আর আহেনা, তাড়াতাড়ি কও দেহি কি হইছে?",
+    "banglish_speech": "H bipode porle to amar kache mainchhe ahe, hudaito ar ahena, taratari ko dehi ki hoise?",
+    "dhaka_bangla_speech": "হুজুর, মহিলারা বিরক্তির নয়নে ছেলেটার দিকে তাকিয়ে রইলো।",
+    "dhaka_banglish_speech": "Hujur, mohilara birktir noine cheletar dike takiye roilo.",
+    "region_name": "dhaka",
+    "english_speech": "'When you get into trouble, you come to me. Otherwise, you don’t come at all. Quickly, tell me what happened?' The women stared at the boy with annoyance."
+  },
+  {
+    "bangla_speech": "হ বিপদে পড়লেই তো আমার কাছে মাইনছে আহে, হুদাইতো আর আহেনা, তাড়াতাড়ি কও দেহি কি হইছে?",
+    "banglish_speech": "H bipode porle to amar kache mainchhe ahe, hudaito ar ahena, taratari ko dehi ki hoise?",
+    "dhaka_bangla_speech": "হ বিপদে পড়লেই তো আমার কাছে মাইনছে আহে, হুদাইতো আর আহেনা, তাড়াতাড়ি কও দেহি কি হইছে",
+    "dhaka_banglish_speech": "Hujur, mohilara birktir noine cheletar dike takiye roilo.",
+    "region_name": "dhaka",
+    "english_speech": "'When you get into trouble, you come to me. Otherwise, you don’t come at all. Quickly, tell me what happened?' The women stared at the boy with annoyance."
+  },
+  {
+    "bangla_speech": "হুজুর আপনি তো কাল্লু মাতব্বররে চিনেন?",
+    "banglish_speech": "Hujur apni to Kallu Matbbarre chinen?",
+    "dhaka_bangla_speech": "হুজুর মাথাটা নাড়তেই ছেলেটি বল্লো,",
+    "dhaka_banglish_speech": "Hujur mathata nardai cheleti bollo,",
+    "region_name": "dhaka",
+    "english_speech": "'Sir, do you know Kallu Matbar?' The boy said as the sir nodded his head."
+  },
+  {
+    "bangla_speech": "হুজুর আপনি তো কাল্লু মাতব্বররে চিনেন?",
+    "banglish_speech": "Hujur apni to Kallu Matbbarre chinen?",
+    "dhaka_bangla_speech": "হুজুর আপনি তো কাল্লু মাতব্বররে চিনেন?",
+    "dhaka_banglish_speech": "Hujur mathata nardai cheleti bollo,",
+    "region_name": "dhaka",
+    "english_speech": "'Sir, do you know Kallu Matbar?' The boy said as the sir nodded his head."
+  },
+  {
+    "bangla_speech": "হুজুর হের পুলা ছপন আমার ন্যাংটা কালের দোস্ত।",
+    "banglish_speech": "Hujur her pula Shopon amar nyangta kaler dost.",
+    "dhaka_bangla_speech": "ছেদিন মোড়ের মাথায় খারায় রইছি, উই জানি কইথিক্কা লৌড় পাইরা আইলো কইবার পারুম না।",
+    "dhaka_banglish_speech": "Cheidin more rastae kharaya roichi, ui jani koithikka laur paira ailo koibar parum na.",
+    "region_name": "dhaka",
+    "english_speech": "'That guy, Shapon, is my naked friend from yesterday. The other day, I was standing at the corner, and he came running, but I can’t say where he got it from.'"
+  },
+  {
+    "bangla_speech": "হুজুর হের পুলা ছপন আমার ন্যাংটা কালের দোস্ত।",
+    "banglish_speech": "Hujur her pula Shopon amar nyangta kaler dost.",
+    "dhaka_bangla_speech": "হুজুর হের পুলা ছপন আমার ন্যাংটা কালের দোস্ত।",
+    "dhaka_banglish_speech": "Cheidin more rastae kharaya roichi, ui jani koithikka laur paira ailo koibar parum na.",
+    "region_name": "dhaka",
+    "english_speech": "'That guy, Shapon, is my naked friend from yesterday. The other day, I was standing at the corner, and he came running, but I can’t say where he got it from.'"
+  },
+  {
+    "bangla_speech": "'আমারে কয়, 'দোস্ত এই জিনিসটা একটু রাখবার পাড়বি'? কইয়া আমার হাতে কাগজে পেচাইনা কি এক্ষান পেকিট ধরায়া দিয়াই আবার লৌড়।'",
+    "banglish_speech": "'Amare koy, 'Dost ei jinish ta ektu rakhar parbi'? Koiya amar hate kagoj pechaina ki ekshan packet dhoraya diyi abar laur.'",
+    "dhaka_bangla_speech": "সে কাগজে পেচিয়ে একটা পেকেট ধরায়া দিলো।",
+    "dhaka_banglish_speech": "Se kagoj pechiye ekta packet dhoraya dilo.",
+    "region_name": "dhaka",
+    "english_speech": "'He told me, 'Friend, can you keep this for a bit?' And gave me a packet wrapped in paper, then ran off again.'"
+  },
+  {
+    "bangla_speech": "'আমারে কয়, 'দোস্ত এই জিনিসটা একটু রাখবার পাড়বি'? কইয়া আমার হাতে কাগজে পেচাইনা কি এক্ষান পেকিট ধরায়া দিয়াই আবার লৌড়।'",
+    "banglish_speech": "'Amare koy, 'Dost ei jinish ta ektu rakhar parbi'? Koiya amar hate kagoj pechaina ki ekshan packet dhoraya diyi abar laur.'",
+    "dhaka_bangla_speech": "আমারে কয়, 'দোস্ত এই জিনিসটা একটু রাখবার পাড়বি'? কইয়া আমার হাতে কাগজে পেচাইনা কি এক্ষান পেকিট ধরায়া দিয়াই আবার লৌড়।",
+    "dhaka_banglish_speech": "Se kagoj pechiye ekta packet dhoraya dilo.",
+    "region_name": "dhaka",
+    "english_speech": "'He told me, 'Friend, can you keep this for a bit?' And gave me a packet wrapped in paper, then ran off again.'"
+  },
+  {
+    "bangla_speech": "আমি চুপি দিয়া চায়া দেখি হেইডার মধ্যে এক খান পিস্তল!",
+    "banglish_speech": "Ami chupi diya chaya dekhi heidar modhye ek khan pistol!",
+    "dhaka_bangla_speech": "দেইখাতো আমি ফিট হয়া যাইবার লাগছিলাম হুজু..র!",
+    "dhaka_banglish_speech": "Deikhato ami fit hoya jaibar lagchhilo hujur!",
+    "region_name": "dhaka",
+    "english_speech": "I quietly looked and saw a gun inside it! I was about to faint, sir!"
+  },
+  {
+    "bangla_speech": "আমি চুপি দিয়া চায়া দেখি হেইডার মধ্যে এক খান পিস্তল!",
+    "banglish_speech": "Ami chupi diya chaya dekhi heidar modhye ek khan pistol!",
+    "dhaka_bangla_speech": "আমি চুপি দিয়া চায়া দেখি হেইডার মধ্যে এক খান পিস্তল",
+    "dhaka_banglish_speech": "Deikhato ami fit hoya jaibar lagchhilo hujur!",
+    "region_name": "dhaka",
+    "english_speech": "I quietly looked and saw a gun inside it! I was about to faint, sir!"
+  },
+  {
+    "bangla_speech": "যাউক্গ্গা তাড়াতাড়ি বাইত আয়া চক্কির নিচে আমার টেরাংকের মইধ্যে হান্দায় থুইলাম।",
+    "banglish_speech": "Jaukga taratari bait aya chokkir niche amar teranker moidye handay thuilam.",
+    "dhaka_bangla_speech": "ছক্কাল বেলা হ্যায় আয়া কইলো 'কাইলকার জিনিছটা দে',",
+    "dhaka_banglish_speech": "Chokkhal bela hay aya koilo 'kailkar jinish ta de',",
+    "region_name": "dhaka",
+    "english_speech": "I hurried home and hid it in my pants. Later, he came and said, 'Give me that thing from yesterday.'"
+  },
+  {
+    "bangla_speech": "যাউক্গ্গা তাড়াতাড়ি বাইত আয়া চক্কির নিচে আমার টেরাংকের মইধ্যে হান্দায় থুইলাম।",
+    "banglish_speech": "Jaukga taratari bait aya chokkir niche amar teranker moidye handay thuilam.",
+    "dhaka_bangla_speech": "যাউক্গ্গা তাড়াতাড়ি বাইত আয়া চক্কির নিচে আমার টেরাংকের মইধ্যে হান্দায় থুইলাম",
+    "dhaka_banglish_speech": "Chokkhal bela hay aya koilo 'kailkar jinish ta de',",
+    "region_name": "dhaka",
+    "english_speech": "I hurried home and hid it in my pants. Later, he came and said, 'Give me that thing from yesterday.'"
+  },
+  {
+    "bangla_speech": "আমি ডরে ডরে বাইর কইরা দিলাম।",
+    "banglish_speech": "Ami dore dore bair koira dilam.",
+    "dhaka_bangla_speech": "কইলো, 'ছন্ধ্যা বেলায় আমগো বাইত আহিছ , তরে হাজীর বিরানী খিলামু'।",
+    "dhaka_banglish_speech": "Koilo, 'Chondhya belay amgo bait aahich, tore Haji'r birani khilamu'.",
+    "region_name": "dhaka",
+    "english_speech": "I fearfully handed it over. He said, 'Come to our place in the evening, I will feed you Haji's biryani.'"
+  },
+  {
+    "bangla_speech": "আমি ডরে ডরে বাইর কইরা দিলাম।",
+    "banglish_speech": "Ami dore dore bair koira dilam.",
+    "dhaka_bangla_speech": "আমি ডরে ডরে বাইর কইরা দিলাম।",
+    "dhaka_banglish_speech": "Koilo, 'Chondhya belay amgo bait aahich, tore Haji'r birani khilamu'.",
+    "region_name": "dhaka",
+    "english_speech": "I fearfully handed it over. He said, 'Come to our place in the evening, I will feed you Haji's biryani.'"
+  },
+  {
+    "bangla_speech": "হুজু..র ইমানে কইতাছি হাজীর বিরানীর কথা ছুইনা লোভ ছামলাইতে পারিনাইক্কা, গেলাম।",
+    "banglish_speech": "Hujur imane koitachi Haji'r birani'r kotha shuina lovh shamalayte parinaikka, gelam.",
+    "dhaka_bangla_speech": "আরো বহুৎ কিছু আছিলো মাগার আমি আর কিচ্ছু খাই নাইক্কা, ইমানে কইতাছি।",
+    "dhaka_banglish_speech": "Aro bahut kichu asilo magar ami ar kichhu khaikna, imane koitachi.",
+    "region_name": "dhaka",
+    "english_speech": "I swear, I couldn’t resist the temptation of Haji's biryani; I went. There were many other things, but I didn’t eat anything else, I swear."
+  },
+  {
+    "bangla_speech": "হুজু..র ইমানে কইতাছি হাজীর বিরানীর কথা ছুইনা লোভ ছামলাইতে পারিনাইক্কা, গেলাম।",
+    "banglish_speech": "Hujur imane koitachi Haji'r birani'r kotha shuina lovh shamalayte parinaikka, gelam.",
+    "dhaka_bangla_speech": "হুজু..র ইমানে কইতাছি হাজীর বিরানীর কথা ছুইনা লোভ ছামলাইতে পারিনাইক্কা, গেলাম।",
+    "dhaka_banglish_speech": "Aro bahut kichu asilo magar ami ar kichhu khaikna, imane koitachi.",
+    "region_name": "dhaka",
+    "english_speech": "I swear, I couldn’t resist the temptation of Haji's biryani; I went. There were many other things, but I didn’t eat anything else, I swear."
+  },
+  {
+    "bangla_speech": "কিন্ত রাইতে থিকা হুজু..র আমার এমুন পেট ছুটলো যে কয়া পারুমনা।",
+    "banglish_speech": "Kintu raite thika hujur amar emun pet chutlo je koya parum na.",
+    "dhaka_bangla_speech": "ছক্কাল বেলা আমারে বদনা লয়া আমারে বাইর বাড়ীতে লৌড় পারতে দেইখা আমার মায়ে জিগাইলো 'কি অইছে তর'?",
+    "dhaka_banglish_speech": "Chokkhal bela amare bodna laya amare bair barite lour parite deikha amar ma jigaillo 'Ki oise tor'?",
+    "region_name": "dhaka",
+    "english_speech": "But at night, my stomach was in such turmoil that I can't explain it. When I went out, my mother saw me and asked, 'What happened to you?'"
+  },
+  {
+    "bangla_speech": "কিন্ত রাইতে থিকা হুজু..র আমার এমুন পেট ছুটলো যে কয়া পারুমনা।",
+    "banglish_speech": "Kintu raite thika hujur amar emun pet chutlo je koya parum na.",
+    "dhaka_bangla_speech": "কিন্ত রাইতে থিকা হুজু..র আমার এমুন পেট ছুটলো যে কয়া পারুমনা।",
+    "dhaka_banglish_speech": "Chokkhal bela amare bodna laya amare bair barite lour parite deikha amar ma jigaillo 'Ki oise tor'?",
+    "region_name": "dhaka",
+    "english_speech": "But at night, my stomach was in such turmoil that I can't explain it. When I went out, my mother saw me and asked, 'What happened to you?'"
+  },
+  {
+    "bangla_speech": "মায়েরে ছব ঘটনা খুইলা কইলাম।",
+    "banglish_speech": "Maire chob ghotona khuina koilam.",
+    "dhaka_bangla_speech": "হুইনা হ্যায়তো চিল্লায়া বাড়ি মাথায় তুইলা ফালাইলো,",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "I explained the whole incident to my mother. Hearing that, she screamed and threw the house on her head,"
+  },
+  {
+    "bangla_speech": "মায়েরে ছব ঘটনা খুইলা কইলাম।",
+    "banglish_speech": "Maire chob ghotona khuina koilam.",
+    "dhaka_bangla_speech": "মায়েরে ছব ঘটনা খুইলা কইলাম।,",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "I explained the whole incident to my mother. Hearing that, she screamed and threw the house on her head,"
+  },
+  {
+    "bangla_speech": "কইলো হেই হারামীর পুত নিশ্চয় তরে বান মারছে, নইলে হাজীর বিরানী খায়া তর এমুন অইবো কেলা।",
+    "banglish_speech": "Koilo, \"Hei haramir put nishchoy tore ban marse, noile Haji'r birani khaiya tor emun oibo kela.\"",
+    "dhaka_bangla_speech": "অক্ষন হুজুরের কাছে যা।",
+    "dhaka_banglish_speech": "Akshon Hujurer kache ja.",
+    "region_name": "dhaka",
+    "english_speech": "She said, 'That son of a bitch is definitely enchanting you; otherwise, how would you end up like this after eating Haji's biryani? Go to the sir immediately.'"
+  },
+  {
+    "bangla_speech": "কইলো হেই হারামীর পুত নিশ্চয় তরে বান মারছে, নইলে হাজীর বিরানী খায়া তর এমুন অইবো কেলা।",
+    "banglish_speech": "Koilo, \"Hei haramir put nishchoy tore ban marse, noile Haji'r birani khaiya tor emun oibo kela.\"",
+    "dhaka_bangla_speech": "কইলো হেই হারামীর পুত নিশ্চয় তরে বান মারছে, নইলে হাজীর বিরানী খায়া তর এমুন অইবো কেলা।",
+    "dhaka_banglish_speech": "Akshon Hujurer kache ja.",
+    "region_name": "dhaka",
+    "english_speech": "She said, 'That son of a bitch is definitely enchanting you; otherwise, how would you end up like this after eating Haji's biryani? Go to the sir immediately.'"
+  },
+  {
+    "bangla_speech": "এর লেগাই এই টাইমে আইছি হুজুর'।",
+    "banglish_speech": "Er legai ei time aichhi hujur.",
+    "dhaka_bangla_speech": "হুজুর একটা তাবিজ আর তার ড্রামে ভরা যাদু টোনা দুর করার ফু দেয়া পড়া পানি এক বোতল দিয়ে তিন বেলা নিয়ম করে খেতে বল্লো।",
+    "dhaka_banglish_speech": "Hujur ekta tabij ar tar drum-e bhora jadu tona dur korar fu deya pora pani ek bottle diye tin bela niyom kore khate bollo.",
+    "region_name": "dhaka",
+    "english_speech": "I came to you for this reason, sir.' The sir gave me a talisman and a bottle of water filled with the magic spell to ward off evil, telling me to drink it regularly three times a day."
+  },
+  {
+    "bangla_speech": "এর লেগাই এই টাইমে আইছি হুজুর'।",
+    "banglish_speech": "Er legai ei time aichhi hujur.",
+    "dhaka_bangla_speech": "এর লেগাই এই টাইমে আইছি হুজুর",
+    "dhaka_banglish_speech": "Hujur ekta tabij ar tar drum-e bhora jadu tona dur korar fu deya pora pani ek bottle diye tin bela niyom kore khate bollo.",
+    "region_name": "dhaka",
+    "english_speech": "I came to you for this reason, sir.' The sir gave me a talisman and a bottle of water filled with the magic spell to ward off evil, telling me to drink it regularly three times a day."
+  },
+  {
+    "bangla_speech": "হ তর মায়ে ঠিকই কইছে।",
+    "banglish_speech": "H tor maaye thikoi koichhe.",
+    "dhaka_bangla_speech": "তর বাপ এক পাট্টি করে, ছপনের বাপ কাল্লু মাতবর আরেক পাট্টি।",
+    "dhaka_banglish_speech": "Tor bap ek patti kore, Shoponer bap Kallu Matbor arek patti.",
+    "region_name": "dhaka",
+    "english_speech": "'Your mother is right. Your father is part of one group, and Shopon's father, Kallu Matbar, is in another. It's not good to eat at their house.'"
+  },
+  {
+    "bangla_speech": "হ তর মায়ে ঠিকই কইছে।",
+    "banglish_speech": "H tor maaye thikoi koichhe.",
+    "dhaka_bangla_speech": "হ তর মায়ে ঠিকই কইছে।",
+    "dhaka_banglish_speech": "Tor bap ek patti kore, Shoponer bap Kallu Matbor arek patti.",
+    "region_name": "dhaka",
+    "english_speech": "'Your mother is right. Your father is part of one group, and Shopon's father, Kallu Matbar, is in another. It's not good to eat at their house.'"
+  },
+  {
+    "bangla_speech": "হুজুরের কথায় ছেলেটি চিৎকার করে কেঁদে উঠে,",
+    "banglish_speech": "Hujurer kothay cheleti chhikar kore kede uthe,",
+    "dhaka_bangla_speech": "\"হুজুর আমারে বাঁচান, এমুন কাম আমি আর জীন্দেগীতেও করুম না, কছম কইবার লাগছি'।",
+    "dhaka_banglish_speech": "\"Hujur amake bachan, emun kam ami ar jindegiteo korum na, kachham koibar lagchhi.'",
+    "region_name": "dhaka",
+    "english_speech": "Hearing the sir's words, the boy cried out, 'Sir, save me! I will never do such things again in my life, I swear!'"
+  },
+  {
+    "bangla_speech": "হুজুরের কথায় ছেলেটি চিৎকার করে কেঁদে উঠে,",
+    "banglish_speech": "Hujurer kothay cheleti chhikar kore kede uthe,",
+    "dhaka_bangla_speech": "হুজুরের কথায় ছেলেটি চিৎকার করে কেঁদে উঠে।",
+    "dhaka_banglish_speech": "\"Hujur amake bachan, emun kam ami ar jindegiteo korum na, kachham koibar lagchhi.'",
+    "region_name": "dhaka",
+    "english_speech": "Hearing the sir's words, the boy cried out, 'Sir, save me! I will never do such things again in my life, I swear!'"
+  },
+  {
+    "bangla_speech": "'আইচ্ছা অহন যা পানি পড়া দিছি লগে তাবিজ ভী দিছি কুনো ডর নাইক্কা।'",
+    "banglish_speech": "'Aichha ahon ja pani pora dishi loge tabij bhi dishi kuno dor naikka.'",
+    "dhaka_bangla_speech": "আইচ্ছা অহন যা পানি পড়া দিছি লগে তাবিজ ভী দিছি কুনো ডর নাইক্কা'!",
+    "dhaka_banglish_speech": "Chhob ban tan khaite jaibo, amar tabijer kotha ki tui janochhena'!",
+    "region_name": "dhaka",
+    "english_speech": "'Alright, now take the water I've given you along with the talisman; you have nothing to fear. Do you not know the power of my talisman?'"
+  },
+  {
+    "bangla_speech": "'ছব বাণ টান কাইটা যাইবো, আমার তাবিজের কথা কি তুই জানোছনা'",
+    "banglish_speech": "'Aichha ahon ja pani pora dishi loge tabij bhi dishi kuno dor naikka.'",
+    "dhaka_bangla_speech": "ছব বাণ টান কাইটা যাইবো, আমার তাবিজের কথা কি তুই জানোছনা'!",
+    "dhaka_banglish_speech": "Chhob ban tan khaite jaibo, amar tabijer kotha ki tui janochhena'!",
+    "region_name": "dhaka",
+    "english_speech": "'Alright, now take the water I've given you along with the talisman; you have nothing to fear. Do you not know the power of my talisman?'"
+  },
+  {
+    "bangla_speech": "'হ হুজুর তাতো জানি, হের লেগায় মায় আপনার কাছে আইবার কইলো জলদি কইরা'।",
+    "banglish_speech": "'H Hujur tate jani, her legay ma apnar kache aibar koilo joldi koira.'",
+    "dhaka_bangla_speech": "হ হুজুর তাতো জানি, হের লেগায় মায় আপনার কাছে আইবার কইলো জলদি কইরা",
+    "dhaka_banglish_speech": "H Hujur tate jani, her legay ma apnar kache aibar koilo joldi koira",
+    "region_name": "dhaka",
+    "english_speech": "'Yes, sir, I know that; she said to come to you quickly because of him.'"
+  },
+  {
+    "bangla_speech": "ঐ ছহীদ টাইম কয়টা'? মুখ না তুলেই বারেক ফকির প্রশ্ন করে।",
+    "banglish_speech": "Oi Shahid time koyta'? Muk na tulei Barek Fakir proshno kore.",
+    "dhaka_bangla_speech": "ঐ ছহীদ টাইম কয়টা'? মুখ না তুলেই বারেক ফকির প্রশ্ন করে।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'What time is it, Shahid?' Without raising his head, Barek Fakir asked."
+  },
+  {
+    "bangla_speech": "'হুজু..র পরায় একটা বাজ বার লাগছে' শহীদের উত্তর ।",
+    "banglish_speech": "'Hujur poray ekta baj bar lagse' Shahider uttar.",
+    "dhaka_bangla_speech": "'হুজু..র পরায় একটা বাজ বার লাগছে' শহীদের উত্তর ।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'Sir, it's about to strike the hour,' replied Shahid."
+  },
+  {
+    "bangla_speech": "'হায় হায় নামাজের ছময় হয়া আসলো দেখতাছি, এই তোমরা উঠো উঠো কাইল আইছো'।",
+    "banglish_speech": "'Hay hay namazer chhomo hoiya aslo dekhtechi, ei tomra utho utho kail aichho.'",
+    "dhaka_bangla_speech": "'হায় হায় নামাজের ছময় হয়া আসলো দেখতাছি, এই তোমরা উঠো উঠো কাইল আইছো'।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'Oh no, the prayer time has arrived; I see you all have just come in.'"
+  },
+  {
+    "bangla_speech": "বিমর্ষ বদনে বাকী মহিলারা উঠে দাড়ায়, একজন জানতে চায়,",
+    "banglish_speech": "Bimorsho bodne baki mohilar uthe daray, ekjon jante chay,",
+    "dhaka_bangla_speech": "বিমর্ষ বদনে বাকী মহিলারা উঠে দাড়ায়, একজন জানতে চায়,",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "The gloomy-faced remaining women stood up, and one asked,"
+  },
+  {
+    "bangla_speech": "'হুজু..র কাইল বইবেনতো না কি'?",
+    "banglish_speech": "'Hujur kail boiben to na ki'?",
+    "dhaka_bangla_speech": "'হুজু..র কাইল বইবেনতো না কি'?",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'Sir, won’t you recite today?'"
+  },
+  {
+    "bangla_speech": "'হ হ বহুম না কেলা ! এইডা আবার কেমুন কথা কইতাছো'!",
+    "banglish_speech": "'H H bohum na kela! Eida abar kemun kotha koitacho!'",
+    "dhaka_bangla_speech": "'হ হ বহুম না কেলা ! এইডা আবার কেমুন কথা কইতাছো'!",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'No, no, what are you talking about?'"
+  },
+  {
+    "bangla_speech": "'না এমনি জিগাইলাম'।",
+    "banglish_speech": "'Na emni jigailem.'",
+    "dhaka_bangla_speech": "'না এমনি জিগাইলাম'।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "'I was just asking.'"
+  },
+  {
+    "bangla_speech": "সবাই চলে যাওয়ার পর ঘরে ঢুকে বারেক ফকির দেখলো ছোটো ছোটো বাচ্চাগুলো ভাতের জন্য মাটিতে বসে কান্নাকাটি করছে আর কমলা বিছানায় শুয়ে অসহায় দৃস্টিতে তাকিয়ে আছে।",
+    "banglish_speech": "Sobai chole jawar por ghore dhuke Barek Fakir dekhlo chhoto chhoto bachchagulo bhater jonno matite bose kannakati korche ar Komola bichanay shuye oshohay drishti te takiye ache.",
+    "dhaka_bangla_speech": "সবাই চলে যাওয়ার পর ঘরে ঢুকে বারেক ফকির দেখলো ছোটো ছোটো বাচ্চাগুলো ভাতের জন্য মাটিতে বসে কান্নাকাটি করছে আর কমলা বিছানায় শুয়ে অসহায় দৃস্টিতে তাকিয়ে আছে।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "After everyone left, Barek Fakir entered the room and saw the little children crying on the floor for rice, while Komola lay helplessly on the bed, looking on."
+  },
+  {
+    "bangla_speech": "লগে লগে চৌক্ষের মধ্যে মুন্নীর মার চেহারাডা একবার চিল্লিক দিয়া উঠলো, যার খছম কিনা আদুরীর লগে আছনাই করবার লাগছে।",
+    "banglish_speech": "Loge loge choykher moddhe Munni'r ma'r cheharada ekbar chillik diya uthlo, jar khoshom kina Aduri'r loge achonai korbar lagche.",
+    "dhaka_bangla_speech": "লগে লগে চৌক্ষের মধ্যে মুন্নীর মার চেহারাডা একবার চিল্লিক দিয়া উঠলো, যার খছম কিনা আদুরীর লগে আছনাই করবার লাগছে।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "Suddenly, in his mind's eye, Barek saw Munni's mother's face flash, questioning why her husband wasn't with Aduri. He felt he might need to marry again."
+  },
+  {
+    "bangla_speech": "না আরেকটা বিয়ে করনই লাগবো দেখতাছি। কমলির কথা আর ফালান যাইবো না।",
+    "banglish_speech": "Na arekta biye koronai lagbo dekhatchi. Komolar kotha ar phalan jaibo na.",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "dhaka_bangla_speech": "না আরেকটা বিয়ে করনই লাগবো দেখতাছি। কমলির কথা আর ফালান যাইবো না।",
+    "region_name": "dhaka",
+    "english_speech": "I see I might have to marry again. I won't mention Komola anymore."
+  },
+  {
+    "bangla_speech": "কিন্ত ছারাদিনে মাইনছের দেওয়া এই দছ বিছ টাকা দিয়া এত্ত বড় ছংসারটা চলবো কেমতে এইডা ভাইবা মাথাডা কেমুন জানি চক্কর দিয়া উঠলো আর খাড়ায় থাকবার পারতাছিনা ।",
+    "banglish_speech": "Kintu charadin e maincher deya ei dosh bichhota diye etto boro chhongsar ta cholbo kemte eida bhaiba mathada kemon jani chakkor diya uthlo ar kharaya thakbar partachina.",
+    "dhaka_bangla_speech": "কিন্ত ছারাদিনে মাইনছের দেওয়া এই দছ বিছ টাকা দিয়া এত্ত বড় ছংসারটা চলবো কেমতে এইডা ভাইবা মাথাডা কেমুন জানি চক্কর দিয়া উঠলো আর খাড়ায় থাকবার পারতাছিনা ।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "But thinking about how to run this large household with only ten taka given by the children all day made his head spin, and he couldn't stand anymore."
+  },
+  {
+    "bangla_speech": "বলে ধ্বপ করে বসে পড়লো বারেক ফকির কমলির পায়ের কাছে।",
+    "banglish_speech": "Bole dhop kore bose porlo Barek Fakir Komolar payer kache.",
+    "dhaka_bangla_speech": "বলে ধ্বপ করে বসে পড়লো বারেক ফকির কমলির পায়ের কাছে।",
+    "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
+    "region_name": "dhaka",
+    "english_speech": "Saying this, Barek Fakir dropped down and sat at Komola's feet."
+  }
+]
