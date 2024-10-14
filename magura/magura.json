@@ -673,51 +673,51 @@
 
   {
     "bangla_speech": "আজকে আসলাম আপানাদের মধ্যে আরোএকটা গল্প বলতে",
-    "magura_speech": "achke alam apnager modde aratta golpo koti.",
+    "magura_speech": "",
     "Magura_bangla_speech": "আচকের দেহানে তোমাগো মদ্দে আরাট্টা গল্প কতি।",
-    "Magura_magura_speech": "achker dehane tomago modde aratta golpo koti.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Today, I will tell you all a small story."
+    "english_speech": "Today I came to tell another story among you."
   },
   {
     "bangla_speech": " একটু  ভালো করে মনে করে দেখেন আমারা যখন এইটূকু ছিলাম",
-    "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
+    "magura_speech": "",
     "Magura_bangla_speech": "ইট্টু বালো করে মনে করে দেহেন আমরা যহনে এট্টুক ছিলাম",
-    "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
+    "english_speech": "Think back to when we were like this."
   },
   {
     "bangla_speech": "তখন আমরা আমাদের মার মুখথেকে কেবল একটু একটু  করে কথা বলা শিখেছি",
-    "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
+    "magura_speech": "",
     "Magura_bangla_speech": "তহনে আমরা আমাগের মার মুহিত্তে কেবলডা ইট্টু ইট্টু করে কতা কওয়া শিহিছি।",
-    "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
+    "english_speech": "Then we learned to speak only little by little from our mother."
   },
   {
     "bangla_speech": "তখন  আমরা আমাদের মার মুখথেকে কেবল একটু একটু  করে কথা বলেছিলাম।",
-    "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
+    "magura_speech": "",
     "Magura_bangla_speech": "তহানে আমরা আমাগো মার মুহিত্তে কেবল ইট্টু ইট্টু কইরা কতা কইছিলাম।",
-    "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
+    "english_speech": "Then we spoke only a little from our mother."
   },
   {
     "bangla_speech": "আমরা তখন থেকে আমাদের নিজেদের ভাষায় কথা বলা শুরু করেছি।",
-    "magura_speech": "amra koil sehone amager nijiger vashay kotha koa shuru korichi.",
+    "magura_speech": "",
     "Magura_bangla_speech": "আমরা কৈল সেহানে আমাগো নিজিগো ভাষায় কতা কওয়া শুরু করিচি।",
-    "Magura_magura_speech": "amra koil sehane amago nijigo vashay kotha koa shuru korichi.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Then, we started speaking in our own language."
+    "english_speech": "We have since started speaking our own language.."
   },
   {
     "bangla_speech": "আর সেই ভাষাটাই তখন আমাদের আঞ্চলিক ভাষা।",
-    "magura_speech": "ar shei bashadai koil amager ancholik basha.",
+    "magura_speech": "",
     "Magura_bangla_speech": "আর সেই ভাষাডাই কৈল আমাগো আঞ্চলিক ভাষা।",
-    "Magura_magura_speech": "ar shei bhasadai koil amago ancholik vasha.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "And that language is now our regional language."
+    "english_speech": ""
   },
   {
     "bangla_speech": "আজকে সময়ের ব্যবধানে আমরা তা আরও ফেলেচ্ছি।",
