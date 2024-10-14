@@ -459,7 +459,7 @@
     "region_name": "dhaka",
     "english_speech": "Barek Fakir's head bowed as he spoke"
   },
-  
+
   {
     "bangla_speech": "না একটা বিয়ে করাই লাগবে দেখতেছি",
     "banglish_speech": "",
@@ -572,7 +572,7 @@
     "region_name": "dhaka",
     "english_speech": "In the right hand is an oil polished wooden tasbi."
   },
-  
+
   {
     "bangla_speech": "সালাম হুজুর, মহিলারা সমস্বরে বলে উঠে।",
     "banglish_speech": "",
@@ -661,16 +661,9 @@
     "region_name": "dhaka",
     "english_speech": ""
   },
+
   {
-    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
-    "banglish_speech": "",
-    "dhaka_bangla_speech": "তার হাল্কা কাঁচা পাকা মেহেদী লাগানো দাড়িতে বা হাত বুলাতে বুলাতে সামনে বসা বাচ্চা আলা মেয়েটাকে জিজ্ঞেস করে?",
-    "dhaka_banglish_speech": "",
-    "region_name": "dhaka",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "bangla_speech": "বলো কি হইছে",
     "banglish_speech": "",
     "dhaka_bangla_speech": "'কও কি অইছে'?",
     "dhaka_banglish_speech": "",
@@ -678,9 +671,17 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "bangla_speech": "হুজুর আমার ছেলেটা তিন দিন ধরে রাতে ঘুমায় না",
     "banglish_speech": "",
     "dhaka_bangla_speech": "'হুজুর আমার পুলাডা তিন দিন ধইরা রাইতে ঘুমায় না, খালি চইমকা চইমকা উঠে আর চিক্কুর পাইরা কান্দে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শুধু চইমকে চইমকে উঠে আর চিৎকার করে কান্নাকরে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "খালি চইমকা চইমকা উঠে আর চিক্কুর পাইরা কান্দে।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
@@ -866,14 +867,6 @@
     "bangla_speech": "বুঝলা কেমতে!",
     "banglish_speech": "bujhla kemte!",
     "dhaka_bangla_speech": "আমি কইলাম 'কইতাছোছ কি তুই' ?",
-    "dhaka_banglish_speech": "Ami koilam 'kaitachosh ki tui'?",
-    "region_name": "dhaka",
-    "english_speech": "I said, 'What are you talking about?'"
-  },
-  {
-    "bangla_speech": "বুঝলা কেমতে!",
-    "banglish_speech": "bujhla kemte!",
-    "dhaka_bangla_speech": "বুঝলা কেমতে!",
     "dhaka_banglish_speech": "Ami koilam 'kaitachosh ki tui'?",
     "region_name": "dhaka",
     "english_speech": "I said, 'What are you talking about?'"
