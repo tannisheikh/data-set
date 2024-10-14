@@ -717,30 +717,30 @@
     "Magura_bangla_speech": "আর সেই ভাষাডাই কৈল আমাগো আঞ্চলিক ভাষা।",
     "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": ""
+    "english_speech": "And that language is our regional language."
   },
   {
     "bangla_speech": "আজকে সময়ের ব্যবধানে আমরা তা আরও ফেলেচ্ছি।",
-    "magura_speech": "achke sumayer bebodane amra ta ara felachchi.",
+    "magura_speech": "",
     "Magura_bangla_speech": "আচকের সুমায়ের ব্যবধানে আমরা তা আরা ফেলিচ্চি।",
-    "Magura_magura_speech": "achker sumayer bebodane amra ta ara felichi.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Today, with the passage of time, we are losing it."
+    "english_speech": "Today we are throwing it further over time."
   },
   {
     "bangla_speech": "এখানে আমাদের দাদা দাদি আর এই ভাষায় গল্প বলে না।",
-    "magura_speech": "ehone amager dada dadi ar ei basha golpo koyna.",
+    "magura_speech": "",
     "Magura_bangla_speech": "এহানে আমাগো দাদা দাদি আর এই ভাষায় গল্প কয় না।",
-    "Magura_magura_speech": "ehane amago dada dadi ar ei bhasay golpo koyna.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "Now, even our grandparents no longer tell stories in this language."
+    "english_speech": "Here our grandparents no longer tell stories in this language."
   },
   {
     "bangla_speech": "আমি আমার সব মাগুরা বাসিকে আকুল আবেদন জানাচ্ছি আসেন আমরা সবাই মিলে আমাদের আঞ্চলিক ভাষাকে রক্ষা করি।।",
-    "magura_speech": "ami amar sop magura basike akul abedon janacchi asen amra sobai mile amager ancholik basha take rokha kori.",
+    "magura_speech": "",
     "Magura_bangla_speech": "আমি আমার সপ মাগুরা বাসীরে আকুল আবেদন জানাইতাছি আসেন আমরা সবাই মিল্লা আমাগো আঞ্চলিক ভাষাডা রক্ষা করি।",
-    "Magura_magura_speech": "ami amar sob magura basire akul abedon janaitachi asen amra sobai milla amago ancholik bhasada rokha kori.",
+    "Magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "I earnestly appeal to all the people of Magura, let's come together and preserve our regional language."
+    "english_speech": "I appeal to all my Magura residents come let us all save our regional language."
   }
 ]
