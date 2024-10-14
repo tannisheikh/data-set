@@ -1,20 +1,20 @@
 [
   {
     "bangla_speech": "কোথায় তুই",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কিরে কনে তুই",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
     "english_speech": "where are you"
   },
   {
     "bangla_speech": "কি বলতে হবে বলো",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কি কতি হবি ক",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "Magura",
 
@@ -22,10 +22,10 @@
   },
   {
     "bangla_speech": "কিরে গোসল করছিস",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কিরে নাইছীর",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -34,11 +34,11 @@
   {
     "bangla_speech": "তুমি কী খেয়েছ",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এ মনি খাইছিস",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -47,25 +47,25 @@
   {
     "bangla_speech": "তুমি কোথায় যাচ্ছ?",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এই তুই কনে যাচ্ছিস",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you going"
+    "english_speech": " going"
   },
 
   {
     "bangla_speech": "এইখান থেকে যাও না হলে কিন্তু",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "হেন্তে সরেক না হলি কিন্তু",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -74,11 +74,11 @@
   {
     "bangla_speech": "তুমি কোথায় যাচ্ছ?",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এই তুই কনে যাচ্ছিস",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -88,11 +88,11 @@
   {
     "bangla_speech": "কোথায় থেকে এসেছেন",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কোন্তে আলি?",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -102,11 +102,11 @@
   {
     "bangla_speech": "হাসবেন না",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কেলাশ নে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -116,11 +116,11 @@
   {
     "bangla_speech": "কে তুমি?",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এ তুই কিডা রে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -130,11 +130,11 @@
   {
     "bangla_speech": "ভাই দশ টাকা দেন",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এই তুই কনে যাচ্ছিস",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -144,24 +144,24 @@
   {
     "bangla_speech": "তোমাকে মারব কথা না শুনলে",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "তোরে ঠাপাবানে কথা না শুনলে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you going"
+    "english_speech": " going"
   },
   {
     "bangla_speech": "কিরে টাউনে যাবি",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কিরে টাউনি যাবি",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -171,11 +171,11 @@
   {
     "bangla_speech": "আমাদের গ্রামের মতো হতে পারবে না",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "আমাগের গিরামের মত কতি পারবান নানে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -185,11 +185,11 @@
   {
     "bangla_speech": "ভাই কি বলবো",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এ ভাই কি কবো",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -198,11 +198,11 @@
   {
     "bangla_speech": "বলার কিছু নেই",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কওয়ার তো কিছু না",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -211,11 +211,11 @@
   {
     "bangla_speech": "এখন বাড়ি গিয়ে ভাত খাবো",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "তয় এহন বাড়ি যাইয়ে ভাত খাবো",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -224,11 +224,11 @@
   {
     "bangla_speech": "ভাত খেয়ে তারপর যদি কিছু বলার থাকে তাহলে বলব",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "ভাত খাইয়ে তারপর যদি কিছু কওয়ার থাহে তয় কবো",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -237,11 +237,11 @@
   {
     "bangla_speech": "আমি পারি না",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "আমি পারি নে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -250,11 +250,11 @@
   {
     "bangla_speech": "কেন কমেন্ট করলে কি কিছু টাকা পাবো?",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "ক্যা, কমেন্ট করলি কি কয়ডা টাহা পাবানে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -263,11 +263,11 @@
   {
     "bangla_speech": "আমার একটা ছেলে আছে",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "আমার একটা ছাওয়াল আছে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -276,11 +276,11 @@
   {
     "bangla_speech": "এই বিয়ে করতে যাবি",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "এই বিয়ে করতি যাবি",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -289,24 +289,24 @@
   {
     "bangla_speech": "কোথায় থেকে এসেছ",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কনতে আলি..",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you from"
+    "english_speech": ""
   },
   {
     "bangla_speech": "কোথায় গিয়েছিলে তোমাকে খুঁজে পেলাম না",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কহানে গেছিলি তোরে খুজে পালাম না",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
@@ -315,11 +315,11 @@
   {
     "bangla_speech": "রাস্তায় যেও না,গাড়ির নিচে চাপা পরবে কিন্তু",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "রাস্তায় যাইসনে মনি, ঘারিঘুরার তলে চাপা পড়বেনে কিন্তু",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "Magura",
 
@@ -329,346 +329,346 @@
   {
     "bangla_speech": "দেখে শুনে মারিস চোখে মুখে লাগে না জেনো",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "দেহে সুনে মারিস চোহে মুহে লাগে না জেনো",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you"
+    "english_speech": "You don't know when you see Maris"
   },
   {
     "bangla_speech": "দেই একটু লবন, কালকে বাজার করে দিয়ে দিব",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "দেই একটু নুন, কালকে বাজার করে দিয়ে দিবানি",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you"
+    "english_speech": "Give me some salt, I will sell it tomorrow"
   },
   {
     "bangla_speech": "আমাকে দাঁড়িয়ে রেখে তুই আসলি না কেনো",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমার দাড়াই থুইয়ে তুই এলি না কে",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you"
+    "english_speech": "Why didn't you leave me standing?"
   },
   {
     "bangla_speech": "কিরে তোরা কেমন আছিস?",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "কিরে তুরা কিরাম আছির??",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you"
+    "english_speech": "How are you?"
   },
   {
     "bangla_speech": "তোমাদের বাড়ি যাবো আমি",
 
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
 
     "magura_bangla_speech": "তোগের বাড়ি যাব আমি",
 
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
 
     "region_name": "magura",
 
-    "english_speech": "where are you"
+    "english_speech": "I will go to your house"
   },
   {
     "bangla_speech": "তুফান সিনেমা দেখছিস নাকি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "তুফান সিনেমা দেহিছিস নাকি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Are you watching Tufan movie?"
   },
   {
     "bangla_speech": "কি বলবো। ভালো লাগতেছে না।",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কি কবো। ভাল্লাগদিছে না৷",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "what to say I don't like it."
   },
   {
     "bangla_speech": "বেশি কথা বলো না",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "মনি বেশি কথা কইও না",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "don't talk too much"
   },
   {
     "bangla_speech": "তুমি চুপ থাকো",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "তুই চুপ থাক",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "you shut up"
   },
   {
     "bangla_speech": "এতো কিছু বলতে পারব না",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "এত কিছু কতি পারবোনানে",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I can't say much"
   },
   {
     "bangla_speech": "আজকে থাক কালকে বলোব, আর একলাইনে কি মাগুরার কথা বলা যায় নি?",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আজকে থাকগে কালকে কবানি, আর একলাইনে গি মাগুরা কথা কহা যায় নাহি.?",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Stay today and tell me tomorrow, and can't talk about Magura in one line?"
   },
   {
     "bangla_speech": "হয়ে যাবে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "হবি নানে",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "will be"
   },
   {
     "bangla_speech": "তোমাদের বাড়ি কে যেন আসেছে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "তোগের বাড়ি কিডা যেন আইছে",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Who has come to your house?"
   },
   {
     "bangla_speech": "ওরে চুপ কর তোরা",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "ওরে চুপ করেক তুরা",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Hey, shut up"
   },
   {
     "bangla_speech": "তাড়াতাড়ি রান্না করতে যাও",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "তাড়াতাড়ি নানতি যাও",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Go cook quickly"
   },
   {
     "bangla_speech": "কোথায় তুই বন্ধু",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কনে রে তুই বন্ধু",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "where are you friend"
   },
   {
     "bangla_speech": "কিরে কবে এসেছিস",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কিরে কবে আইসির",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "When did you come?"
   },
   {
     "bangla_speech": "আমাকে একটু আই লাভ ইউ বলো তো দেখি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমারে এট্টু আই লা বিউ কদিন",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Tell me I love you and see"
   },
   {
     "bangla_speech": "মাগুরা আছি কেউ দেখা করলে চলে আসেন",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "মাগুরা আছি কেউ দেখা করলি পারে চলে আসেন",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I'm in Magura, if anyone meets me, he comes"
   },
   {
     "bangla_speech": "মিথ্যা কথা বললাম",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "মিছে কথা কলাম",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I lied"
   },
   {
     "bangla_speech": "এ নামাজ পড়তে যাবো আর কমেন্ট দেখবো না",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "এ নামাজ পড়তি যাবো রে আর কমেন্ট দেখপো না",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I will read this prayer and not look at the comments"
   },
   {
     "bangla_speech": "আমাদের বাড়ি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমাগের বাড়ি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "our home"
   },
   {
     "bangla_speech": "কি বলতে কি বলে ফেলব তার নেই ঠিক",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কি কতি কি কবানে তার নেই ঠিক",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "He doesn't know what to say"
   },
   {
     "bangla_speech": "তুই কথা বলিস না কেনো",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "এই তুই কথা কোশ নে ক্যা",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "why don't you talk"
   },
   {
     "bangla_speech": "চলো ঘুরে আসি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "চলেক ঘুড়ে আসি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Let's go around"
   },
   {
     "bangla_speech": "আমাদের বাড়ি পিঠা বানাচ্ছে তোমাকে দিবোনে হ্যাঁ",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমাগের বাড়ি ফিটে বানাচ্ছে তোর দিবানে হ্যাঁ",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Our house is making pitha, I will give it to you"
   },
   {
     "bangla_speech": "এইখান থেকে সর না হয় জন্মের খাওয়া খাওয়াবো",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "হেন্তে সরেক নালি জলমের খাওয়া খাওয়াবানি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Don't move from here, I will feed birth"
   },
   {
     "bangla_speech": "নাতী কোথায় যাস",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "নাতী কোনে যাশ",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Where did you go, grandson?"
   },
   {
     "bangla_speech": "আমাকে খ্যাপাচ্ছিস কেন",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমারে ঘাপাচ্ছির ক্যা",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Why are you bothering me?"
   },
   {
     "bangla_speech": "আমি মালোশিয়া আসছি,এখন তোমাদের সাথে এই গ্রুপে যোগাযোগ করি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমি মালোশিয়া আইছি মণি, এহন তোমাগের সাথে এই গুরুপে যুগাযোগ করি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I am coming to Maloshia, now contact you in this group"
   },
   {
     "bangla_speech": "আমাকে না নিয়ে কোথায় গিয়েছিলে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "আমারে না নিয়ে কনে গেছিলি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Where did you go without me?"
   },
   {
     "bangla_speech": "কোথায় ওইখানে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কোনে হেনে",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "where is there"
   },
   {
     "bangla_speech": "কোথায় গেলা",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কনে গেলি।",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "where did you go"
   },
   {
     "bangla_speech": "কি বলতে চাইলে বললে না তো",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কি কতি চালি কলি নে তো",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "If you want to say, don't say"
   },
   {
     "bangla_speech": "খেয়ে কাজ না পেলে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "খায়ে দায়ে কুনু কাজ কাম না পালি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "If you don't get work"
   },
   {
     "bangla_speech": "চলো ঘুরে আসি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "চলেক ঘুরে আসি",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Let's go around"
   },
   {
     "bangla_speech": "এই সবাই চলো মাগরিবের নামাজ পড়ে আসি",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "এই সবাই চলেক মাগরিবির নামাজ পড়ে আসি।",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Everyone, let's pray Maghrib"
   },
   {
     "bangla_speech": "কোথায় তুই কলেজের সামনে চলে আয়",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কনে তুই কলেজের সামনে চলে আয়",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Where did you go before the college?"
   },
   {
     "bangla_speech": "তোমাকে এইখানে আসতে বলছে কে",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "তোর হ্যানে আসতি কয়ছে কিডা",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "Who asked you to come here?"
   },
   {
     "bangla_speech": "কিছু কথা বলতে আসলাম",
-    "magura_speech": "amar boro boner ajke mon valo nei",
+    "magura_speech": "",
     "magura_bangla_speech": "কয়ডা কতা কতি আলাম",
-    "magura_magura_speech": "mor boro buiner aijgo mon vala nai",
+    "magura_magura_speech": "",
     "region_name": "Magura",
-    "english_speech": "where are you"
+    "english_speech": "I came to say something"
   },
 
   {
