@@ -672,7 +672,7 @@
   },
 
   {
-    "bangla_speech": "আচকে আলাম আপনাগের মদি আরাট্টা গল্প কতি।",
+    "bangla_speech": "আজকে আসলাম আপানাদের মধ্যে আরোএকটা গল্প বলতে",
     "magura_speech": "achke alam apnager modde aratta golpo koti.",
     "Magura_bangla_speech": "আচকের দেহানে তোমাগো মদ্দে আরাট্টা গল্প কতি।",
     "Magura_magura_speech": "achker dehane tomago modde aratta golpo koti.",
@@ -680,15 +680,31 @@
     "english_speech": "Today, I will tell you all a small story."
   },
   {
-    "bangla_speech": "ইট্টু বালো করে মনে করে দেহেন আমরা যহনে এট্টুক ছিলাম তহনে আমরা আমাগের মার মুহিত্তে কেবলডা ইট্টু ইট্টু করে কতা কওয়া শিহিছি।",
+    "bangla_speech": " একটু  ভালো করে মনে করে দেখেন আমারা যখন এইটূকু ছিলাম",
     "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
-    "Magura_bangla_speech": "ইট্টু বালো কইরা মনে কইরা দেহানে, আমরা যহানে এট্টুক আছিলাম, তহানে আমরা আমাগো মার মুহিত্তে কেবল ইট্টু ইট্টু কইরা কতা কইছিলাম।",
+    "Magura_bangla_speech": "ইট্টু বালো করে মনে করে দেহেন আমরা যহনে এট্টুক ছিলাম",
     "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
     "region_name": "Magura",
     "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
   },
   {
-    "bangla_speech": "আমরা কৈল সেহনে আমাগের নিজিগের ভাষায় কতা কওয়া শুরু করিচি।",
+    "bangla_speech": "তখন আমরা আমাদের মার মুখথেকে কেবল একটু একটু  করে কথা বলা শিখেছি",
+    "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
+    "Magura_bangla_speech": "তহনে আমরা আমাগের মার মুহিত্তে কেবলডা ইট্টু ইট্টু করে কতা কওয়া শিহিছি।",
+    "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
+    "region_name": "Magura",
+    "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
+  },
+  {
+    "bangla_speech": "তখন  আমরা আমাদের মার মুখথেকে কেবল একটু একটু  করে কথা বলেছিলাম।",
+    "magura_speech": "ittu bhalo kore mone kore dehen amra johone ettuk chilam tohone amra amager mar muhitto te kebol ittu ittu kore kotha koia chhi.",
+    "Magura_bangla_speech": "তহানে আমরা আমাগো মার মুহিত্তে কেবল ইট্টু ইট্টু কইরা কতা কইছিলাম।",
+    "Magura_magura_speech": "ittu balo koira mone koira dehane amra johane ettuk asilam, tohane amago mar muhitto te kebol ittu ittu koira kotha koichilam.",
+    "region_name": "Magura",
+    "english_speech": "Think back to when we were little, we used to speak small words with our mothers."
+  },
+  {
+    "bangla_speech": "আমরা তখন থেকে আমাদের নিজেদের ভাষায় কথা বলা শুরু করেছি।",
     "magura_speech": "amra koil sehone amager nijiger vashay kotha koa shuru korichi.",
     "Magura_bangla_speech": "আমরা কৈল সেহানে আমাগো নিজিগো ভাষায় কতা কওয়া শুরু করিচি।",
     "Magura_magura_speech": "amra koil sehane amago nijigo vashay kotha koa shuru korichi.",
@@ -696,7 +712,7 @@
     "english_speech": "Then, we started speaking in our own language."
   },
   {
-    "bangla_speech": "আর সেই বাষাডাই কৈল আমাগের আঞ্চলিক বাষা।",
+    "bangla_speech": "আর সেই ভাষাটাই তখন আমাদের আঞ্চলিক ভাষা।",
     "magura_speech": "ar shei bashadai koil amager ancholik basha.",
     "Magura_bangla_speech": "আর সেই ভাষাডাই কৈল আমাগো আঞ্চলিক ভাষা।",
     "Magura_magura_speech": "ar shei bhasadai koil amago ancholik vasha.",
@@ -704,7 +720,7 @@
     "english_speech": "And that language is now our regional language."
   },
   {
-    "bangla_speech": "আচকে সুমায়ের ব্যবদানে আমরা তা আরা ফেলাচ্চি।",
+    "bangla_speech": "আজকে সময়ের ব্যবধানে আমরা তা আরও ফেলেচ্ছি।",
     "magura_speech": "achke sumayer bebodane amra ta ara felachchi.",
     "Magura_bangla_speech": "আচকের সুমায়ের ব্যবধানে আমরা তা আরা ফেলিচ্চি।",
     "Magura_magura_speech": "achker sumayer bebodane amra ta ara felichi.",
@@ -712,439 +728,19 @@
     "english_speech": "Today, with the passage of time, we are losing it."
   },
   {
-    "bangla_speech": "এহনে আমাগের দাদা দাদি আর এই বাষায় গল্প কয়না।",
+    "bangla_speech": "এখানে আমাদের দাদা দাদি আর এই ভাষায় গল্প বলে না।",
     "magura_speech": "ehone amager dada dadi ar ei basha golpo koyna.",
-    "Magura_bangla_speech": "এহানে আমাগো দাদা দাদি আর এই ভাষায় গল্প কয়না।",
+    "Magura_bangla_speech": "এহানে আমাগো দাদা দাদি আর এই ভাষায় গল্প কয় না।",
     "Magura_magura_speech": "ehane amago dada dadi ar ei bhasay golpo koyna.",
     "region_name": "Magura",
     "english_speech": "Now, even our grandparents no longer tell stories in this language."
   },
   {
-    "bangla_speech": "আমি আমার সপ মাগুরা বাসিকে আকুল আবেদন জানাচ্ছি আসেন আমরা সবাই মিলে আমাগের আঞ্চলিক বাষাডাকে রক্ষা করি।",
+    "bangla_speech": "আমি আমার সব মাগুরা বাসিকে আকুল আবেদন জানাচ্ছি আসেন আমরা সবাই মিলে আমাদের আঞ্চলিক ভাষাকে রক্ষা করি।।",
     "magura_speech": "ami amar sop magura basike akul abedon janacchi asen amra sobai mile amager ancholik basha take rokha kori.",
-    "Magura_bangla_speech": "আমি আমার সব মাগুরা বাসীরে আকুল আবেদন জানাইতাছি, আসেন আমরা সবাই মিল্লা আমাগো আঞ্চলিক ভাষাডা রক্ষা করি।",
+    "Magura_bangla_speech": "আমি আমার সপ মাগুরা বাসীরে আকুল আবেদন জানাইতাছি আসেন আমরা সবাই মিল্লা আমাগো আঞ্চলিক ভাষাডা রক্ষা করি।",
     "Magura_magura_speech": "ami amar sob magura basire akul abedon janaitachi asen amra sobai milla amago ancholik bhasada rokha kori.",
     "region_name": "Magura",
     "english_speech": "I earnestly appeal to all the people of Magura, let's come together and preserve our regional language."
-  },
-  {
-    "bangla_speech": "আজকে আলাম কিছু সত্তি কতা ও কিছু বানানো কতা কতি।",
-    "magura_speech": "ajke alam kichu sotti kotha o kichu banano kotha kotti.",
-    "Magura_bangla_speech": "আজকের দেহানে কিছুক সত্তি কতা আর কিছুক বানানো কতা কতি।",
-    "Magura_magura_speech": "ajker dehane kichuk sotti kotha ar kichuk banano kotha koti.",
-    "region_name": "Magura",
-    "english_speech": "Today, I’ll tell you some true and some made-up stories."
-  },
-  {
-    "bangla_speech": "বিটা আর বিটি দুইজন ঘরে মদ্দিই আচে, বিটির রান্না কত্তি দেরি  হয়ে গেচে, বিটাডারও খুব খিদে পাইচে।",
-    "magura_speech": "beta ar beti duijon ghore moddei ache, betir ranna kotti deri hoye geche, betadar o khub khide paiche.",
-    "Magura_bangla_speech": "বিটা আর বিটি দুইজনে ঘরে মদ্দেই আচে, বিটিডার রান্না করতে দেরি হয়া গিছে, বিটাডারও খুব খিদা পাইচে।",
-    "Magura_magura_speech": "beta ar beti duijone ghore moddei ache, betidar ranna korte deri hoya giche, betadar o khub khida paiche.",
-    "region_name": "Magura",
-    "english_speech": "The son and daughter were both at home, the daughter was late with the cooking, and the son was very hungry."
-  },
-  {
-    "bangla_speech": "রান্না হতি দেরি দেকে বিটাডা অভিমান করে শুয়ে পড়েচে।",
-    "magura_speech": "ranna hote deri deke betada oviman kore shuye poreche.",
-    "Magura_bangla_speech": "রান্না হইতে দেরি দেইখ্যা বিটাডা অভিমান কইরা শুইয়া পড়ছে।",
-    "Magura_magura_speech": "ranna hoite deri deikhya betada oviman koira shuiya porchhe.",
-    "region_name": "Magura",
-    "english_speech": "Seeing the delay, the son sulked and went to sleep."
-  },
-  {
-    "bangla_speech": "বিটিডা তাড়াতাড়ি রান্না করে বিটাডার ডাকে কচ্চে ওগো ওটো ভাত খায়ে নেও, আর রাগ করে থাকোনা।",
-    "magura_speech": "betida taratari ranna kore betadar dake kocche ogo otho bhat khaye neo, ar rag kore thakona.",
-    "Magura_bangla_speech": "বিটিডা তাড়াতাড়ি রান্না কইরা বিটাডারে ডাকি কচ্চে ওগো ওটো ভাত খায়া নাও, আর রাগ কইরা থাকিওনা।",
-    "Magura_magura_speech": "betida taratari ranna koira betadare daki kochhe ogo otho bhat khaya nao, ar rag koira thakiona.",
-    "region_name": "Magura",
-    "english_speech": "The daughter quickly finished cooking and called the son, 'Please get up and eat, don't stay angry.'"
-  },
-  {
-    "bangla_speech": "কি হলো ওটো এই রকম কয় একবার ডাকাডাকি করেচে, তারপর যকন দেকলো উটেই না,তকন বিটাডার পা ধরে টানচে আর কচ্চে উটো।",
-    "magura_speech": "ki holo otho ei rokom koy ekbar dakadaki koreche, tarpor jokhon deklo uthei na, tokhon betadar pa dhore tanchhe ar kocche otho.",
-    "Magura_bangla_speech": "কি হইলো ওটো এরাম কয়েকবার ডাকাডাকি করলো, তারপর যহন দেইখ্যা উটেই না, তহন বিটাডার পা ধরি টানচে আর কচ্চে ওটো।",
-    "Magura_magura_speech": "ki hoilo otho eram koyekbar dakadaki korlo, tarpor jokhon deikhya uthei na, tokhon betadar pa dhori tanche ar kochhe otho.",
-    "region_name": "Magura",
-    "english_speech": "After calling several times without response, she grabbed his feet and pulled, saying, 'Get up.'"
-  },
-  {
-    "bangla_speech": "এরাম ভাবে টানতেই আচে কোন ভাবেই পা নড়াতি পাচ্চেনা।",
-    "magura_speech": "eram vabe tantei ache kon vabei pa norate pacchena.",
-    "Magura_bangla_speech": "এরাম ভাবে টানতেই আচে কোন ভাবেই পা নড়াতি পাচ্চে না।",
-    "Magura_magura_speech": "eram vabe tantei ache kon vabei pa norate pacche na.",
-    "region_name": "Magura",
-    "english_speech": "She pulled hard but couldn't move his feet."
-  },
-  {
-    "bangla_speech": "এক সময় বিটিডা ঘুম থেকে উঠে দেকে চোকির পাসে আলমারী ধরে টানচে।",
-    "magura_speech": "ek somoy betida ghum theke utche dekhe chokir pase almarir dhore tanchhe.",
-    "Magura_bangla_speech": "এক সময় বিটিডা ঘুম থেইক্যা উটই দেইখ্যা চোকির পাশের আলমারি ধরে টানচে।",
-    "Magura_magura_speech": "ek somoy betida ghum theikya utei deikhya chokir pasher almari dhore tanchhe.",
-    "region_name": "Magura",
-    "english_speech": "At one point, the daughter woke up to find herself pulling at the cupboard beside the bed."
-  },
-  {
-    "bangla_speech": "তকন বিটিডা  মনে মনে কলো আমি কি তাহলে স্বপ্ন দেকতিচলাম।",
-    "magura_speech": "tokhon betida mone mone kolo ami ki tahole shopno dektichilam.",
-    "Magura_bangla_speech": "তহন বিটিডা মনে মনে কয় আমি কি তাহলে স্বপ্ন দেহতিচিলাম।",
-    "Magura_magura_speech": "tokhon betida mone mone koy ami ki tahole shopno dehitichilam.",
-    "region_name": "Magura",
-    "english_speech": "Then the daughter thought to herself, 'Was I dreaming?'"
-  },
-  {
-    "bangla_speech": "গ্রুপি একটা প্রতিযোগিতার আয়োজন করা হবি ইনশাল্লাহ।",
-    "magura_speech": "groupi ekta protijogitar ayojon kora hobi Inshallah.",
-    "Magura_bangla_speech": "গ্রুপি একটা প্রতিযোগিতার আয়োজন হবি ইনশাল্লাহ।",
-    "Magura_magura_speech": "groupi ekta protijogitar ayojon hobi Inshallah.",
-    "region_name": "Magura",
-    "english_speech": "The group will organize a competition, Inshallah."
-  },
-  {
-    "bangla_speech": "খালি প্রাইভেসি পাবলিক হউয়ার অপেক্ষা।",
-    "magura_speech": "khali privacy public howar opekkha.",
-    "Magura_bangla_speech": "খালি প্রাইভেসি পাবলিক হইবার অপেক্ষা।",
-    "Magura_magura_speech": "khali privacy public hoibar opekkha.",
-    "region_name": "Magura",
-    "english_speech": "Just waiting for the privacy to go public."
-  },
-
-  {
-    "bangla_speech": "প্রোত্যেক জাতিরই থাহে কিছু নিজস্ব ঐতিহ্য।",
-    "magura_speech": "protyek jatiri thake kichu nijossho oitijjo.",
-    "Magura_bangla_speech": "প্রোত্যেক জাতিরই থাহে কিছু নিজস্ব ঐতিহ্য।",
-    "Magura_magura_speech": "protyek jatiri thake kichu nijossho oitijjo.",
-    "region_name": "Magura",
-    "english_speech": "Every nation has its own traditions."
-  },
-  {
-    "bangla_speech": "তাগের মধ্যি ভাষা আদিতে আছে।",
-    "magura_speech": "tager modhye vasha adite ache.",
-    "Magura_bangla_speech": "তাগের মধ্যি ভাষা আদিতে আছে।",
-    "Magura_magura_speech": "tager modhye vasha adite ache.",
-    "region_name": "Magura",
-    "english_speech": "Language is an integral part of those traditions."
-  },
-  {
-    "bangla_speech": "প্রোত্যেক জাতির মতো আমাগেরও এটটা ভাষা আছে।",
-    "magura_speech": "protyek jatir moto amagero etta vasha ache.",
-    "Magura_bangla_speech": "প্রোত্যেক জাতির মতো আমাগেরও এটটা ভাষা আছে।",
-    "Magura_magura_speech": "protyek jatir moto amagero etta vasha ache.",
-    "region_name": "Magura",
-    "english_speech": "Like every other nation, we too have our own language."
-  },
-  {
-    "bangla_speech": "সত্যি বলতি এই ভাষার মূল্য প্রাইসলেস।",
-    "magura_speech": "sotti bolti ei vashar mullo priceless.",
-    "Magura_bangla_speech": "সত্যি বলতি এই ভাষার মূল্য প্রাইসলেস।",
-    "Magura_magura_speech": "sotti bolti ei vashar mullo priceless.",
-    "region_name": "Magura",
-    "english_speech": "Honestly speaking, the value of this language is priceless."
-  },
-  {
-    "bangla_speech": "কিন্তু আধুনিকতার তকমায় আমাগের এই ভাষা বিলপ্তির দাঁড়িপাল্লায় দাঁড়াইয়ে আছে।",
-    "magura_speech": "kintu adhuniktar tokmay amager ei vasha biloptir daripallay daraiye ache.",
-    "Magura_bangla_speech": "কিন্তু আধুনিকতার তকমায় আমাগের এই ভাষা বিলপ্তির দাঁড়িপাল্লায় দাঁড়াইয়ে আছে।",
-    "Magura_magura_speech": "kintu adhuniktar tokmay amager ei vasha biloptir daripallay daraiye ache.",
-    "region_name": "Magura",
-    "english_speech": "But under the guise of modernity, our language is on the verge of extinction."
-  },
-  {
-    "bangla_speech": "আমি খুবই অবাক হইছি এমন উদ্যোগ দেহে, যেহানে আমাগের আঞ্চলিক ভাষা বাঁচিয়ে রাখা প্রয়োজনে একটা গ্রুপ খুলা হইছে।",
-    "magura_speech": "ami khuboi obak hoisi eman uddyog dekhe, jehane amager ancholik vasha banchiye rakha proyojone ekta group khula hoise.",
-    "Magura_bangla_speech": "আমি খুবই অবাক হইছি এমন উদ্যোগ দেহে, যেহানে আমাগের আঞ্চলিক ভাষা বাঁচিয়ে রাখা প্রয়োজনে একটা গ্রুপ খুলা হইছে।",
-    "Magura_magura_speech": "ami khuboi obak hoisi eman uddyog dekhe, jehane amager ancholik vasha banchiye rakha proyojone ekta group khula hoise.",
-    "region_name": "Magura",
-    "english_speech": "I was truly amazed to see such an initiative where a group was created to preserve our regional language."
-  },
-  {
-    "bangla_speech": "প্রোত্যেক মানশে এহানে আমাগের আঞ্চলিক ভাষার চর্চা করে।",
-    "magura_speech": "protyek manush ehane amager ancholik vashar chorcha kore.",
-    "Magura_bangla_speech": "প্রোত্যেক মানশে এহানে আমাগের আঞ্চলিক ভাষার চর্চা করে।",
-    "Magura_magura_speech": "protyek manush ehane amager ancholik vashar chorcha kore.",
-    "region_name": "Magura",
-    "english_speech": "Everyone here practices our regional language."
-  },
-  {
-    "bangla_speech": "আমি বলবো এইডে হলো এটটা সময়োপযোগী সিদ্ধান্ত।",
-    "magura_speech": "ami bolbo eita holo etta somoyopojogi siddhanto.",
-    "Magura_bangla_speech": "আমি বলবো এইডে হলো এটটা সময়োপযোগী সিদ্ধান্ত।",
-    "Magura_magura_speech": "ami bolbo eita holo etta somoyopojogi siddhanto.",
-    "region_name": "Magura",
-    "english_speech": "I would say this is a very timely decision."
-  },
-  {
-    "bangla_speech": "তথ্যপ্রযুক্তির এই যুগে এর থেহে ভালো প্লান আর হতি পারে না।",
-    "magura_speech": "tothho projukti er ei jug e er theke bhalo plan ar hoti pare na.",
-    "Magura_bangla_speech": "তথ্যপ্রযুক্তির এই যুগে এর থেহে ভালো প্লান আর হতি পারে না।",
-    "Magura_magura_speech": "tothho projukti er ei jug e er theke bhalo plan ar hoti pare na.",
-    "region_name": "Magura",
-    "english_speech": "In this age of technology, nothing could be a better plan than this."
-  },
-  {
-    "bangla_speech": "যার মাথা থেহে এই বুদ্ধি আইছে তারে জানাই হাজারও শ্রদ্ধা ও ভালোবাসা৷",
-    "magura_speech": "jar matha theke ei buddhi aise tare janai hazaro shroddha o bhalobasha.",
-    "Magura_bangla_speech": "যার মাথা থেহে এই বুদ্ধি আইছে তারে জানাই হাজারও শ্রদ্ধা ও ভালোবাসা।",
-    "Magura_magura_speech": "jar matha theke ei buddhi aise tare janai hazaro shroddha o bhalobasha.",
-    "region_name": "Magura",
-    "english_speech": "I extend my heartfelt respect and love to the person who came up with this idea."
-  },
-  {
-    "bangla_speech": "আশা করি এই গ্রুপ খুলার উদ্দেশ্য সফল হবি।",
-    "magura_speech": "asha kori ei group khular uddesho sofol hobi.",
-    "Magura_bangla_speech": "আশা করি এই গ্রুপ খুলার উদ্দেশ্য সফল হবি।",
-    "Magura_magura_speech": "asha kori ei group khular uddesho sofol hobi.",
-    "region_name": "Magura",
-    "english_speech": "I hope the purpose of creating this group will be successful."
-  },
-
-  {
-    "bangla_speech": "যাক দেহে শুনে বালো লাইগলো যে আমাগেরে মাগুরার ছাওয়াল মিয়ারা মিলেঝিলে এট্টা গ্রুপ খোলেছে!",
-    "magura_speech": "jak dekhe shune bhalo laiglo je amager magurar chawal miyar milizhile etta group kholese!",
-    "Magura_bangla_speech": "যাক দেহে শুনে বালো লাইগলো যে আমাগেরে মাগুরার ছাওয়াল মিয়ারা মিলেঝিলে এট্টা গ্রুপ খোলেছে!",
-    "Magura_magura_speech": "jak dekhe shune bhalo laiglo je amager magurar chawal miyar milizhile etta group kholese!",
-    "region_name": "Magura",
-    "english_speech": "Well, it felt good to hear that the boys from Magura have come together to form a group!"
-  },
-  {
-    "bangla_speech": "কিন্তু ছাওয়াল পাল এত কম ক্যা?",
-    "magura_speech": "kintu chawal pal eto kom kya?",
-    "Magura_bangla_speech": "কিন্তু ছাওয়াল পাল এত কম ক্যা?",
-    "Magura_magura_speech": "kintu chawal pal eto kom kya?",
-    "region_name": "Magura",
-    "english_speech": "But why are there so few boys?"
-  },
-  {
-    "bangla_speech": "লোককীকোল ফুলবাড়ি ওজিপুর মস্তাপুর দিয়ে তো মেলা ছাওয়ালপাল!",
-    "magura_speech": "lokkikol fulbari ojipur mostapur diye to mela chawalpal!",
-    "Magura_bangla_speech": "লোককীকোল ফুলবাড়ি ওজিপুর মস্তাপুর দিয়ে তো মেলা ছাওয়ালপাল!",
-    "Magura_magura_speech": "lokkikol fulbari ojipur mostapur diye to mela chawalpal!",
-    "region_name": "Magura",
-    "english_speech": "There are plenty of boys from Lokkikol, Fulbari, Ojipur, and Mostapur!"
-  },
-  {
-    "bangla_speech": "সবারইরে গ্রুপির মদি ঢুহোয়ে দিলিতো মনে হয় বালোই হোতো।",
-    "magura_speech": "sobaire grupir modi dhuye dilito mone hoy baloi hoto.",
-    "Magura_bangla_speech": "সবারইরে গ্রুপির মদি ঢুহোয়ে দিলিতো মনে হয় বালোই হোতো।",
-    "Magura_magura_speech": "sobaire grupir modi dhuye dilito mone hoy baloi hoto.",
-    "region_name": "Magura",
-    "english_speech": "It would have been great if we could get everyone into the group!"
-  },
-  {
-    "bangla_speech": "তালি সবাই মিলে আমাগের মাগরোর মুককেন আর ইট্টু উজ্বল করতি পারতাম।",
-    "magura_speech": "tali sobai mile amager magorer mukken ar ittu ujjol korti partam.",
-    "Magura_bangla_speech": "তালি সবাই মিলে আমাগের মাগরোর মুককেন আর ইট্টু উজ্বল করতি পারতাম।",
-    "Magura_magura_speech": "tali sobai mile amager magorer mukken ar ittu ujjol korti partam.",
-    "region_name": "Magura",
-    "english_speech": "Then together, we could brighten the face of Magura a bit more."
-  },
-
-  {
-    "bangla_speech": "মেলা দিন পরে আপনাগের মোদি এট্টা গল্প কতি আলাম।",
-    "magura_speech": "mela din pore apanager modi etta golpo koti alam.",
-    "Magura_bangla_speech": "মেলা দিন পরে আপনাগের মোদি এট্টা গল্প কতি আলাম।",
-    "Magura_magura_speech": "mela din pore apanager modi etta golpo koti alam.",
-    "region_name": "Magura",
-    "english_speech": "After many days, Im here to tell you a story."
-  },
-  {
-    "bangla_speech": "এক গিরামে বাস কৈত্ত এক রাণী।",
-    "magura_speech": "ek girame bash koitta ek rani.",
-    "Magura_bangla_speech": "এক গিরামে বাস কৈত্ত এক রাণী।",
-    "Magura_magura_speech": "ek girame bash koitta ek rani.",
-    "region_name": "Magura",
-    "english_speech": "Once upon a time, there was a queen in a village."
-  },
-  {
-    "bangla_speech": "ঐ রাণী ছিলো খুপ মেধাবী।",
-    "magura_speech": "oi rani chilo khub medhabi.",
-    "Magura_bangla_speech": "ঐ রাণী ছিলো খুপ মেধাবী।",
-    "Magura_magura_speech": "oi rani chilo khub medhabi.",
-    "region_name": "Magura",
-    "english_speech": "That queen was very intelligent."
-  },
-  {
-    "bangla_speech": "কোনো এক সুমায় ঐ রাণীর সাতে পরিচয় হয় এক সাদামাটা মনের মনুষের।",
-    "magura_speech": "kono ek sumai oi ranir sate porichoy hoy ek sadamota moner manusher.",
-    "Magura_bangla_speech": "কোনো এক সুমায় ঐ রাণীর সাতে পরিচয় হয় এক সাদামাটা মনের মনুষের।",
-    "Magura_magura_speech": "kono ek sumai oi ranir sate porichoy hoy ek sadamota moner manusher.",
-    "region_name": "Magura",
-    "english_speech": "One day, she met a simple-hearted man."
-  },
-  {
-    "bangla_speech": "ঐ মানুষ টা পতম দেখায় রাণীকে বালোবাসে ফেলে।",
-    "magura_speech": "oi manush ta protom dekhay ranike balobashe felle.",
-    "Magura_bangla_speech": "ঐ মানুষ টা পতম দেখায় রাণীকে বালোবাসে ফেলে।",
-    "Magura_magura_speech": "oi manush ta protom dekhay ranike balobashe felle.",
-    "region_name": "Magura",
-    "english_speech": "The man fell in love with her at first sight."
-  },
-  {
-    "bangla_speech": "তারপরেত্তে লোকটা রাণীর পিছনে ছুটতি থাহে।",
-    "magura_speech": "tarpor ette lokta ranir pichone chutti thahe.",
-    "Magura_bangla_speech": "তারপরেত্তে লোকটা রাণীর পিছনে ছুটতি থাহে।",
-    "Magura_magura_speech": "tarpor ette lokta ranir pichone chutti thahe.",
-    "region_name": "Magura",
-    "english_speech": "After that, the man kept chasing the queen."
-  },
-  {
-    "bangla_speech": "এট্টা সুমায় লোকটা রাণীকে তার বালোলাগার কতা জানায়।",
-    "magura_speech": "etta sumai lokta ranike tar balo lagar kotha janai.",
-    "Magura_bangla_speech": "এট্টা সুমায় লোকটা রাণীকে তার বালোলাগার কতা জানায়।",
-    "Magura_magura_speech": "etta sumai lokta ranike tar balo lagar kotha janai.",
-    "region_name": "Magura",
-    "english_speech": "At some point, the man confessed his feelings to her."
-  },
-  {
-    "bangla_speech": "জানানোর পরে হটাৎ তাগের দেহা সাক্কাত বন্ধ হয়ে যায়।",
-    "magura_speech": "jananor pore hotat tager dekha sakkhat bondho hoye jay.",
-    "Magura_bangla_speech": "জানানোর পরে হটাৎ তাগের দেহা সাক্কাত বন্ধ হয়ে যায়।",
-    "Magura_magura_speech": "jananor pore hotat tager dekha sakkhat bondho hoye jay.",
-    "region_name": "Magura",
-    "english_speech": "After he confessed, they suddenly lost contact."
-  },
-  {
-    "bangla_speech": "মেলা দিন পর আবার তাগের দেহা হয়।",
-    "magura_speech": "mela din por abar tager dekha hoy.",
-    "Magura_bangla_speech": "মেলা দিন পর আবার তাগের দেহা হয়।",
-    "Magura_magura_speech": "mela din por abar tager dekha hoy.",
-    "region_name": "Magura",
-    "english_speech": "After many days, they met again."
-  },
-  {
-    "bangla_speech": "তাগের মদিন এট্টা সম্পর্ক হয়ে যায়।",
-    "magura_speech": "tager moddin etta somporko hoye jay.",
-    "Magura_bangla_speech": "তাগের মদিন এট্টা সম্পর্ক হয়ে যায়।",
-    "Magura_magura_speech": "tager moddin etta somporko hoye jay.",
-    "region_name": "Magura",
-    "english_speech": "Over time, they developed a relationship."
-  },
-  {
-    "bangla_speech": "কতা কতি কতি সাদামাটা মনের মানুষডা কচ্চে কি আমি কৈল তুমার কাঁচের চূড়ী ছাড়া গহনারতা দিতি পারবাননা।",
-    "magura_speech": "kotha koti koti sadamota moner manushta koche ki ami koil tomar kancher churi chara gohonarta dite parbona.",
-    "Magura_bangla_speech": "কতা কতি কতি সাদামাটা মনের মানুষডা কচ্চে কি আমি কৈল তুমার কাঁচের চূড়ী ছাড়া গহনারতা দিতি পারবাননা।",
-    "Magura_magura_speech": "kotha koti koti sadamota moner manushta koche ki ami koil tomar kancher churi chara gohonarta dite parbona.",
-    "region_name": "Magura",
-    "english_speech": "After a while, the simple-hearted man said, 'I can’t give you anything but glass bangles.'"
-  },
-  {
-    "bangla_speech": "কতাডা শুনে রাণী কৈল আমার গহনা লাগবেননা কাঁচের চূড়ী হলিই হবেনে।",
-    "magura_speech": "kotada shune rani koil amar gohona lagbenna kancher churi hollei hobene.",
-    "Magura_bangla_speech": "কতাডা শুনে রাণী কৈল আমার গহনা লাগবেননা কাঁচের চূড়ী হলিই হবেনে।",
-    "Magura_magura_speech": "kotada shune rani koil amar gohona lagbenna kancher churi hollei hobene.",
-    "region_name": "Magura",
-    "english_speech": "Hearing this, the queen said, 'I don’t need any jewelry, glass bangles will do.'"
-  },
-  {
-    "bangla_speech": "তাই আমি সকল মহিলাদের উদ্দেশ্যে এট্টা কতাই কতি চাই তা হৈলো যে মানুষটা আপনাকে আকড়ে ধরে বাঁচতি চাই কখনও তার মনে কষ্ট দেবেননা।",
-    "magura_speech": "tai ami shokol mohilader uddeshe etta kothai koti chai ta hoilo je manusta apnake akre dhore bachte chai kokhono tar mone koshto debenna.",
-    "Magura_bangla_speech": "তাই আমি সকল মহিলাদের উদ্দেশ্যে এট্টা কতাই কতি চাই তা হৈলো যে মানুষটা আপনাকে আকড়ে ধরে বাঁচতি চাই কখনও তার মনে কষ্ট দেবেননা।",
-    "Magura_magura_speech": "tai ami shokol mohilader uddeshe etta kothai koti chai ta hoilo je manusta apnake akre dhore bachte chai kokhono tar mone koshto debenna.",
-    "region_name": "Magura",
-    "english_speech": "So I want to tell all women, if someone holds onto you to live, never hurt their feelings."
-  },
-  {
-    "bangla_speech": "এট্টা রাণী যদি তার প্রিয় জনের দিয়া কাঁচের চূড়ী নিয়ে খুশি হতি পারে তালি আপনারা পারবেননা ক্যা।",
-    "magura_speech": "etta rani jodi tar priyo joner dia kancher churi niye khushi hote pare tali apnara parbenna kya.",
-    "Magura_bangla_speech": "এট্টা রাণী যদি তার প্রিয় জনের দিয়া কাঁচের চূড়ী নিয়ে খুশি হতি পারে তালি আপনারা পারবেননা ক্যা।",
-    "Magura_magura_speech": "etta rani jodi tar priyo joner dia kancher churi niye khushi hote pare tali apnara parbenna kya.",
-    "region_name": "Magura",
-    "english_speech": "If a queen can be happy with glass bangles from her loved one, why can’t you?"
-  },
-  {
-    "bangla_speech": "লেখায় কোনো ভুল হলি ক্ষমাসুন্দর দৃষ্টিতে দেখবেন।",
-    "magura_speech": "lekhay kono vul holi khoma-shundor drishtite dekhen.",
-    "Magura_bangla_speech": "লেখায় কোনো ভুল হলি ক্ষমাসুন্দর দৃষ্টিতে দেখবেন।",
-    "Magura_magura_speech": "lekhay kono vul holi khoma-shundor drishtite dekhen.",
-    "region_name": "Magura",
-    "english_speech": "If there are any mistakes in my writing, please look at it kindly."
-  },
-
-  {
-    "bangla_speech": "আচকে পথম আমি গ্রুপি এট্টা গল্প কতি আলাম।",
-    "magura_speech": "achke pothom ami grupi etta golpo koti alam.",
-    "Magura_bangla_speech": "আচকে পথম আমি গ্রুপি এট্টা গল্প কতি আলাম।",
-    "Magura_magura_speech": "achke pothom ami grupi etta golpo koti alam.",
-    "region_name": "Magura",
-    "english_speech": "Today, Im here to tell you a story."
-  },
-  {
-    "bangla_speech": "কচ্চি সবাই শোনেন।",
-    "magura_speech": "kochchi shobai shonen.",
-    "Magura_bangla_speech": "কচ্চি সবাই শোনেন।",
-    "Magura_magura_speech": "kochchi shobai shonen.",
-    "region_name": "Magura",
-    "english_speech": "I hope everyone listens."
-  },
-  {
-    "bangla_speech": "কয় এক দিন আগের কতা আমি গিরামে গিচলাম।",
-    "magura_speech": "koy ek din ager kotha ami girame gichlam.",
-    "Magura_bangla_speech": "কয় এক দিন আগের কতা আমি গিরামে গিচলাম।",
-    "Magura_magura_speech": "koy ek din ager kotha ami girame gichlam.",
-    "region_name": "Magura",
-    "english_speech": "A few days ago, I went to the village."
-  },
-  {
-    "bangla_speech": "যায়ে দেহি ছোট ভাইরা ছুলা উড়া খাচ্চে।",
-    "magura_speech": "jaaye dehi choto bhaira chhula ura khacche.",
-    "Magura_bangla_speech": "যায়ে দেহি ছোট ভাইরা ছুলা উড়া খাচ্চে।",
-    "Magura_magura_speech": "jaaye dehi choto bhaira chhula ura khacche.",
-    "region_name": "Magura",
-    "english_speech": "I saw the little brothers flying kites."
-  },
-  {
-    "bangla_speech": "আমি দেইহে লোব সামলাতি পাল্লাম না।",
-    "magura_speech": "ami deihe lob samlati pallam na.",
-    "Magura_bangla_speech": "আমি দেইহে লোব সামলাতি পাল্লাম না।",
-    "Magura_magura_speech": "ami deihe lob samlati pallam na.",
-    "region_name": "Magura",
-    "english_speech": "I couldn’t resist the temptation."
-  },
-  {
-    "bangla_speech": "দোড়োয়ে যায়ে আমু খাতি লাগে গিলাম।",
-    "magura_speech": "dorooye jaye amu khati lage gilaam.",
-    "Magura_bangla_speech": "দোড়োয়ে যায়ে আমু খাতি লাগে গিলাম।",
-    "Magura_magura_speech": "dorooye jaye amu khati lage gilaam.",
-    "region_name": "Magura",
-    "english_speech": "I ran and grabbed a piece."
-  },
-  {
-    "bangla_speech": "খাতি বসে মেলা পুরোনো কতা মনে পড়ে গিলো।",
-    "magura_speech": "khati bose mela purono kotha mone pore gilo.",
-    "Magura_bangla_speech": "খাতি বসে মেলা পুরোনো কতা মনে পড়ে গিলো।",
-    "Magura_magura_speech": "khati bose mela purono kotha mone pore gilo.",
-    "region_name": "Magura",
-    "english_speech": "Sitting there, a lot of old memories came back."
-  },
-  {
-    "bangla_speech": "এট্টা সুমায় আমরা এইটা কতো খাইছি।",
-    "magura_speech": "etta sumai amra eita koto khai chi.",
-    "Magura_bangla_speech": "এট্টা সুমায় আমরা এইটা কতো খাইছি।",
-    "Magura_magura_speech": "etta sumai amra eita koto khai chi.",
-    "region_name": "Magura",
-    "english_speech": "At one time, we ate this a lot."
-  },
-  {
-    "bangla_speech": "খাতি যায়ে নাহে মুহি কত কালি জোড়ায়ছি।",
-    "magura_speech": "khati jaye nahe muhi koto kali joraychi.",
-    "Magura_bangla_speech": "খাতি যায়ে নাহে মুহি কত কালি জোড়ায়ছি।",
-    "Magura_magura_speech": "khati jaye nahe muhi koto kali joraychi.",
-    "region_name": "Magura",
-    "english_speech": "I remembered how many times we used to eat this."
-  },
-  {
-    "bangla_speech": "কালি খায়ে ফেলাদিছি।",
-    "magura_speech": "kali khai feladichhi.",
-    "Magura_bangla_speech": "কালি খায়ে ফেলাদিছি।",
-    "Magura_magura_speech": "kali khai feladichhi.",
-    "region_name": "Magura",
-    "english_speech": "I had eaten it yesterday."
-  },
-  {
-    "bangla_speech": "ওগের সাতে বসে খাতি পারে আমার নিজির কাচে খুপ বালো লাইগলো।",
-    "magura_speech": "oger sate bose khati pare amar nijir kache khup bhalo laiglo.",
-    "Magura_bangla_speech": "ওগের সাতে বসে খাতি পারে আমার নিজির কাচে খুপ বালো লাইগলো।",
-    "Magura_magura_speech": "oger sate bose khati pare amar nijir kache khup bhalo laiglo.",
-    "region_name": "Magura",
-    "english_speech": "Sitting with them, it felt really good to me."
   }
 ]
