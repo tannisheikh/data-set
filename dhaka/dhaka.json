@@ -638,37 +638,53 @@
     "english_speech": "Hey, why do you want to push like that!"
   },
   {
-    "bangla_speech": "চুপ কইরা বস, দুরে সর, দুরে সর, সিরিয়াল কইরা বস",
+    "bangla_speech": "চুপ করে, বসো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": " চুপ কইরা ব, দুরে ছর, দুরে ছর, সিজিল কইরা ব",
+    "dhaka_bangla_speech": " চুপ কইরা ব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Shut up kaira boss, go away, go away, serial kaira boss"
+    "english_speech": "Shut up, sit down"
   },
   {
-    "bangla_speech": "হুজুরের খাঠের সাথে যেন পা না লাগে, ঐ মেয়ে তোর ছেলে সামলা",
+    "bangla_speech": "দূরে সর",
     "banglish_speech": "",
-    "dhaka_bangla_speech": " হুজুরের চক্কির লগে যেন ঠ্যাং না লাগে, ঐ ছেমরী তর পোলা ছামলা'।",
+    "dhaka_bangla_speech": "দুরে ছর",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Don't touch your husband's bed, that girl should take care of your son"
+    "english_speech": "move away"
   },
   {
-    "bangla_speech": "আমার সঙ্গে যাবেন নাকি?",
+    "bangla_speech": " দূরে সর, সিরিয়াল করে বসো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "হুজুর এবার প্যাকেট থেকে চারটে আগরবাতি জ্বালিয়ে চাল ভরা একটা পুরোনো কৌটার মধ্যে গুজে রেখে সামনের দিকে তাকায়।",
+    "dhaka_bangla_speech": "  দুরে ছর, সিজিল কইরা ব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Move away, serialize"
   },
-
+  {
+    "bangla_speech": "হুজুরের খাঠের সাথে যেন পা না লাগে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " হুজুরের চক্কির লগে যেন ঠ্যাং না লাগে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": "Don't step with Huzur's bed"
+  },
+  {
+    "bangla_speech": "মেয়ে তোর ছেলে সামলা",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছেমরী তর পোলা ছামলা'।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": "Girl take care of your son"
+  },
+ 
   {
     "bangla_speech": "বলো কি হইছে",
     "banglish_speech": "",
     "dhaka_bangla_speech": "'কও কি অইছে'?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "tell me what happened"
   },
   {
     "bangla_speech": "হুজুর আমার ছেলেটা তিন দিন ধরে রাতে ঘুমায় না",
@@ -676,15 +692,15 @@
     "dhaka_bangla_speech": "'হুজুর আমার পুলাডা তিন দিন ধইরা রাইতে ঘুমায় না",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Sir, my son does not sleep at night for three days"
   },
   {
-    "bangla_speech": "শুধু চইমকে চইমকে উঠে আর চিৎকার করে কান্নাকরে",
+    "bangla_speech": "শুধু চমকে চমকে উঠে আর চিৎকার করে কান্নাকরে",
     "banglish_speech": "",
     "dhaka_bangla_speech": "খালি চইমকা চইমকা উঠে আর চিক্কুর পাইরা কান্দে।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Just startled and screamed and cried"
   },
   {
     "bangla_speech": "আমার শাশুড়ি বললো জীনের বদ নজর লাগছে তাড়াতাড়ি হুজুরের কাছে নিয়া যা",
@@ -692,7 +708,7 @@
     "dhaka_bangla_speech": "আমার ছাছুড়ি কইলো 'জীনের বদ নজর লাগছে, জলদি হুজুরের কাছে লইয়া যা'।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "My mother-in-law said that Jin has an evil eye, take it to Huzur quickly"
   },
   {
     "bangla_speech": "এটকুখানি ঝাইড়া দেন হুজুর",
@@ -796,155 +812,155 @@
 
   {
     "bangla_speech": "আমি তো প্রথম প্রথম কিছুই বুঝতেছি পারি নাই",
-    "banglish_speech": "bujhla kemte!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": " আমি তো পয়লা পরথম কিচ্ছুই বুঝবার পারি নাইক্কা",
-    "dhaka_banglish_speech": "hujur ami to poila porothom kichhui bujbar pari naikka, amgo ghorer loge thake je amar chhoy bulbuli, ui chhedin amare daika koy.",
+    "dhaka_banglish_speech": ".",
     "region_name": "dhaka",
-    "english_speech": "I cannot understand anything for the first time."
+    "english_speech": ""
   },
   {
     "bangla_speech": " আমাদের ঘরের সাথে থাকে যে আমার বান্ধবী বুলবুলি",
-    "banglish_speech": "bujhla kemte!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "আমগো ঘরের লগে থাকে যে আমার ছই বুলবুলি",
-    "dhaka_banglish_speech": "hujur ami to poila porothom kichhui bujbar pari naikka, amgo ghorer loge thake je amar chhoy bulbuli, ui chhedin amare daika koy.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "I cannot understand anything for the first time."
+    "english_speech": ""
   },
   {
     "bangla_speech": "ওই সেদিন আমাকে ডেকে বললো",
-    "banglish_speech": "bujhla kemte!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "উই ছেদিন আমারে ডাইকা কয়,",
-    "dhaka_banglish_speech": "hujur ami to poila porothom kichhui bujbar pari naikka, amgo ghorer loge thake je amar chhoy bulbuli, ui chhedin amare daika koy.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "I cannot understand anything for the first time."
+    "english_speech": ""
   },
   {
     "bangla_speech": "তর মুন্নীর বাবা যে ঐ ঘরের আদুরীর সাথে প্রেম করতেছে তুই কি কিছুই বুঝতে পারছ না",
-    "banglish_speech": "bujhla kemte!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "তর মুন্নীর বাপ যে ঐ ঘরের আদুরীর লগে পিরীত করতাছে তুই কি কিছুই বুঝবার পারোছ না!",
-    "dhaka_banglish_speech": "kire, tor Munir-er bap je oi ghorer aduri-r loge pirith kortaiche tui ki kichui bujbar paroch na!",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Do you not understand that Munir's father is in love with that girl?"
+    "english_speech": ""
   },
   {
     "bangla_speech": "বুলবুলির কথা শুনে আমার বুকটা ধুক করে উঠলো ",
-    "banglish_speech": "bujhla kemte!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "বুলবুলির কথা ছুইনা আমার বুকটা ধ্বক্‌ কইরা উঠলো ।",
-    "dhaka_banglish_speech": "Bulbulir kotha shuina amar bukta dhok kora uthise hujur.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Hearing Bulbuli's words, my heart skipped a beat."
+    "english_speech": ""
   },
   
   {
     "bangla_speech": "হ্যাঁ ঠিক বলছি",
-    "banglish_speech": "h hacha koitachi, micha komu kela! tui aij raitai jaiga dekhish hacha koi na micha koi!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "হ হাচা কইতাছি",
-    "dhaka_banglish_speech": "Bulbuli jor golai bole uthe.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Bulbuli shouted loudly."
+    "english_speech": ""
   },
   {
     "bangla_speech": "মিথ্যা বলব কেন",
-    "banglish_speech": "h hacha koitachi, micha komu kela! tui aij raitai jaiga dekhish hacha koi na micha koi!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": " মিছা কমু কেলা! ",
-    "dhaka_banglish_speech": "Bulbuli jor golai bole uthe.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Bulbuli shouted loudly."
+    "english_speech": ""
   },
   {
     "bangla_speech": "তুই আজকে রাৎ জেগে দেখিস সত্য বলছি না মিথ্যা বলছি!",
-    "banglish_speech": "h hacha koitachi, micha komu kela! tui aij raitai jaiga dekhish hacha koi na micha koi!",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "তুই আইজ রাইতে জাইগা দেখিছ হাচা কই না মিছা কই!",
-    "dhaka_banglish_speech": "Bulbuli jor golai bole uthe.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Bulbuli shouted loudly."
+    "english_speech": ""
   },
   {
     "bangla_speech": "আমি কি বলব বুঝতে পারলাম না।",
-    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "আমি কি কমু বুঝবার পারলাম না।",
-    "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "I couldn't understand what to say."
+    "english_speech": ""
   },
   {
     "bangla_speech": "এই কথা শুনে আমি তিন রাত জেগে রয়েছি",
-    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "এই কথা ছুইনা আমি তিন রাইত জাইগা রইছি",
     "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
     "region_name": "dhaka",
-    "english_speech": "I couldn't understand what to say."
+    "english_speech": ""
   },
   {
     "bangla_speech": "দেখি মাঝরাতে উঠে আমার কসম ঘর থেকা বাইর হইতেছে",
-    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "দেখি মাঝরাইতে উইঠা আমার খসম ঘর থিকা বাইর অইতাছে",
-    "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "I couldn't understand what to say."
+    "english_speech": ""
   },
   {
     "bangla_speech": "হাতে একটা প্যাকেট",
-    "banglish_speech": "Hujur ei kotha shuina ami tin rait jaiga roichi, dekhi majhraite uitha amar khosom ghor thika bair oitache, hate ekhan thonga.",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "হাতে একখান ঠোংগা।",
-    "dhaka_banglish_speech": "Ami ki komu bujhar parlam na.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "I couldn't understand what to say."
+    "english_speech": ""
   },
   
   {
     "bangla_speech": "প্যাকেট থেকে কি জানি বাহির ওরে খাওয়াইয়া দিতেছে",
-    "banglish_speech": "Aste koira pichon pichon jaya dekhi Munni'r bap gusol khanar konay kharaiya Aduri'r loge hasahashi kortache.",
+    "banglish_speech": "",
     "dhaka_bangla_speech": "ঠোংগা থিকা কি জানি বাইর কইরা ওরে খিলায় দিতাছে।",
-    "dhaka_banglish_speech": "Ar thonga thika ki jani bair koira ore khilai ditache.",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "And I saw something coming out from the thonga."
+    "english_speech": ""
   },
   {
     "bangla_speech": "এর পর থেকে আমি খেয়াল করে দেখছি",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "এর পর থেইক্কা আমি খিয়াল কইরা দেখছি",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
+    "english_speech": ""
   },
   {
     "bangla_speech": "প্রায় রাতেই সে যে বাহিরে যাওয়ারে জন্য উঠে",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "পরায় রাইতেই হ্যায় ভি বাইরে যাইবার লাইগ্গা উঠে",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
   },
   {
     "bangla_speech": " ওই মেয়ে যে বাহিরে যাওয়ার জন্য উঠে",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "উই ছেমরী ভি বাইরে যাইবার লাইগ্গা উঠে",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
   },
   {
     "bangla_speech": "আমার পিচ্চি দুইটা মেয়ে।",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "আমার পিচ্চি দুইখান মাইয়া।",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
   },
   {
     "bangla_speech": "তুমি চিন্তা করো না সব ঠিক হয়ে যাবে",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "তুমি চিন্তা কইরো না ছব ঠিক হয়া যাইবো",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
   },
   {
     "bangla_speech": "তোমার স্বামীকে পানি পড়া খাওয়াতে পারবা নি সেটা বলো",
-    "banglish_speech": "Hujur er por theikka ami khiyal koira dekhchi, poray raitai hay bhi baire jaibar laigga uthe, ui chhemri bhi baire jaibar laigga uthe. Apni ekta kichu korun hujur, amar pichchi duikhan maiya.",
+    "banglish_speech": " ",
     "dhaka_bangla_speech": "তুমার সোয়ামীরে পানি পড়া খিলাইতে পারবা নি হেইডা কও?",
-    "dhaka_banglish_speech": "Tumi chinta koiro na chob thik hoya jaibo. Tumar soyamire pani pora khilayte parba ni heida kowa?",
+    "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": "Don't worry, the photo will be fine. Can't you tell your husband to avoid getting wet?"
   },
@@ -973,7 +989,7 @@
     "english_speech": "Here, sir, I am standing right here."
   },
   {
-    "bangla_speech": "ওই ঐ যে নীল ড্রামে স্বামী বছ করার জন্য পানি ফু দিয়া রাখছি ঐখান থেকে এক বোতল পানি দিয়ে দে,",
+    "bangla_speech": "ওই ঐ যে নীল ড্রামে স্বামী বস করার জন্য পানি ফু দিয়া রাখছি ঐখান থেকে এক বোতল পানি দিয়ে দে,",
     "banglish_speech": "Oi oi je nil derame chhami boch koroner lega pani fu diya rakhchi oi khan thikka ek bottle pani diya de, bottle ancho ni? Na anle alada dosh takka deon lagbo.",
     "dhaka_bangla_speech": "ওই ঐ যে নীল ডেরামে ছামী বছ করনের লেগা পানি ফু দিয়া রাখছি ঐখান থিক্কা এক বোতল পানি দিয়া দে,",
     "dhaka_banglish_speech": "Meyetike udeshya kore bolla Barek Fakir.",
