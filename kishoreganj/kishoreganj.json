@@ -883,7 +883,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এলোমেলো হয়ে যায় মাথা খালি",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "আউলাইয়া যায় মাতা কালি",
     "kishoreganj_banglish_speech": "",
@@ -971,7 +971,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "কারন একলা মানুষের আর কি আছে",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "কারণ এল্লাহ মানষের আর কি আছে",
     "kishoreganj_banglish_speech": "",
@@ -979,9 +979,9 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এখন তো আর কোনো ভয় নেই",
     "banglish_speech": "",
-    "kishoreganj_bangla_speech": "অহন তো আর কোনো ডর ভয় নাই",
+    "kishoreganj_bangla_speech": "অহন তো আর কোনো ডর নাই",
     "kishoreganj_banglish_speech": "",
     "region_name": "kishoreganj",
     "english_speech": ""
@@ -997,7 +997,7 @@
   {
     "bangla_speech": "আমাকে মাটি দিবে",
     "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমারে মাডি দিব৷ ",
+    "kishoreganj_bangla_speech": "আমারে মাডি দিব ",
     "kishoreganj_banglish_speech": "",
     "region_name": "kishoreganj",
     "english_speech": ""
@@ -1019,7 +1019,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "বড় শখ করে সংসার পেতেছিলাম",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "বড় স্বাদ কইরা সংসার পাতছিলাম",
     "kishoreganj_banglish_speech": "",
@@ -1051,7 +1051,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আমি চলে যাবো",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "আমিও যাইয়াম গা",
     "kishoreganj_banglish_speech": "",
@@ -1067,7 +1067,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আমার জন্য এখনও ঠিক হয়নাই",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "আমার লাইগ্গা অহনও ঠিক অইছে না",
     "kishoreganj_banglish_speech": "",
@@ -1075,254 +1075,14 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "কবরের মাটিটা মনে হয়",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "কয়বরের মাডিডা মনে অয় ",
     "kishoreganj_banglish_speech": "",
     "region_name": "kishoreganj",
     "english_speech": ""
   },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমিও একদিন যাইয়াম গা,",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "যাব না যাব না বলে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "যাইতাম না যাইতাম না কইয়া",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "সে তো আমার কথা শুনে না",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "হে তো আমার কতা হুনে না",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "এখন তো আমিও ডাকি আজরাইলকে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "অহন তো আমিও ডাহি আজরাইলরে",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "কারোর কথা শুনে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "কেওর কতা হুনে",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "আর কে তাকে আটকায়",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আর কেডা তারে আটকায়",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "গেলোই গা ",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "যাবে তো যাবেই",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "যাইবো তো যাইবোই",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "কে শুনে কার কথা",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "কেডায় হুনে কার কতা",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
 
-  {
-    "bangla_speech": "আর কয়টা দিন থেকে যাও",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আর কয়ডা দিন থাইক্কা যাও",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "তাকে কত করে বললাম",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "তারে কত কইরা কইলাম",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "আমার এখনো যাবার সময় হয়না",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমার অহনও যাওনের সময় অয়না",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "যাব না যাব না বলে সে ও চলেগেছে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "যাইতাম না যাইতাম না কইয়া হে-ও গেছেগা",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "এটা সাপ না মনে হয় শয়তান",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "এইডা হাপ না মনে হয় শয়তান",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমার কথা বুইজুইন ",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "সে পড়তো ছোট ক্লাসে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "হে পড়তো চোড ক্লাসে",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "তহন আর ভাতটি কাইতাম না চেরির পিছে পিছে যাইতাম",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "রাস্তার কানিত বাড়ি ছিল",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "তখন মেয়েটির স্কুল ছুটি দিত",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "তহন চেরির ইস্কুল চুডি দিত",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমি যহন ভাত টি খাইতাম",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "খুব বালাই লাগত",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আর কইও না গো  দাদু",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "আমি ছোট একটা গল্প বলবো",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমি চোট্ট একটা গল্প কইয়াম",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "আমি না ছোট বেলায় একটা মেয়েকে পছন্দ করতাম",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "আমি না চোডবেলায় একটা চেরিরে পচন্দ করতাম",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "সর হেন যা",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "খেতাডা দে",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "ফ্যাক ভরাইছস কেমনে",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "কিলা তুই বলে পরিক্ষাত লুডা লইছ",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "হগলে জানুইন",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
-  {
-    "bangla_speech": "একটু পর অন্ধকার হয়ে যাবে",
-    "banglish_speech": "",
-    "kishoreganj_bangla_speech": "কিলা তুই বলে পরিক্ষাত লুডা লইছ",
-    "kishoreganj_banglish_speech": "",
-    "region_name": "kishoreganj",
-    "english_speech": ""
-  },
   {
     "bangla_speech": "আজকে আমার মন ভালো নেই",
     "banglish_speech": "ajke amr mon valo nei",
