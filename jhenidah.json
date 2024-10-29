@@ -1,247 +1,243 @@
 [
- {
- "bangla_speech":"এবার ধান ভালো হয়েছে",
- "banglish_speech":"ebar dhan valo hoyease",
- "jhenidah_bangla_speech":"ইবাড্ডা ধান হেবি বাদা বাদেচে",
- "jhenidah_banglish_speech":"ebadda dhan hebi bada badece",
- "region_name":"jhenidah",
- "english_speech":"This time the paddy is good"
- },
- {
- "bangla_speech":"শরীরে প্রজাপতি বসলে নাকি বিয়ে হয়,",
- "banglish_speech":"sorir a projapoti bosle naki bea hoi",
- "jhenidah_bangla_speech":"গায়ে প্রজাপতি বসলি নাকি বিয়ে হয়,",
- "jhenidah_banglish_speech":"gaie projapoti bosli naki bea hoi",
- "region_name":"jhenidah",
- "english_speech":"If a butterfly sits on the body, it means marriage."
- },
- {
-    "bangla_speech":" ফড়িং বসলে নাকি প্রেম হয়,",
-    "banglish_speech":" foring bosle nake prem hoi",
-    "jhenidah_bangla_speech":"ফঁড়িং বসলি নাকি প্রেম হয়!",
-    "jhenidah_banglish_speech":"foring bosli naki prem hoi!",
-    "region_name":"jhenidah",
-    "english_speech":"If a grasshopper sits, it is love."
-    },
-    {
-        "bangla_speech":"আমার শরীরে শুধু মশা বসে",
-        "banglish_speech":"amar sorir e sudhu mosa bose",
-        "jhenidah_bangla_speech":"আমার গায়ে খালি মশা বসে",
-        "jhenidah_banglish_speech":"amar gaia khali mosa bose",
-        "region_name":"jhenidah",
-        "english_speech":"Only mosquitoes sit on my body"
-        },
-        {
-            "bangla_speech":"তাহলে আমার কি হবে?",
-            "banglish_speech":"tahole amar ki hobe?",
-            "jhenidah_bangla_speech":"তালি পারে আমার কি হবি?",
-            "jhenidah_banglish_speech":"tali pore amar ki hobi?",
-            "region_name":"jhenidah",
-            "english_speech":"So what will happen to me?"
-            },            
- {
- "bangla_speech":"কি বলব?",
- "banglish_speech":"ki bolbo?",
- "jhenidah_bangla_speech":"কি কব?",
- "jhenidah_banglish_speech":"ki kobo?",
- "region_name":"jhenidah",
- "english_speech":"What to say?"
- },
- {
- "bangla_speech":"এই তুমি কে?",
- "banglish_speech":"ei tumi k?",
- "jhenidah_bangla_speech":"এই তুই কিডা রে?",
- "jhenidah_banglish_speech":"ai tui kida re?",
- "region_name":"jhenidah",
- "english_speech":"who are you?"
- },
- {
- "bangla_speech":"কি বলতে হবে?",
- "banglish_speech":"ki bolte hobe?",
- "jhenidah_bangla_speech":"কি কতি হবি? ",
- "jhenidah_banglish_speech":"ki koti hobe?",
- "region_name":"jhenidah",
- "english_speech":"What to say?"
- },
- {
- "bangla_speech":"এখন কিছু বলতে পারব না",
- "banglish_speech":"ekhon kisu bolte parbo na?",
- "jhenidah_bangla_speech":"অ্যাকন কিছু কতি পারবোনানে।",
- "jhenidah_banglish_speech":"aakon kisu koti parbonane?",
- "region_name":"jhenidah",
- "english_speech":"I can't say anything now?"
- },
   {
- "bangla_speech":"খাবানা তো মাখালে কেন?",
- "banglish_speech":"khabe na tahole makhale kano?",
- "jhenidah_bangla_speech":"খাবিনে তে মাহালি ক্যা ?",
- "jhenidah_banglish_speech":"khabine te mahale kaa?",
- "region_name":"jhenidah",
- "english_speech":"Why don't you eat?"
- },
+    "bangla_speech": "এবার ধান ভালো হয়েছে",
+    "banglish_speech": "ebar dhan valo hoyease",
+    "jhenidah_bangla_speech": "ইবাড্ডা ধান হেবি বাদা বাদেচে",
+    "jhenidah_banglish_speech": "ebadda dhan hebi bada badece",
+    "region_name": "jhenidah",
+    "english_speech": "This time the paddy is good"
+  },
   {
- "bangla_speech":"এত কথা আর বলতে ইচ্ছা করে না?",
- "banglish_speech":"eto kotha r bolte issa kore na?",
- "jhenidah_bangla_speech":"অএত কতা আর কতি ইচ্ছে  করে  না",
- "jhenidah_banglish_speech":"eto kota ar koti essa kore na?",
- "region_name":"jhenidah",
- "english_speech":"I don't want to say so much anymore"
- },
+    "bangla_speech": "শরীরে প্রজাপতি বসলে নাকি বিয়ে হয়,",
+    "banglish_speech": "sorir a projapoti bosle naki bea hoi",
+    "jhenidah_bangla_speech": "গায়ে প্রজাপতি বসলি নাকি বিয়ে হয়,",
+    "jhenidah_banglish_speech": "gaie projapoti bosli naki bea hoi",
+    "region_name": "jhenidah",
+    "english_speech": "If a butterfly sits on the body, it means marriage."
+  },
   {
- "bangla_speech":"আজ ভাতিজা তোমার চাচি লাউ দিয়ে ছোট মাছ রান্না করেছে",
- "banglish_speech":"aj vatija tomar chaci law dea choto mach ranna korse",
- "jhenidah_bangla_speech":"আজকে ভাস্তে তোমার চাচি কদু দিয়ে চুনো মাছ রানদিছে",
- "jhenidah_banglish_speech":"ajke vaste tomar chaci kodu dia chuno mach randese",
- "region_name":"jhenidah",
- "english_speech":"Today nephew your aunt cooked small fish with gourd?"
- },
+    "bangla_speech": " ফড়িং বসলে নাকি প্রেম হয়,",
+    "banglish_speech": " foring bosle nake prem hoi",
+    "jhenidah_bangla_speech": "ফঁড়িং বসলি নাকি প্রেম হয়!",
+    "jhenidah_banglish_speech": "foring bosli naki prem hoi!",
+    "region_name": "jhenidah",
+    "english_speech": "If a grasshopper sits, it is love."
+  },
   {
- "bangla_speech":"এতো কথা ভালো লাগে না তুমি যাও তো",
- "banglish_speech":"ato kotha valo lage na tumi jaw to",
- "jhenidah_bangla_speech":"এতো পেচাল ভালো লাগে না তুই যা তো",
- "jhenidah_banglish_speech":"ajke vaste tomar chaci kodu dia chuno mach randese",
- "region_name":"jhenidah",
- "english_speech":"I don't like you so much, you go"
- },
- {
- "bangla_speech":"মা সকালে রান্না করে দিই?",
- "banglish_speech":"ma sokale ranna kore dei?",
- "jhenidah_bangla_speech":"মা সহালে রানদে দিই?",
- "jhenidah_banglish_speech":"ma sohale rande dei",
- "region_name":"jhenidah",
- "english_speech":"Mother I cook in the morning"
- },
- {
- "bangla_speech":"ঘরের মধ্যে থেকে মুরগি বের হয়ে এসে বারান্দায় রাখা মুড়ির ধামা ফেলে দিল",
- "banglish_speech":"ghorer moddhe theke murgi ber hoye ase okhan theke rakha murir dhama fele delo",
- "jhenidah_bangla_speech":"ঘরের মুদিততে কুহড়ো বারাআ আসে হাতনেই থুয়া হুড়ুমির ধামা ফেলা দিল ৷ ",
- "jhenidah_banglish_speech":"ghorer muddute kuhro bara ase hatnei thua hurum er dhama fela delo",
- "region_name":"jhenidah",
- "english_speech":"The chicken came out from inside the house and knocked over the container of puffed rice kept on the balcony."
- },
- {
- "bangla_speech":"মুড়ির মধ্যে তালার চাবি রেখেছিলাম সেইটা এখন খুজতে খুজতে আমার জীবন শেষ",
- "banglish_speech":"murir moddhe talar chabi rekheselam seta akhon khujte khujte amar jebon ses",
- "jhenidah_bangla_speech":"হুড়ুমির মুদিন তালার ছুড়ানি থুছলাম সেইতা এহন উটকোতি উটকোতি  জান শ্যাষ",
- "jhenidah_banglish_speech":"hurumir mudin talar churani thuiselam seita ahon utkote utkote jan sas",
- "region_name":"jhenidah",
- "english_speech":"I had kept the key to the lock inside the puffed rice, and now my life is ending just searching for it."
- },
+    "bangla_speech": "আমার শরীরে শুধু মশা বসে",
+    "banglish_speech": "amar sorir e sudhu mosa bose",
+    "jhenidah_bangla_speech": "আমার গায়ে খালি মশা বসে",
+    "jhenidah_banglish_speech": "amar gaia khali mosa bose",
+    "region_name": "jhenidah",
+    "english_speech": "Only mosquitoes sit on my body"
+  },
   {
- "bangla_speech":"কি বলব মুখে আঁলোচাল !",
- "banglish_speech":"ki bolbo mukhe alochal",
- "jhenidah_bangla_speech":"কি কবো গালে আঁলোচাল.....!!!",
- "jhenidah_banglish_speech":"ki kobo gale alochal",
- "region_name":"jhenidah",
- "english_speech":"What can I say? I'm speechless!"
- },
- {
- "bangla_speech":"কিছু টাকা হাওলাত দেবে?",
- "banglish_speech":"kisu taka howlat debe?",
- "jhenidah_bangla_speech":"কয়ডা টাহা হালাত দিবি",
- "jhenidah_banglish_speech":"koyda taka hawlat dibi",
- "region_name":"jhenidah",
- "english_speech":"Will you send some money?"
- },
- {
- "bangla_speech":"কিছু টাকা হাওলাত দেবে?",
- "banglish_speech":"kisu taka howlat debe?",
- "jhenidah_bangla_speech":"কয়ডা টাহা হালাত দিবি",
- "jhenidah_banglish_speech":"koyda taka hawlat dibi",
- "region_name":"jhenidah",
- "english_speech":"Will you send some money?"
- },
- {
- "bangla_speech":"রকিবুল আজ দুই মাস হয়ে গেল , চাউলের বাকির টাকাটা তো দিলে না?",
- "banglish_speech":"rokibul aj dui mas hoia galo , chauler bakir taka ta to dela na?",
- "jhenidah_bangla_speech":"আরে রাকিবুল আজ দুই মাস হয়ে গেলো চালির বাহি টাহা ডাতো দিলিনে",
- "jhenidah_banglish_speech":"are rokibul aj dui mas hoie gelo chaler bahi taha dato diline",
- "region_name":"jhenidah",
- "english_speech":"Rakibul, it's been two months today, didn't you pay the rest of the rice?"
- },
- {
- "bangla_speech":"সবাই কেমন আছেন?",
- "banglish_speech":"sobai kamon asen?",
- "jhenidah_bangla_speech":"সবাই কিরোম আছেন?",
- "jhenidah_banglish_speech":"sobai kirom asen?",
- "region_name":"jhenidah",
- "english_speech":"how are you all?"
- },
+    "bangla_speech": "তাহলে আমার কি হবে?",
+    "banglish_speech": "tahole amar ki hobe?",
+    "jhenidah_bangla_speech": "তালি পারে আমার কি হবি?",
+    "jhenidah_banglish_speech": "tali pore amar ki hobi?",
+    "region_name": "jhenidah",
+    "english_speech": "So what will happen to me?"
+  },
+  {
+    "bangla_speech": "কি বলব?",
+    "banglish_speech": "ki bolbo?",
+    "jhenidah_bangla_speech": "কি কব?",
+    "jhenidah_banglish_speech": "ki kobo?",
+    "region_name": "jhenidah",
+    "english_speech": "What to say?"
+  },
+  {
+    "bangla_speech": "এই তুমি কে?",
+    "banglish_speech": "ei tumi k?",
+    "jhenidah_bangla_speech": "এই তুই কিডা রে?",
+    "jhenidah_banglish_speech": "ai tui kida re?",
+    "region_name": "jhenidah",
+    "english_speech": "who are you?"
+  },
+  {
+    "bangla_speech": "কি বলতে হবে?",
+    "banglish_speech": "ki bolte hobe?",
+    "jhenidah_bangla_speech": "কি কতি হবি? ",
+    "jhenidah_banglish_speech": "ki koti hobe?",
+    "region_name": "jhenidah",
+    "english_speech": "What to say?"
+  },
+  {
+    "bangla_speech": "এখন কিছু বলতে পারব না",
+    "banglish_speech": "ekhon kisu bolte parbo na?",
+    "jhenidah_bangla_speech": "অ্যাকন কিছু কতি পারবোনানে।",
+    "jhenidah_banglish_speech": "aakon kisu koti parbonane?",
+    "region_name": "jhenidah",
+    "english_speech": "I can't say anything now?"
+  },
+  {
+    "bangla_speech": "খাবানা তো মাখালে কেন?",
+    "banglish_speech": "khabe na tahole makhale kano?",
+    "jhenidah_bangla_speech": "খাবিনে তে মাহালি ক্যা ?",
+    "jhenidah_banglish_speech": "khabine te mahale kaa?",
+    "region_name": "jhenidah",
+    "english_speech": "Why don't you eat?"
+  },
+  {
+    "bangla_speech": "এত কথা আর বলতে ইচ্ছা করে না?",
+    "banglish_speech": "eto kotha r bolte issa kore na?",
+    "jhenidah_bangla_speech": "অএত কতা আর কতি ইচ্ছে  করে  না",
+    "jhenidah_banglish_speech": "eto kota ar koti essa kore na?",
+    "region_name": "jhenidah",
+    "english_speech": "I don't want to say so much anymore"
+  },
+  {
+    "bangla_speech": "আজ ভাতিজা তোমার চাচি লাউ দিয়ে ছোট মাছ রান্না করেছে",
+    "banglish_speech": "aj vatija tomar chaci law dea choto mach ranna korse",
+    "jhenidah_bangla_speech": "আজকে ভাস্তে তোমার চাচি কদু দিয়ে চুনো মাছ রানদিছে",
+    "jhenidah_banglish_speech": "ajke vaste tomar chaci kodu dia chuno mach randese",
+    "region_name": "jhenidah",
+    "english_speech": "Today nephew your aunt cooked small fish with gourd?"
+  },
+  {
+    "bangla_speech": "এতো কথা ভালো লাগে না তুমি যাও তো",
+    "banglish_speech": "ato kotha valo lage na tumi jaw to",
+    "jhenidah_bangla_speech": "এতো পেচাল ভালো লাগে না তুই যা তো",
+    "jhenidah_banglish_speech": "ajke vaste tomar chaci kodu dia chuno mach randese",
+    "region_name": "jhenidah",
+    "english_speech": "I don't like you so much, you go"
+  },
+  {
+    "bangla_speech": "মা সকালে রান্না করে দিই?",
+    "banglish_speech": "ma sokale ranna kore dei?",
+    "jhenidah_bangla_speech": "মা সহালে রানদে দিই?",
+    "jhenidah_banglish_speech": "ma sohale rande dei",
+    "region_name": "jhenidah",
+    "english_speech": "Mother I cook in the morning"
+  },
+  {
+    "bangla_speech": "ঘরের মধ্যে থেকে মুরগি বের হয়ে এসে বারান্দায় রাখা মুড়ির ধামা ফেলে দিল",
+    "banglish_speech": "ghorer moddhe theke murgi ber hoye ase okhan theke rakha murir dhama fele delo",
+    "jhenidah_bangla_speech": "ঘরের মুদিততে কুহড়ো বারাআ আসে হাতনেই থুয়া হুড়ুমির ধামা ফেলা দিল ৷ ",
+    "jhenidah_banglish_speech": "ghorer muddute kuhro bara ase hatnei thua hurum er dhama fela delo",
+    "region_name": "jhenidah",
+    "english_speech": "The chicken came out from inside the house and knocked over the container of puffed rice kept on the balcony."
+  },
+  {
+    "bangla_speech": "মুড়ির মধ্যে তালার চাবি রেখেছিলাম সেইটা এখন খুজতে খুজতে আমার জীবন শেষ",
+    "banglish_speech": "murir moddhe talar chabi rekheselam seta akhon khujte khujte amar jebon ses",
+    "jhenidah_bangla_speech": "হুড়ুমির মুদিন তালার ছুড়ানি থুছলাম সেইতা এহন উটকোতি উটকোতি জান শ্যাষ",
+    "jhenidah_banglish_speech": "hurumir mudin talar churani thuiselam seita ahon utkote utkote jan sas",
+    "region_name": "jhenidah",
+    "english_speech": "I had kept the key to the lock inside the puffed rice, and now my life is ending just searching for it."
+  },
+  {
+    "bangla_speech": "কি বলব মুখে আঁলোচাল !",
+    "banglish_speech": "ki bolbo mukhe alochal",
+    "jhenidah_bangla_speech": "কি কবো গালে আঁলোচাল.....!!!",
+    "jhenidah_banglish_speech": "ki kobo gale alochal",
+    "region_name": "jhenidah",
+    "english_speech": "What can I say? I'm speechless!"
+  },
+  {
+    "bangla_speech": "কিছু টাকা হাওলাত দেবে?",
+    "banglish_speech": "kisu taka howlat debe?",
+    "jhenidah_bangla_speech": "কয়ডা টাহা হালাত দিবি",
+    "jhenidah_banglish_speech": "koyda taka hawlat dibi",
+    "region_name": "jhenidah",
+    "english_speech": "Will you send some money?"
+  },
+  {
+    "bangla_speech": "কিছু টাকা হাওলাত দেবে?",
+    "banglish_speech": "kisu taka howlat debe?",
+    "jhenidah_bangla_speech": "কয়ডা টাহা হালাত দিবি",
+    "jhenidah_banglish_speech": "koyda taka hawlat dibi",
+    "region_name": "jhenidah",
+    "english_speech": "Will you send some money?"
+  },
+  {
+    "bangla_speech": "রকিবুল আজ দুই মাস হয়ে গেল , চাউলের বাকির টাকাটা তো দিলে না?",
+    "banglish_speech": "rokibul aj dui mas hoia galo , chauler bakir taka ta to dela na?",
+    "jhenidah_bangla_speech": "আরে রাকিবুল আজ দুই মাস হয়ে গেলো চালির বাহি টাহা ডাতো দিলিনে",
+    "jhenidah_banglish_speech": "are rokibul aj dui mas hoie gelo chaler bahi taha dato diline",
+    "region_name": "jhenidah",
+    "english_speech": "Rakibul, it's been two months today, didn't you pay the rest of the rice?"
+  },
+  {
+    "bangla_speech": "সবাই কেমন আছেন?",
+    "banglish_speech": "sobai kamon asen?",
+    "jhenidah_bangla_speech": "সবাই কিরোম আছেন?",
+    "jhenidah_banglish_speech": "sobai kirom asen?",
+    "region_name": "jhenidah",
+    "english_speech": "how are you all?"
+  },
 
   {
- "bangla_speech":"শেষ পর্যন্ত আমিও কিনে ফেললাম",
- "banglish_speech":"ses projonto amio kena fele delam",
- "jhenidah_bangla_speech":"শ্যাষ পোনতু আমু কিনে ফেলা দিলাম",
- "jhenidah_banglish_speech":"sas pontu amu kine fela delam",
- "region_name":"jhenidah",
- "english_speech":"I finally bought it"
- },
- {
- "bangla_speech":"বন্ধুরা, তাহলে বলেন তো দেখি গাড়িটা কেমন হয়েছে?",
- "banglish_speech":"bondhura tahole bolento dekhi garita kamon hoyese",
- "jhenidah_bangla_speech":"বোন্দুরা! তালি কন তো দেহি গাড়ীডা কেরোম হইচে",
- "jhenidah_banglish_speech":"bondura, tali kon to dehi garida keram hoise",
- "region_name":"jhenidah",
- "english_speech":"Guys, then let's see how the car is"
- },
-{
- "bangla_speech":"শীত শীত লাগছে",
- "banglish_speech":"sit sit lagse",
- "jhenidah_bangla_speech":"জাড় জাড় নাকতেছে ",
- "jhenidah_banglish_speech":"jar jar naktese",
- "region_name":"jhenidah",
- "english_speech":"It feels cold"
- },
- {
-    "bangla_speech":"ফ্যান ধিরে ধিরে ঘুরলে তার কারনে কি বিদ্যুৎ বিল এর টাকা কি কম আসবে?",
-    "banglish_speech":"fan dhire dhire ghurle tar karone ki biddut bil er taka ki kom asbe?",
-    "jhenidah_bangla_speech":"ফ্যান আস্তে আস্তে ঘুরলি তাতে কারেন বিল কি কম টাহা আসপিনি",
-    "jhenidah_banglish_speech":"fan aste aste ghurle tate karen bil ki kom taha aspini",
-    "region_name":"jhenidah",
-    "english_speech":"If the fan rotates slowly because of that, will the money of the electricity bill be less?"
-    },
-{
- "bangla_speech":"সুন্দর জিনিস।",
- "banglish_speech":"sundor jinis",
- "jhenidah_bangla_speech":"ঢকের জিনিস।",
- "jhenidah_banglish_speech":"dhoker jinis",
- "region_name":"jhenidah",
- "english_speech":"beautiful things"
- },
- {
- "bangla_speech":"আমি এখন গোসল করে আসলাম,",
- "banglish_speech":"ami akhon gosol kore aslam,",
- "jhenidah_bangla_speech":"আমি এহন নায়ে আলাম,",
- "jhenidah_banglish_speech":"ami ahon naya aslam",
- "region_name":"jhenidah",
- "english_speech":"I have just showered."
- },
- {
-    "bangla_speech":"খেয়ে দেয়ে শুয়ে পড়ব",
-    "banglish_speech":"kheia deia sua porbo",
-    "jhenidah_bangla_speech":"খায়ে দায়ে সুয়ে পরবো",
-    "jhenidah_banglish_speech":"khaya daya suya porbo",
-    "region_name":"jhenidah",
-    "english_speech":"I will eat and sleep"
-    },
-{
- "bangla_speech":"সরিষার তেল , কাচা মরিচ আর পেঁয়াজ ভর্তা নিয়ে মুড়ি দিয়ে মাখিয়ে খেলাম,",
- "banglish_speech":"sorisar tel , kacha moric ar peyaj vorrta nia muri diye makhia khelam,",
- "jhenidah_bangla_speech":"শরসের ত্যাল, কাঁচা ঝাল আর পিঁয়েজ ছেনে নিয়ে হুড়ুম দিয়ে মাহায়া খালাম,",
- "jhenidah_banglish_speech":"sorser taal , kacha jhal ar piaj chene nia hurum diye mahaya khalam,",
- "region_name":"jhenidah",
- "english_speech":"I mixed mustard oil, green chilies, and mashed onions with puffed rice and ate it,"
- },
- {
-    "bangla_speech":"কান দিয়ে এখন ধোয়া বের হচ্ছে",
-    "banglish_speech":"khan dia akhon dhoa ber hosse ",
-    "jhenidah_bangla_speech":"কান দিয়ে এহুন ধুমো বারাচ্ছে l",
-    "jhenidah_banglish_speech":"kan diye ehun dhumo barasse",
-    "region_name":"jhenidah",
-    "english_speech":"now smoke is practically coming out of my ears!"
-    }
-
-
-
-
- ]
+    "bangla_speech": "শেষ পর্যন্ত আমিও কিনে ফেললাম",
+    "banglish_speech": "ses projonto amio kena fele delam",
+    "jhenidah_bangla_speech": "শ্যাষ পোনতু আমু কিনে ফেলা দিলাম",
+    "jhenidah_banglish_speech": "sas pontu amu kine fela delam",
+    "region_name": "jhenidah",
+    "english_speech": "I finally bought it"
+  },
+  {
+    "bangla_speech": "বন্ধুরা, তাহলে বলেন তো দেখি গাড়িটা কেমন হয়েছে?",
+    "banglish_speech": "bondhura tahole bolento dekhi garita kamon hoyese",
+    "jhenidah_bangla_speech": "বোন্দুরা! তালি কন তো দেহি গাড়ীডা কেরোম হইচে",
+    "jhenidah_banglish_speech": "bondura, tali kon to dehi garida keram hoise",
+    "region_name": "jhenidah",
+    "english_speech": "Guys, then let's see how the car is"
+  },
+  {
+    "bangla_speech": "শীত শীত লাগছে",
+    "banglish_speech": "sit sit lagse",
+    "jhenidah_bangla_speech": "জাড় জাড় নাকতেছে ",
+    "jhenidah_banglish_speech": "jar jar naktese",
+    "region_name": "jhenidah",
+    "english_speech": "It feels cold"
+  },
+  {
+    "bangla_speech": "ফ্যান ধিরে ধিরে ঘুরলে তার কারনে কি বিদ্যুৎ বিল এর টাকা কি কম আসবে?",
+    "banglish_speech": "fan dhire dhire ghurle tar karone ki biddut bil er taka ki kom asbe?",
+    "jhenidah_bangla_speech": "ফ্যান আস্তে আস্তে ঘুরলি তাতে কারেন বিল কি কম টাহা আসপিনি",
+    "jhenidah_banglish_speech": "fan aste aste ghurle tate karen bil ki kom taha aspini",
+    "region_name": "jhenidah",
+    "english_speech": "If the fan rotates slowly because of that, will the money of the electricity bill be less?"
+  },
+  {
+    "bangla_speech": "সুন্দর জিনিস।",
+    "banglish_speech": "sundor jinis",
+    "jhenidah_bangla_speech": "ঢকের জিনিস।",
+    "jhenidah_banglish_speech": "dhoker jinis",
+    "region_name": "jhenidah",
+    "english_speech": "beautiful things"
+  },
+  {
+    "bangla_speech": "আমি এখন গোসল করে আসলাম,",
+    "banglish_speech": "ami akhon gosol kore aslam,",
+    "jhenidah_bangla_speech": "আমি এহন নায়ে আলাম,",
+    "jhenidah_banglish_speech": "ami ahon naya aslam",
+    "region_name": "jhenidah",
+    "english_speech": "I have just showered."
+  },
+  {
+    "bangla_speech": "খেয়ে দেয়ে শুয়ে পড়ব",
+    "banglish_speech": "kheia deia sua porbo",
+    "jhenidah_bangla_speech": "খায়ে দায়ে সুয়ে পরবো",
+    "jhenidah_banglish_speech": "khaya daya suya porbo",
+    "region_name": "jhenidah",
+    "english_speech": "I will eat and sleep"
+  },
+  {
+    "bangla_speech": "সরিষার তেল , কাচা মরিচ আর পেঁয়াজ ভর্তা নিয়ে মুড়ি দিয়ে মাখিয়ে খেলাম,",
+    "banglish_speech": "sorisar tel , kacha moric ar peyaj vorrta nia muri diye makhia khelam,",
+    "jhenidah_bangla_speech": "শরসের ত্যাল, কাঁচা ঝাল আর পিঁয়েজ ছেনে নিয়ে হুড়ুম দিয়ে মাহায়া খালাম,",
+    "jhenidah_banglish_speech": "sorser taal , kacha jhal ar piaj chene nia hurum diye mahaya khalam,",
+    "region_name": "jhenidah",
+    "english_speech": "I mixed mustard oil, green chilies, and mashed onions with puffed rice and ate it,"
+  },
+  {
+    "bangla_speech": "কান দিয়ে এখন ধোয়া বের হচ্ছে",
+    "banglish_speech": "khan dia akhon dhoa ber hosse ",
+    "jhenidah_bangla_speech": "কান দিয়ে এহুন ধুমো বারাচ্ছে l",
+    "jhenidah_banglish_speech": "kan diye ehun dhumo barasse",
+    "region_name": "jhenidah",
+    "english_speech": "now smoke is practically coming out of my ears!"
+  }
+]
