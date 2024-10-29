@@ -1404,5 +1404,605 @@
     "dhaka_banglish_speech": "Huina hyaitto chillaiya bari mathay tuila phalailo,",
     "region_name": "dhaka",
     "english_speech": "Saying this, Barek Fakir dropped down and sat at Komola's feet."
-  }
+  },
+  {
+    "bangla_speech": "আকাশে মেঘ না থাকলে বৃষ্টি হইবো কই থেকে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আছমানে ম্যাগ না থাকলে বারিছ অইব কইথনে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ফাজিলটারে এই মুহূর্তে গিয়ে ধরে নিয়ে আয়",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ফাজিলটারে অকখনে যায়্যা দইরা লয়্যা আহ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech" : "অক্ষর জ্ঞান নেই আবার হিরো হতেচাও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অক্কর গ্যায়ান নাই আবার হিরু বনবার চাও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "একটা একটা করে না দিয়ে এক সাথে সব দিয়ে দাও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অউগ্যা অউগ্যা কইরা না দিয়া এক লগে দিয়া দেও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "যে না ক্ষমতার পিরি,সে আবার হতে চাই কমিশনার",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "যে না খোমার ছিরি,হ্যালায় আবার অইবার চাহে কমিছনার",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার হইলো যা ধুনুক থেকে তীর বের হয়ে যাওয়ার দল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমরা অইলা গিয়া দনু অইতে তীর বারায়া যায়োনের দল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "রাস্তার মোরের মধ্যে কি হচ্ছে দেখতে পাওনা কেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "রাস্তার মোচরার মইদ্যে কি অইতাচে দেহ না ক্যালা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "জালিম আর জুলুমের অত্যাচারে লন্ডবন্ড দেশ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জালিম আর জুলুমের অইত্যাচারে  লন্ডবন্ডু দ্যাছ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মেয়ের কথাপাকা অনুষ্ঠানের খাওয়া দাওয়া খুব মজার হয়েছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মাইয়্যার বাতৃপাক্কা অনুষ্ঠানের খায়োনউয়োন জব্বন বালা অইচে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বিশ্ব কবি রবীন্দ্রনাথ নবাবদের তুরাগ নৌকায় ঘুম পাইরা খুব খুশি হয়েছিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বিচ্ছ কবি রবিন-দোরনাত নোয়াবগো তুরাগ বোটে নিম পাইরা খুব খোচগ অইচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখনকার সিনেমায় আগের মতন কাহিনি দেখা যায় না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অহনকার ফিলিমে আগের মোতন কাহানি দেখন যায় না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আগে দেখে নাও ওর পিছনের নেতাটা কে ওরা আমাদের গৌষ্টির মানুষ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আগে দেইখা লও অর পিচের নেতাটা ক্যাঠা অরা আমগো গোষটীর মানু",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষের মনে অবিশ্বাস ঢুকলে বাহির করা অনেক কঠিন হয়ে পরে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মানুর মনে অবিচছাছ ঢুকলে ফের বাইর করন বহুত কুঠিন অয়্যা পরে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এতো দিনে বুজি পড়ল মনে অভাগীর কথা",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এ্যাদ্দিনে বুজি পৌরল মোনে অবাগীর কতা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তুমি বড় অফিসার হয়ে আমাদের মহল্লাটারে উজ্জ্বল করছো",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমি বর অপিচার অয়্যা আমগো মহল্লাটারে রোছনাই করচ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মাথা অপারেশন করলেও তোমাদের মনের কালি যাবে না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বেরেন অপারেশন করলেও তোমাগো মনের কালি যাইব না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শয়তান লোভ দেখায়া ছয় রকমের কাজ করে প্যাচ লাগিয়ে ঈমান নষ্ট করে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "লোভ ছয়তান অছাওছা দিয়া ছয় কিছিমের কাম কইরা প্যাচ লাগায়া ঈমান নাছ করে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শেখ সাহেবের ডাকে পতাকা উড়াইয়া ইয়াহিয়ারে স্পষ্ট ভার্সিটির ছেলেপেলেরা জনায়া দেয় দাবি না মানলে খবর আছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছেক ছাবের ডাকে ফেলাগ উরায়া এহিয়ারে ছাপছাপ বারচিটির পোলাপানরা জানায়া দেয় দাবি না মানলে খবর আচে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুক্তিযোদ্ধার নাম কেটে অন্য নাম রাখলে অসন্মান ছাড়া আর কি হতে পারে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুকতি যুদদার নাম কাইটা অইন্ন নাম রাখন আছনমানি ছাড়া আর কি অইবার পারে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "জীবনের জন্য চাবি মেরে বন্ধ করে দিবো চান্দি ঘাটের ওয়াটার সাপ্লাই",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জনমের লাইগা চাবি মাইরা বন কইরা দিমু চান্দি গাটের অটার ছাপ্লাই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার অজুহাত কোনো মানুষ মেনে নিব না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমার অজুয়াত কুনো মানু মাইন্যা নিব না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মরার আগে আমার দাদি জমি জমার কথা ওছিয়ত করে গেছেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মরবার আগে আমার দাদি জমি জমার অছিয়ত কইরা গেচেন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ধর্ম নিয়ে বারাবারি করে অশান্তি করা ঠিক না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "দরমো লইয়্যা বারাবারি কইরা অছানতি করন ঠিক না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার চেহারা দেখে মনে হচ্ছে খুব অশান্তিতে পরে গেছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমার চেহারা দেইখ্যা মোনে অইতাচে খুব অছচতিতে পইরা গেচ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুক্তিসেনাদের ছিল অস্ত্র আছিলো মনের ভিতরে স্বাধীনতার আগুন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুকতিগো আচলি অচতোরো আচিল মোনে বিতারে ছাদীনতার আগুন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষকে অখুশি রাখলে আল্লাহ নামাজ হয়",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মানুরে অখুছি রাকলে আল্লায় নারাজ অহে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ধীরে ধীরে পাকিস্তানিদের বুঝায়া  দিছে বাঙ্গালিদের ডাবায়া রাখন যাইব না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আচতে আচতে পাকিচতানিগো বুঝায়া দিচে বানগলিগো দাবায়া রাখন যাইব না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
 ]
