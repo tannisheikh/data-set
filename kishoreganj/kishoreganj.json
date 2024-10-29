@@ -1,5 +1,230 @@
 [
   {
+    "bangla_speech": "আমি ও একদিন যাব গা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমিও একদিন যাইয়াম গা,",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "যাবে না যাবে না বলে ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "যাইতাম না যাইতাম না কইয়া",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "হে তো আমার কথা শুনে না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "হে তো আমার কতা হুনে না",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "এখন তো আমিও ডাকি আজরাইলরে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "অহন তো আমিও ডাহি আজরাইলরে",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "কারো কথা শুনে না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "কেওর কতা হুনে",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আর কে তাকে আটকায়",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আর কেডা তারে আটকায়",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "যাবে তো যাবেই",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "যাইবো তো যাইবোই",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "কে শুনে কার কথা",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "কেডায় হুনে কার কতা",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+
+  {
+    "bangla_speech": "আর কয়টা দিন থেকে যাও",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আর কয়ডা দিন থাইক্কা যাও",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তাকে কত করে বললাম",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "তারে কত কইরা কইলাম",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আমার এখনও যাওয়ার সময় হয়না",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমার অহনও যাওনের সময় অয়না",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "যাবে না যাবে না বলে সেও চলেগেলো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "যাইতাম না যাইতাম না কইয়া হে-ও গেছেগা",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "এইটা সাপ না মনে হয় শয়তান",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "এইডা হাপ না মনে হয় শয়তান",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আমার কথা বুঝছেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমার কথা বুইজুইন ",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "সে পড়ত ছোট ক্লাসে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "হে পড়তো চোড ক্লাসে",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "তখন আর ভাতটি খাইতাম না মেয়েটির পিছনে পিছনে যেতাম",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "তহন আর ভাতটি কাইতাম না চেরির পিছে পিছে যাইতাম",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "রাস্তার কিনারায় বাড়ি ছিল",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "রাস্তার কানিত বাড়ি ছিল",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "তখন মেয়ে স্কুল ছুটি হতো",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "তহন চেরির ইস্কুল চুডি দিত",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আমি যখন ভাত খাইতাম",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমি যহন ভাত টি খাইতাম",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "খুব ভালো লাগত",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "খুব বালাই লাগত",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আর বলো না গো দাদু",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আর কইও না গো  দাদু",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আমি ছোট একটা গল্প বলব",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমি চোট্ট একটা গল্প কইয়াম",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "আমি না ছোটবেলায় একটা মেয়েকে পছন্দ করতাম",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "আমি না চোডবেলায় একটা চেরিরে পচন্দ করতাম",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": " ",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "সর হেনো যা",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "কাথাটা দে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "খেতাডা দে",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "কাদা লাগছে কেমনে",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "ফ্যাক ভরাইছস কেমনে",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "মাত্র জানেন",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "হগলে জানুইন",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "কিরে তুই বলে পরিক্ষায় ফেল করছস",
+    "banglish_speech": "amar boro boner ajke mon valo nei",
+    "kishoreganj_bangla_speech": "কিরে তুই বলে পরিক্ষাত লুডা লইছ",
+    "kishoreganj_banglish_speech": "mor boro buiner aijgo mon vala nai",
+    "region_name": "kishoreganj",
+    "english_speech": "After a while it will be dark"
+  },
+  {
     "bangla_speech": "আপনি কেমন আছেন?",
     "banglish_speech": "",
     "kishoreganj_bangla_speech": "আফনে কিরুম আছুইন",
