@@ -497,43 +497,1144 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "cumilla_bangla_speech": "",
-    "cumilla_banglish_speech": "",
-    "region_name": "cumilla",
-    "english_speech": ""
+    "bangla_speech": "তুমি কি এই কাজটা করতে পারবে",
+    "banglish_speech": "tumi ki ei kajta korte parbe",
+    "cumillah_bangla_speech": "তুমি কি এই কাজতা করতে পারবা",
+    "cumillah_banglish_speech": "tumi ki ei kajta korte parba",
+    "region_name": "cumillah",
+    "english_speech": "can you do this"
   },
   {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "cumilla_bangla_speech": "",
-    "cumilla_banglish_speech": "",
-    "region_name": "cumilla",
-    "english_speech": ""
+    "bangla_speech": "আমি এখনো বুঝতে পারছি না?",
+    "banglish_speech": "ami ekhono bujhte parchi na ",
+    "cumillah_bangla_speech": "আমি এখনো বুঝতে পারছি না?",
+    "cumillah_banglish_speech": "ami ekhono bujhte parchi na",
+    "region_name": "cumillah",
+    "english_speech": "i still don't understand"
   },
   {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "cumilla_bangla_speech": "",
-    "cumilla_banglish_speech": "",
-    "region_name": "cumilla",
-    "english_speech": ""
+    "bangla_speech": "আমাদের আজকে বাজার করতে হবে",
+    "banglish_speech": "amader aj k bajar korte hobe",
+    "cumillah_bangla_speech": "আমরার আজকে বাজার করতে হইব",
+    "cumillah_banglish_speech": "amader aj k bajar korte ante hoibo",
+    "region_name": "cumillah",
+    "english_speech": "we have to market today"
   },
   {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "cumilla_bangla_speech": "",
-    "cumilla_banglish_speech": "",
-    "region_name": "cumilla",
-    "english_speech": ""
+    "bangla_speech": "আমি তোমার জন্য অপেক্ষা করছিলাম",
+    "banglish_speech": "ami tomar jonno opekkha korchilam",
+    "cumillah_bangla_speech": "আমি তোমার লাইগা অপেক্ষা করতাছিলাম",
+    "cumillah_banglish_speech": "ami tomer laiga opekkha kortechilam",
+    "region_name": "cumillah",
+    "english_speech": "i was waiting for you"
   },
   {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "cumilla_bangla_speech": "",
-    "cumilla_banglish_speech": "",
-    "region_name": "cumilla",
-    "english_speech": ""
+    "bangla_speech": "আমাদের স্কুলে আজ খেলা হবে",
+    "banglish_speech": "amader school e aj khela hbe",
+    "cumillah_bangla_speech": "আমরার স্কুলে আজ কে খেলা হইব",
+    "cumillah_banglish_speech": "amader school e aj khela hoibo",
+    "region_name": "cumillah",
+    "english_speech": "our school will play today"
+  },
+  {
+    "bangla_speech": "আমি আমার কম্পিউটারে কাজ করছি",
+    "banglish_speech": "ami amar computer a kaj korchi",
+    "cumillah_bangla_speech": "আমি আমার কম্পিউটারে কাজ করতাছি",
+    "cumillah_banglish_speech": "ami amar computer a kaj kortachi",
+    "region_name": "cumillah",
+    "english_speech": "i am working on my computer"
+  },
+  {
+    "bangla_speech": "এই জায়গায় অনেক ধুলো",
+    "banglish_speech": "ei jaigai onek dhulo",
+    "cumillah_bangla_speech": "এই জায়গায় অনেক ধুলা",
+    "cumillah_banglish_speech": "ei jaigai onek dhula",
+    "region_name": "cumillah",
+    "english_speech": "there is a lot of dust in this place"
+  },
+  {
+    "bangla_speech": "তুমি কি সিনেমা হলে যেতে চাও",
+    "banglish_speech": "tumi ki cinema hall a jete chao",
+    "cumillah_bangla_speech": "তুমি কি সিনেমা হলে যাইতে চাও",
+    "cumillah_banglish_speech": "tumi ki cinema hall  jaite chao ",
+    "region_name": "cumillah",
+    "english_speech": "do you want to go to the cinema hall"
+  },
+  {
+    "bangla_speech": "সে আজ অফিসে দেরি করে এসেছে",
+    "banglish_speech": "se aj office a deri kore aseche",
+    "cumillah_bangla_speech": "হে আজকে অফিসে দেরি কইরা আইসে",
+    "cumillah_banglish_speech": "hee aj office e deri kore aiche",
+    "region_name": "cumillah",
+    "english_speech": "he came late to office today"
+  },
+  {
+    "bangla_speech": "আমি এই কাজটা কাল শেষ করবো",
+    "banglish_speech": "ami ei kaj ta kal sesh korbo",
+    "cumillah_bangla_speech": "আমি এই কাজটা কালকে  শেষ করমু",
+    "cumillah_banglish_speech": "ami ei kaj ta kal sesh kormu",
+    "region_name": "cumillah",
+    "english_speech": "i wil finish this work tomorrow"
+  },
+  {
+    "bangla_speech": "আমাদের বাসার সামনের রাস্তাটা খুব ব্যস্ত",
+    "banglish_speech": "amar bashar samner rasta ta khub besto",
+    "cumillah_bangla_speech": "আমারার বাসার সামনের রাস্তাটা খুব ব্যস্ত",
+    "cumillah_banglish_speech": "amar bashar samner rasta ta khub besto",
+    "region_name": "cumillah",
+    "english_speech": "the road in front of my house is very busy"
+  },
+  {
+    "bangla_speech": "তুমি কি আজকে খেলা দেখেছো",
+    "banglish_speech": "tumi ki ajke khela dekheso",
+    "cumillah_bangla_speech": "তুমি কি আজকে খেলা দেখছো",
+    "cumillah_banglish_speech": "tumi ki ajke khela dekhso ",
+    "region_name": "cumillah",
+    "english_speech": "did you watch the game today"
+  },
+  {
+    "bangla_speech": "এই প্রশ্নের উত্তর খুব কঠিন",
+    "banglish_speech": "ei prosner utor kghub kothin",
+    "cumillah_bangla_speech": "এই প্রশ্নের উত্তর অনেক কঠিন",
+    "cumillah_banglish_speech": "ei prosner uttor onek kothin",
+    "region_name": "cumillah",
+    "english_speech": "the answer to this question is very difficult"
+  },
+  {
+    "bangla_speech": "আমি তোমার উপর ভরসা করতে পারি",
+    "banglish_speech": "ami tomar upore vorosha korte pari",
+    "cumillah_bangla_speech": "আমি  তোমার উপরে ভরসা করতাম  পারি",
+    "cumillah_banglish_speech": "ami tomar upore vorosha kortam pari",
+    "region_name": "cumillah",
+    "english_speech": "i can count on you"
+  },
+  {
+    "bangla_speech": "সে খুব ভালো গান গায়",
+    "banglish_speech": "se khub valo gaan gai",
+    "cumillah_bangla_speech": "হে খুব ভালা গান গায়",
+    "cumillah_banglish_speech": "se khub valo gaan gai",
+    "region_name": "cumillah",
+    "english_speech": "he sings very well"
+  },
+  {
+    "bangla_speech": "তুই কি আজ সন্ধ্যায় ফ্রি আছস",
+    "banglish_speech": "tui ki aj sondhai free achos",
+    "cumillah_bangla_speech": "তুই কি আজকে সন্ধ্যায় ফ্রি আছস",
+    "cumillah_banglish_speech": "tui ki ajke sondhai free achos",
+    "region_name": "cumillah",
+    "english_speech": "are you free this evening"
+  },
+  {
+    "bangla_speech": "আমি তোমার সাহায্য করতে পারবো না",
+    "banglish_speech": "ami tomar sahajjo korte parbona",
+    "cumillah_bangla_speech": "আমি তোমা্রে সাহায্য করতে পা্রতাম না",
+    "cumillah_banglish_speech": "ami tomare sahajjo korte partam na",
+    "region_name": "cumillah",
+    "english_speech": "i can't help you"
+  },
+  {
+    "bangla_speech": "এই জায়গাটা খুব সুন্দর",
+    "banglish_speech": "ei jaigata khub sundor",
+    "cumillah_bangla_speech": "এই জায়গাটা অনেক সুন্দর",
+    "cumillah_banglish_speech": "ei jaigata onek sundor",
+    "region_name": "cumillah",
+    "english_speech": "this place is very beautiful"
+  },
+  {
+    "bangla_speech": "তুমি কি গিটার বাজাতে পারো",
+    "banglish_speech": "tumi ki guitar bajate paro",
+    "cumillah_bangla_speech": "তুমি কি গিটার বাজাইতা ফারো",
+    "cumillah_banglish_speech": "tumi ki guitter bajaita faro",
+    "region_name": "cumillah",
+    "english_speech": "can you play the guitar"
+  },
+  {
+    "bangla_speech": "আমাদের বাসায় আজ বিদ্যুৎ নেই",
+    "banglish_speech": "amader bashai aj biddut nei",
+    "cumillah_bangla_speech": "আজকা আম্রার বাসাত কারেন্ট নেই",
+    "cumillah_banglish_speech": "amader bashai aj current nei",
+    "region_name": "cumillah",
+    "english_speech": "there is no electricity in our house today"
+  },
+  {
+    "bangla_speech": "আমি তোমার জন্য কিছু নিয়ে এসেছি",
+    "banglish_speech": "ami tomar jonno kichu niye asechi",
+    "cumillah_bangla_speech": "আমি তোমার ্লাইগা কিছু নিয়া আইছি",
+    "cumillah_banglish_speech": "ami tomar laiga kichu niya aichi",
+    "region_name": "cumillah",
+    "english_speech": "i brought something for you"
+  },
+  {
+    "bangla_speech": "এই জিনিসটা কোথা থেকে পেয়েছো",
+    "banglish_speech": "ei jinishta kotha theke peyecho",
+    "cumillah_bangla_speech": "এডা কই থাইক্কা পেয়েছো",
+    "cumillah_banglish_speech": "eda koi thaikka peyecho",
+    "region_name": "cumillah",
+    "english_speech": "where did you gate this thing from"
+  },
+  {
+    "bangla_speech": "আজকে আমি খুব ক্লান্ত",
+    "banglish_speech": "aj ke ami khub klanto",
+    "cumillah_bangla_speech": "আজকে আমি অনেক ক্লান্ত",
+    "cumillah_banglish_speech": "aj k ami onek klanto",
+    "region_name": "cumillah",
+    "english_speech": "i am very tired today"
+  },
+  {
+    "bangla_speech": "তোমার কি কিছু লাগবে",
+    "banglish_speech": "tomar ki kichu lagbe",
+    "cumillah_bangla_speech": "তোমার কি কিছু লাগবো",
+    "cumillah_banglish_speech": "tomar ki kichu lagbo",
+    "region_name": "cumillah",
+    "english_speech": "do you need anything"
+  },
+  {
+    "bangla_speech": "আমি এই প্রশ্নের উত্তর জানি না",
+    "banglish_speech": "ami ei prosner uttor janina",
+    "cumillah_bangla_speech": "আমি এই প্রশ্নের উত্তর জানি না",
+    "cumillah_banglish_speech": "ami ei prosner uttor janina",
+    "region_name": "cumillah",
+    "english_speech": "i don't know the answer to this question"
+  },
+  {
+    "bangla_speech": "তুমি কি আমাকে তোমার ঠিকানা দিতে পারবে",
+    "banglish_speech": "tumi ki amake tomar thikana dite parbe",
+    "cumillah_bangla_speech": "তুমি কি আমারে তোমার ঠিকানা দিতে পারবা",
+    "cumillah_banglish_speech": "tummi ki amake tomar thikana dite parba",
+    "region_name": "cumillah",
+    "english_speech": "can you give me your address"
+  },
+  {
+    "bangla_speech": "আমি গতকাল রাতে ভালো ঘুমাতে পারিনি্‌",
+    "banglish_speech": "ami gotokal rat a valo ghumate parinai",
+    "cumillah_bangla_speech": "আমি গতকালকা রাইতে ভালা মত ঘুমাইতে পারিছিনা",
+    "cumillah_banglish_speech": "ami gotokalka raite a valo ghumaite parchina",
+    "region_name": "cumillah",
+    "english_speech": "i didn't sleep wel last night "
+  },
+  {
+    "bangla_speech": "আজকে অনেক কাজ বাকি আছে",
+    "banglish_speech": "aj k onek kaj baki ache",
+    "cumillah_bangla_speech": "আজকে বহুত কাজ পরে আসে",
+    "cumillah_banglish_speech": "aj k bohut kaj pore ache",
+    "region_name": "cumillah",
+    "english_speech": "there is a lot of work left today"
+  },
+  {
+    "bangla_speech": "তুমি কি চা খাবে",
+    "banglish_speech": "tumi ki cha khabe",
+    "cumillah_bangla_speech": "তুমি কি চা খাইবা",
+    "cumillah_banglish_speech": "tumi ki cha khaiba",
+    "region_name": "cumillah",
+    "english_speech": "will you have tea"
+  },
+  {
+    "bangla_speech": "আমার ঘরে অনেক গরম",
+    "banglish_speech": "amar ghore onek gorom",
+    "cumillah_bangla_speech": "আমার ঘরে অনেক গরম",
+    "cumillah_banglish_speech": "amar ghore onek gorom",
+    "region_name": "cumillah",
+    "english_speech": "my room is very hot"
+  },
+  {
+    "bangla_speech": "আমি এই বইটা পড়তে ভালোবাসি",
+    "banglish_speech": "ami ei boita porte valobashi",
+    "cumillah_bangla_speech": "আমার এই বইটা পড়তে ভাল্লাগে",
+    "cumillah_banglish_speech": "amar ei boi ta porte vallage",
+    "region_name": "cumillah",
+    "english_speech": "i love reading this book"
+  },
+  {
+    "bangla_speech": "সে কি তোমাকে ফোন করেছে",
+    "banglish_speech": "se ki tomake phone koreche",
+    "cumillah_bangla_speech": "হে কি তোমারে ফোন করেছে",
+    "cumillah_banglish_speech": "he ki tomake phone koreche",
+    "region_name": "cumillah",
+    "english_speech": "did he call you"
+  },
+  {
+    "bangla_speech": "তোমার কি আজ সময় আছে্‌",
+    "banglish_speech": "tomar ki aj somoi ache",
+    "cumillah_bangla_speech": " তোমার কি আজ কে সময় আছে",
+    "cumillah_banglish_speech": "tomar ki aj k somoy ache",
+    "region_name": "cumillah",
+    "english_speech": "do you have time today"
+
+  },
+  {
+    "bangla_speech": "এই সিনেমাটা কি ভালো ছিল",
+    "banglish_speech": "ei cinema ta ki valo chilo",
+    "cumillah_bangla_speech": "এই সিনেমাটা কি ভালা আছিল",
+    "cumillah_banglish_speech": "ei cinemata ta ki valo achilo",
+    "region_name": "cumillah",
+    "english_speech": "was this movie good"
+  },
+  {
+    "bangla_speech": "আমরা কি কাল দেখা করতে পারি",
+    "banglish_speech": "amra  ki kal dekha korte pari",
+    "cumillah_bangla_speech": "আমরা কি কালকে দেখা করতে পারমু",
+    "cumillah_banglish_speech": "amra ki kalke dekha korte parmu",
+    "region_name": "cumillah",
+    "english_speech": "can we meet tomorrow"
+  },
+  {
+    "bangla_speech": "আজকের দিনটা খুব ঠান্ডা",
+    "banglish_speech": "ajker din ta khub thanda",
+    "cumillah_bangla_speech": "আজকের দিনটা খুব ঠান্ডা",
+    "cumillah_banglish_speech": "ajker din ta khub thanda",
+    "region_name": "cumillah",
+    "english_speech": "today is very cold"
+  },
+  {
+    "bangla_speech": "তুমি কি তোমার ভাইয়ের সাথে কথা বলেছো",
+    "banglish_speech": "tumi ki tomar vaiyer sathe kotha bolecho",
+    "cumillah_bangla_speech": "তুমি কি তোমার ভাইয়ার লগে কথা কইছ",
+    "cumillah_banglish_speech": "tumi ki tomar vaiyar sathe kotha koicho",
+    "region_name": "cumillah",
+    "english_speech": "have you talk to your brother"
+  },
+  {
+    "bangla_speech": "আজকে কি তোমার জন্য কিছু নিয়ে আসবো",
+    "banglish_speech": "ajke tomar jonno kichu niye asbo",
+    "cumillah_bangla_speech": "আজকে কি তোমার লাইগা কিছু নিয়ে আমু",
+    "cumillah_banglish_speech": "aj k ki tomar laiga kichu niye amu",
+    "region_name": "cumillah",
+    "english_speech": "shall i bring something today"
+  },
+  {
+    "bangla_speech": "আমি কি তোমাকে কিছু প্রশ্ন করতে পারি",
+    "banglish_speech": "ami ki tomake kichu prosno korte pari",
+    "cumillah_bangla_speech": "আমি কি তোমাকে কিছু প্রশ্ন করতাম  পারি",
+    "cumillah_banglish_speech": "ami ki tomake kichu prosno kortam pari",
+    "region_name": "cumillah",
+    "english_speech": "can i ask you some queston"
+  },
+  {
+    "bangla_speech": "তুমি কি এখানে নতুন এসেছো",
+    "banglish_speech": "tumi ki ekhane notun asecho",
+    "cumillah_bangla_speech": "তুমি কি এনে নতুন আইছ",
+    "cumillah_banglish_speech": "tumi ki ene notun aicho",
+    "region_name": "cumillah",
+    "english_speech": "are you new here"
+  },
+  {
+    "bangla_speech": "আমি এই জায়গাটাতে আগে এসেছি",
+    "banglish_speech": "ami ei jaigata te age asechi",
+    "cumillah_bangla_speech": "আমি এই জায়গাত আগেও আইছি",
+    "cumillah_banglish_speech": "ami ei jaigat ageo aichi",
+    "region_name": "cumillah",
+    "english_speech": "i have been to this place before"
+  },
+  {
+    "bangla_speech": "তোমার কি কিছু বলার ছিল",
+    "banglish_speech": "tomar ki kichu bolar chilo",
+    "cumillah_bangla_speech": "তোমার কি কিছু কউয়ার  আছিল",
+    "cumillah_banglish_speech": "tomar ki kichu kouyar achilo",
+    "region_name": "cumillah",
+    "english_speech": "did you have something to say"
+  },
+  {
+    "bangla_speech": "আমি এখন বই পড়তে যাচ্ছি",
+    "banglish_speech": "ami ekhon boi porte jacchi",
+    "cumillah_bangla_speech": "আমি এহন বই পড়তে যাইতাছি",
+    "cumillah_banglish_speech": "ami ehon boi porte jaitachi",
+    "region_name": "cumillah",
+    "english_speech": "i am going to read a book now"
+  },
+  {
+    "bangla_speech": "আমার পরীক্ষা শুরু হতে যাচ্ছে",
+    "banglish_speech": "amar porikha shuru hote jacche",
+    "cumillah_bangla_speech": "আমার পরীক্ষা শুরু হইতে যাইতাছে",
+    "cumillah_banglish_speech": "amar porikkha suru hoite jaitache",
+    "region_name": "cumillah",
+    "english_speech": "my exam is about to start"
+  },
+  {
+    "bangla_speech": "আমি কালকে তোমার সাথে দেখা করবো",
+    "banglish_speech": "ami kal k tomar sathe dekha korbo",
+    "cumillah_bangla_speech": "আমি কালকে তোমার লগে দেখা করমু",
+    "cumillah_banglish_speech": "ami kalke tomar loge dekha kormu",
+    "region_name": "cumillah",
+    "english_speech": "I will se you tomorow"
+  },
+  {
+    "bangla_speech": "এই গানটা খুব মজার",
+    "banglish_speech": "ei gaan ta khub  mojar",
+    "cumillah_bangla_speech": "এই গানটা খুব মজার",
+    "cumillah_banglish_speech": "ei gaan ta khub mojar",
+    "region_name": "cumillah",
+    "english_speech": "this song is very funny"
+  },
+  {
+    "bangla_speech": "সে খুব ভালো একটা মানুষ ",
+    "banglish_speech": "se khub valo ekta manush",
+    "cumillah_bangla_speech": "হে খুব  ভালা একটা মানুষ",
+    "cumillah_banglish_speech": "se khub valo ekta manush",
+    "region_name": "cumillah",
+    "english_speech": "he is a very good person"
+  },
+  {
+    "bangla_speech": "তুমি কি আমার সাথে খেতে যাবে",
+    "banglish_speech": "tumi ki amar sathe khete jabe",
+    "cumillah_bangla_speech": "তুমি কি আমার লগে খাইতে যাইবা",
+    "cumillah_banglish_speech": "tumi ki amar loge khaite jaiba",
+    "region_name": "cumillah",
+    "english_speech": "will you go eat with me"
+  },
+  {
+    "bangla_speech": "আমি আজকে অফিসে যাবো না",
+    "banglish_speech": "ami ajke office jabo na",
+    "cumillah_bangla_speech": "আমি আজকে অফিসে যামু না",
+    "cumillah_banglish_speech": "ami aj k office a jamu na",
+    "region_name": "cumillah",
+    "english_speech": "i will not go to office today"
+  },
+  {
+    "bangla_speech": "আমাদের বাড়ির সামনে অনেক গাছ",
+    "banglish_speech": "amader barir samne onek gas",
+    "cumillah_bangla_speech": "আমারার বাড়ির সামনে অনেক গাছ",
+    "cumillah_banglish_speech": "amrar barir samne onek gas",
+    "region_name": "cumillah",
+    "english_speech": "there are many trees in front of our house"
+  },
+
+  {
+    "bangla_speech": "আজকে আমার শরীর ভালো নেই",
+    "banglish_speech": "aj k amar sorir valo nei",
+    "cumillah_bangla_speech": "আজকে আমার শরীর ভালা না",
+    "cumillah_banglish_speech": "ajke amar sorir vala na",
+    "region_name": "cumillah",
+    "english_speech": "i am not feeling well today"
+  },
+  {
+    "bangla_speech": "তুমি কি আমাকে একটু সময় দিতে পারবে?",
+    "banglish_speech": "tumi ki amake ektu somoi dite parbe",
+    "cumillah_bangla_speech": "তুমি কি আমারে একটু সময় দিতে পারবা",
+    "cumillah_banglish_speech": "tumi ki amare ektu somoi dite parba",
+    "region_name": "cumillah",
+    "english_speech": "can you give me sometime"
+  },
+  {
+    "bangla_speech": "আমি তোমার জন্য অপেক্ষা করছিলাম।",
+    "banglish_speech": "ami tomar jonno opekkha korchilam",
+    "cumillah_bangla_speech": "আমি তোমার লাইগা অপেক্ষা করতাছিলাম",
+    "cumillah_banglish_speech": "ami tomar laiga opekkha kortachilam",
+    "region_name": "cumillah",
+    "english_speech": "i was waiting for you"
+  },
+  {
+    "bangla_speech": "আমার হাত ব্যথা করছে।",
+    "banglish_speech": "amar hat betha korche",
+    "cumillah_bangla_speech": "আমার হাত ব্যথা করতাছে",
+    "cumillah_banglish_speech": "amar hat betha kortache ",
+    "region_name": "cumillah",
+    "english_speech": "my hand hurts"
+  },
+  {
+    "bangla_speech": "এই সমস্যার সমাধান কীভাবে করা যায়?",
+    "banglish_speech": "ei somossar somadhan kivabde kora jai",
+    "cumillah_bangla_speech": "এই সমস্যার সমাধান কেম্নে করন যায়",
+    "cumillah_banglish_speech": "ei somosar somadhan kamne koron jai",
+    "region_name": "cumillah",
+    "english_speech": "how to solve this problem"
+  },
+  {
+    "bangla_speech": "তুমি কীভাবে এখানে আসলে?",
+    "banglish_speech": "tumi kivabe ekhane asle",
+    "cumillah_bangla_speech": "তুমি কেম্নে  এনে আইছ",
+    "cumillah_banglish_speech": "tumi kamne ene aicho",
+    "region_name": "cumillah",
+    "english_speech": "how did you get here"
+  },
+  {
+    "bangla_speech": "সে কি তোমার সাথে কথা বলেছে?",
+    "banglish_speech": "se ki tomar sathe kotha boleche",
+    "cumillah_bangla_speech": "হে কি তোমার লগে কথা কইছিল",
+    "cumillah_banglish_speech": "he ki tomar loge kotha koichilo",
+    "region_name": "cumillah",
+    "english_speech": "did he talk to you"
+  },
+  {
+    "bangla_speech": "আমি তোমাকে অনেক মিস করছি।",
+    "banglish_speech": "ami tomake onek miss korchi",
+    "cumillah_bangla_speech": "আমি তোমারে অনেক মিস করতাছি",
+    "cumillah_banglish_speech": "ami tomare onek miss kortachi",
+    "region_name": "cumillah",
+    "english_speech": "i miss you so much"
+  },
+  {
+    "bangla_speech": "আমাদের বাসায় আজ মেহমান আসছে।",
+    "banglish_speech": "amar bashai aj mehman asche",
+    "cumillah_bangla_speech": "আমারার বাসাত আজকে মেমান আইছে",
+    "cumillah_banglish_speech": "amader bashat aj meman aiche",
+    "region_name": "cumillah",
+    "english_speech": "guest are coming to our house today"
+  },
+  {
+    "bangla_speech": "তুমি কি কোন মুভি দেখতে চাও?",
+    "banglish_speech": "tumi ki kono movie dekhte chao",
+    "cumillah_bangla_speech": "তুমি কি কোন মুভি দেখতে চাও",
+    "cumillah_banglish_speech": "tumi ki kono movie dekhte chao",
+    "region_name": "cumillah",
+    "english_speech": "do you want to watch a movie"
+  },
+  {
+    "bangla_speech": "আমার গাড়ির টায়ার পাংচার হয়েছে।",
+    "banglish_speech": "amar garir tayar pangchar hoyecehe",
+    "cumillah_bangla_speech": "আমার গাড়ির চাকা পাংচার হইছে",
+    "cumillah_banglish_speech": "amar garir chaka pangchar hoiche",
+    "region_name": "cumillah",
+    "english_speech": "my car got a flat tire"
+  },
+  {
+    "bangla_speech": "আজকের দিনটা খুব ভালো কাটল।",
+    "banglish_speech": "ajker dinta khub valo katlo",
+    "cumillah_bangla_speech": "আজকের দিনটা অনেক ভালা কাটছে",
+    "cumillah_banglish_speech": "ajker din ta onek valo katche",
+    "region_name": "cumillah",
+    "english_speech": "today is going very well"
+  },
+  {
+    "bangla_speech": "তুমি কি তোমার কাজ শেষ করেছো?",
+    "banglish_speech": "tumi ki tomar kaj sesh korecho",
+    "cumillah_bangla_speech": "তুমি কি তোমার কাম শেষ করছো?",
+    "cumillah_banglish_speech": "tumi ki tomar kam sesh korcho",
+    "region_name": "cumillah",
+    "english_speech": "have you finished your work"
+  },
+  {
+    "bangla_speech": "আমরা আজকে শপিংয়ে যাচ্ছি।",
+    "banglish_speech": "amra aj ke shoping a jacchi",
+    "cumillah_bangla_speech": "আমি আজকে শপিং ে যাইতাছি",
+    "cumillah_banglish_speech": "ami aj k shoping a jaitachi",
+    "region_name": "cumillah",
+    "english_speech": "i am going to shopping today"
+  },
+  {
+    "bangla_speech": "তুমি কি আমার সাথে বেড়াতে যাবে?",
+    "banglish_speech": "tumi ki amar sathe berate jabe",  
+    "cumillah_bangla_speech": "তুমি কি আমার লগে বেরাইতে যাইবা",
+    "cumillah_banglish_speech": "tumi ki amar loge beraite jaiba",
+    "region_name": "cumillah",
+    "english_speech": "will you go for a walk with me"
+  },
+
+  {
+    "bangla_speech": "আমি তোমার কথা শুনেছি।",
+    "banglish_speech": "ami tomar kotha sunchi",
+    "cumillah_bangla_speech": "আমি তোমার কথা শুনছি",
+    "cumillah_banglish_speech": "ami tomar kotha sunchi",
+    "region_name": "cumillah",
+    "english_speech": "i am listening to you"
+  },
+  {
+    "bangla_speech": "ওরা কি আজ আসবে?",
+    "banglish_speech": "ora ki aj asbe",
+    "cumillah_bangla_speech": "হেরা কি আজ আইব",
+    "cumillah_banglish_speech": "hera ki aj aibo",
+    "region_name": "cumillah",
+    "english_speech": "will they come today"
+  },
+  {
+    "bangla_speech": "এই বইটা অনেক ভালো লেগেছে।",
+    "banglish_speech": "ei boita onek valo legeche",
+    "cumillah_bangla_speech": "এই বইটা অনেক ভাল্লাগছে",
+    "cumillah_banglish_speech": "ei boita onek vallagche",
+    "region_name": "cumillah",
+    "english_speech": "this book is very good"
+  },
+  {
+    "bangla_speech": "আমার খুব ক্ষুধা লাগছে।",
+    "banglish_speech": "amar khub khudha lagche",
+    "cumillah_bangla_speech": "আমার অনেক খিদা লাগছে",
+    "cumillah_banglish_speech": "amar  onek kidha lagche",
+    "region_name": "cumillah",
+    "english_speech": "i feel very hungry"
+  },
+  {
+    "bangla_speech": "তুমি কোথায় যাচ্ছ?",
+    "banglish_speech": "tumi kothae jaccho",
+    "cumillah_bangla_speech": "তুমি কই যাইতাছ",
+    "cumillah_banglish_speech": "tumi koi jaitacho",
+    "region_name": "cumillah",
+    "english_speech": "where are you going"
+  },
+  {
+    "bangla_speech": "আজকের আবহাওয়া খুব সুন্দর।",
+    "banglish_speech": "ajker abohaoya khub sundor",
+    "cumillah_bangla_speech":"আজকের আবহাওয়া অনেক সুন্দর।",
+    "cumillah_banglish_speech": "ajker abohaoya onek sundor",
+    "region_name": "cumillah",
+    "english_speech": "todays weather is very nice"
+  },
+  {
+    "bangla_speech": "আমি এখন ঘুমাতে যাচ্ছি।",
+    "banglish_speech": "ami ekhn ghumate jachhi",
+    "cumillah_bangla_speech": "আমি এহন ঘুমাইতে যাই তাছি ",
+    "cumillah_banglish_speech": "ami ehon ghumaite jaitachi",
+    "region_name": "cumillah",
+    "english_speech": "now i am going to sleep"
+  },
+  {
+    "bangla_speech": "তুমি কি আমাকে সাহায্য করতে পারবে?",
+    "banglish_speech": "tumi ki amake sahajjo korte parbe",
+    "cumillah_bangla_speech": "তুমি কি আমারে সাহায্য করতে পারবা",
+    "cumillah_banglish_speech": "tumi ki amare sahajjo korte parba",
+    "region_name": "cumillah",
+    "english_speech": "can you help me"
+  },
+  {
+    "bangla_speech": "সে আজ স্কুলে যায়নি।",
+    "banglish_speech": "se aj school a jaini",
+    "cumillah_bangla_speech": "হে আজকে স্কুল এ গেছেনা",
+    "cumillah_banglish_speech": "he aj k school a gechena",
+    "region_name": "cumillah",
+    "english_speech": "he didn't go to school today"
+  },
+  {
+    "bangla_speech": "আমার একটা নতুন গাড়ি কিনতে হবে।",
+    "banglish_speech": "amar ekta notun gari kinte hobe ",
+    "cumillah_bangla_speech": "আমার একটা নতুন গাড়ি কিনতে হইব",
+    "cumillah_banglish_speech": "amar ekta notun gari kinte hoibo",
+    "region_name": "cumillah",
+    "english_speech": "i have to buy a new car"
+  },
+  {
+    "bangla_speech": "এই রেস্টুরেন্টের খাবার খুব সুস্বাদু।",
+    "banglish_speech": "ei restaurent er khabar sushadu",
+    "cumillah_bangla_speech": "এই রেস্টুরেন্টের খাবার অনেক মজার।",
+    "cumillah_banglish_speech": "ei restaurent er khabar onek mojar",
+    "region_name": "cumillah",
+    "english_speech": "the food of this restaurent is very delicious"
+  },
+  {
+    "bangla_speech": "তুমি কি এই সিনেমাটা দেখেছো?",
+    "banglish_speech":"tumi ki ei cinemata dekhecho",
+    "cumillah_bangla_speech": "তুমি কি এই চিনেমা টা দেখছ",
+    "cumillah_banglish_speech": "tumi ki ei cinemata dekhecho",
+    "region_name": "cumillah",
+    "english_speech": "have you seen this movie"
+  },
+  {
+    "bangla_speech": "আজকে সন্ধ্যায় আমি ব্যস্ত আছি।",
+    "banglish_speech": "ajke sondhai ami besto achi",
+    "cumillah_bangla_speech": "আজকে সন্ধাই আমি ব্যস্ত আছি",
+    "cumillah_banglish_speech": "aj ke sondhai ami besto achi",
+    "region_name": "cumillah",
+    "english_speech": "i am busy this evening"
+  },
+  {
+    "bangla_speech": "আমার বাসায় আজ অনেক কাজ আছে।",
+    "banglish_speech": "amar bashai aj onek kaj ache",
+    "cumillah_bangla_speech": "আমার বাসাত আজকে অনেক কাম আছে ",
+    "cumillah_banglish_speech": "amar basate ajke onek kam ache",
+    "region_name": "cumillah",
+    "english_speech": "i have a lot of work at my home today"
+  },
+  {
+    "bangla_speech": "তুমি কখন বাড়ি ফিরে আসবে?",
+    "banglish_speech": "tumi kokhn bari fire asbe",
+    "cumillah_bangla_speech": "তুমি কহন বাসাত আইবা",
+    "cumillah_banglish_speech": "tumi kohon basat aiba",
+    "region_name": "cumillah",
+    "english_speech": "when will you come back home"
+  },
+  {
+    "bangla_speech": "আজকে অনেক বৃষ্টি হবে।",
+    "banglish_speech": "aj ke onek bristy hobe",
+    "cumillah_bangla_speech": "আজকে অনেক  বৃষ্টি হইব",
+    "cumillah_banglish_speech": "aj k onek bristi hoibo",
+    "region_name": "cumillah",
+    "english_speech": "it will rain a lot today"
+  },
+  {
+    "bangla_speech": "আমি একটা নতুন মোবাইল কিনেছি।",
+    "banglish_speech": "ami ekta notun mobile kinechi",
+    "cumillah_bangla_speech": "আমি একটা নতুন মোবাইল কিনছি",
+    "cumillah_banglish_speech": "ami ekta notun mobile kinechi",
+    "region_name": "cumillah",
+    "english_speech": "i bought a new mobile"
+  },
+  {
+    "bangla_speech": "তোমার নাম কি?",
+    "banglish_speech": "tomar nam ki",
+    "cumillah_bangla_speech": "তোমার নাম কি",
+    "cumillah_banglish_speech": "tomar nam ki",
+    "region_name": "cumillah",
+    "english_speech": "what's your name "
+  },
+  {
+    "bangla_speech": "আমরা আগামীকাল পিকনিকে যাচ্ছি।",
+    "banglish_speech": "amra agamikal pinic e jachi",
+    "cumillah_bangla_speech": "আমরা আগামিকাল পিকনিক এ জাইতাছি",
+    "cumillah_banglish_speech": "amra agamikal picnic a  jaitachi",
+    "region_name": "cumillah",
+    "english_speech": "we are going on a picnic tomorrow"
+  },
+  {
+    "bangla_speech": "তুমি কি আমাকে কিছু পরামর্শ দিতে পারবে?",
+    "banglish_speech": "tumi ki amake kichu poramorsho dite parbe",
+    "cumillah_bangla_speech": "তুমি কি আমারে কিছু পরামর্শ দিতে পারবা",
+    "cumillah_banglish_speech":"tmi ki amare kichu poramorsho dite parba",
+    "region_name": "cumillah",
+    "english_speech": "can you give me some advice"
+  },
+  {
+    "bangla_speech": "আজকে আমি খুব খুশি।",
+    "banglish_speech": "aj ke ami khub khushi",
+    "cumillah_bangla_speech": "আজকে আমি অনেক খুশি",
+    "cumillah_banglish_speech": "ajke ami onek khushi",
+    "region_name": "cumillah",
+    "english_speech": "i am very happy today"
+  },
+  {
+    "bangla_speech": "সে খুব মেধাবী।",
+    "banglish_speech": "se khub medhabi",
+    "cumillah_bangla_speech": "হে খুব মেধাবি ",
+    "cumillah_banglish_speech": "he khub medhabi",
+    "region_name": "cumillah",
+    "english_speech": "he is very talented"
+  },
+  {
+    "bangla_speech": "আমি নতুন কিছু শিখতে চাই।",
+    "banglish_speech": "ami notun kichu sikhte chai",
+    "cumillah_bangla_speech": "আমি নতুন কিসু শিখতে চাই",
+    "cumillah_banglish_speech": "ami notun kichu sikhte chai",
+    "region_name": "cumillah",
+    "english_speech": "i want to learn something new"
+  },
+
+  {
+    "bangla_speech": "তুমি কি আমার সাথে কথা বলতে চাও না",
+    "banglish_speech": "tumi ki amar sathe kotha bolte chao na",
+    "cumillah_bangla_speech": "তুমি কি আমার লগে কথা কইতে চাও না",
+    "cumillah_banglish_speech": "tumi ki amar loge kotha koite chao na",
+    "region_name": "cumillah",
+    "english_speech": "don't you want to talk to me"
+  },
+  {
+    "bangla_speech": "আপনি হতাশ হবেন না যা হবে ভালো হবে",
+    "banglish_speech": "apni hotash hobenna ja hobe valo hbe",
+    "cumillah_bangla_speech": "আম্নে হতাশ হইয়েনা জা হইব ভাল হবে",
+    "cumillah_banglish_speech": "amne hotash hoiyenna ja hoibo valo hoibo",
+    "region_name": "cumillah",
+    "english_speech": "you will not be disapointed it will be good"
+  },
+  {
+    "bangla_speech": "তুমি জানো আমার মাঝে মাঝে তোমাকে নিয়ে ভয় হয়",
+    "banglish_speech": "tumi jano amar majhe majhe tomake niye voy hoi",
+    "cumillah_bangla_speech": "তুমি জানো আমার মাঝে মাঝে তোমারে নিয়া ডর লাগে ",
+    "cumillah_banglish_speech": "tumi jano amar tomare niye majhe majhe dor lage",
+    "region_name": "cumillah",
+    "english_speech": "you know i am afraid of you sometimes"
+  },
+  {
+    "bangla_speech": "আমি জানি তুমি একজন ভালো মনের মানুষ",
+    "banglish_speech": "ami jani tumi ekjon valo moner manush",
+    "cumillah_bangla_speech": "আমি জানি তুমি একজন ভাল মনের মানুষ",
+    "cumillah_banglish_speech": "ami jani tumi ekjon valo moner manush",
+    "region_name": "cumillah",
+    "english_speech": "i know you are a god hearted person"
+  },
+  {
+    "bangla_speech": "তুমি বাসা কোথায়?",
+    "banglish_speech": "tomar basha kothai",
+    "cumillah_bangla_speech": "তোমার বাসা কই",
+    "cumillah_banglish_speech": "tomar basha koi",
+    "region_name": "cumillah",
+    "english_speech": "where is your home"
+  },
+  {
+    "bangla_speech": "আপনি কেমন আছেন?",
+    "banglish_speech": "apni kemon acehen",
+    "cumillah_bangla_speech": "আম্নে কেমন আছেন",
+    "cumillah_banglish_speech": "amne kemon achen",
+    "region_name": "cumillah",
+    "english_speech": "how are you"
+  },
+  {
+    "bangla_speech": "একটু পর অন্ধকার হয়ে যাবে",
+    "banglish_speech": "ektu por ondhokar hoye jabe",
+    "cumillah_bangla_speech": "একটু পরে অন্ধকার হইয়া যাইব ",
+    "cumillah_banglish_speech": "ektu pore ondhokar hoiya jaibo",
+    "region_name": "cumillah",
+    "english_speech": "After a while it will be dark"
+  },
+  {
+    "bangla_speech": "সে কি করে",
+    "banglish_speech": "se ki kore",
+    "cumillah_bangla_speech": "হেতে কিতা করে",
+    "cumillah_banglish_speech": "hete kita kore",
+    "region_name": "cumillah",
+    "english_speech": "what does he do"
+  },
+  {
+    "bangla_speech": "কাজ করো না",
+    "banglish_speech": "kaj korona",
+    "cumillah_bangla_speech": "কাম করো না",
+    "cumillah_banglish_speech": "kam koro na",
+    "region_name": "cumillah",
+    "english_speech": "Don't work?"
+  },
+  {
+    "bangla_speech": "সে এইভাবে শুয়ে আছে কেন?",
+    "banglish_speech": "se eivabe suye ache keno",
+    "cumillah_bangla_speech": "হেতে এমনে হুইতা আছে কেন",
+    "cumillah_banglish_speech": "hete emne huitta ache keno",
+    "region_name": "cumillah",
+    "english_speech": "Why is he lying like this?"
+  },
+  {
+    "bangla_speech": "এক পা উপরে আরেক পা নিচে",
+    "banglish_speech": "ek pa upore r ek pa niche",
+    "cumillah_bangla_speech": "এক ঠ্যাং উফরে আরেক ঠ্যাং নিছে ",
+    "cumillah_banglish_speech": "ek theng ufre ar ek theng niche",
+    "region_name": "cumillah",
+    "english_speech": "One foot up, one foot down"
+  },
+  {
+    "bangla_speech": "আসার পর থেকে দেখছি সে শুয়ে আছে",
+    "banglish_speech": "ashar por theke dekhchi se suye ache",
+    "cumillah_bangla_speech": "আওনের পর তে দেখতাছি হেতে হুইত্তা রইছে",
+    "cumillah_banglish_speech": "aoner por te dekhtachi hete huitta roiche",
+    "region_name": "cumillah",
+    "english_speech": "I have seen him sleeping since coming"
+  },
+  {
+    "bangla_speech": "এখন পর্যন্ত একটা কাজ করে নাই ঘরের",
+    "banglish_speech": "ekohn porjonto ekta kaj kore nai ghorer",
+    "cumillah_bangla_speech": "অহন পইযন্ত একটা কাম করছে না ঘরের",
+    "cumillah_banglish_speech": "ohon porjono ekta korche na ghorer",
+    "region_name": "cumillah",
+    "english_speech": "So far no work has been done in the house"
+  },
+  {
+    "bangla_speech": "কি করছো?",
+    "banglish_speech": "ki korecho",
+    "cumillah_bangla_speech": "কি করতাছস?",
+    "cumillah_banglish_speech": "ki kortachos",
+    "region_name": "cumillah",
+    "english_speech": "what are you doing"
+  },
+  {
+    "bangla_speech": "সন্ধা বেলা কিসের খাবার খাও?",
+    "banglish_speech": "sondha beka kiser khaoya khao",
+    "cumillah_bangla_speech": "হান্জা বেলা কিসের খাওন খাছ",
+    "cumillah_banglish_speech": "hanja bela kiser khaon khaccho",
+    "region_name": "cumillah",
+    "english_speech": "What do you eat in the evening?"
+  },
+  {
+    "bangla_speech": "চলেন ভিতরে কি আছে দেখি",
+    "banglish_speech": "cholen vitore ki ache dekhi",
+    "cumillah_bangla_speech": "চলেন ভিতরে কিতা আছে চাই",
+    "cumillah_banglish_speech": "cholen vitore kita ache chai",
+    "region_name": "cumillah",
+    "english_speech": "Let's see what's inside"
+  },
+  {
+    "bangla_speech": "এখানে চানাচুর বিক্রি করে",
+    "banglish_speech": "ekhane chanachur bikri kore",
+    "cumillah_bangla_speech": "এনো চানাচুর বেছে ",
+    "cumillah_banglish_speech": "eno chanachur beche",
+    "region_name": "cumillah",
+    "english_speech": "Chanachur is sold here"
+  },
+  {
+    "bangla_speech": "এখন চিন্তা করতেছি হালিম খাবো",
+    "banglish_speech": "ekhon cinta kortechi halim khabo",
+    "cumillah_bangla_speech": "অহন  চিন্তা করতাছি হালিম খামু",
+    "cumillah_banglish_speech": "ohon cinta kortachi halim khamu",
+    "region_name": "cumillah",
+    "english_speech": "Now I am thinking of eating Halim"
+  },
+  {
+    "bangla_speech": "তার মানে তার খাবারটা ভালো",
+    "banglish_speech": "tar mane tar khabar ta valo",
+    "cumillah_bangla_speech": "তার মানে হেতের খানাডা ভালা",
+    "cumillah_banglish_speech": "tar mane heter khanada vala",
+    "region_name": "cumillah",
+    "english_speech": "That means his food is good"
+  },
+  {
+    "bangla_speech": "তার দোকানে মানুষ বেশি আছে",
+    "banglish_speech": "tar dokane manush beshi ache",
+    "cumillah_bangla_speech": "হেতের দোহানে মানুষ বেশি আইয়ে ",
+    "cumillah_banglish_speech": "heter dokane manush beshi aiye",
+    "region_name": "cumillah",
+    "english_speech": "There are more people in his shop"
+  },
+  {
+    "bangla_speech": "আপনাদের ইচ্ছা",
+    "banglish_speech": "apnader iccha",
+    "cumillah_bangla_speech": "আমনেরার ইচ্ছা",
+    "cumillah_banglish_speech": "amner iccha",
+    "region_name": "cumillah",
+    "english_speech": "your wish"
+  },
+  {
+    "bangla_speech": "আসেন হালিম খাবো আজকে",
+    "banglish_speech": "ashen halim khai",
+    "cumillah_bangla_speech": "আইয়েন হলিম খামু আইজগা",
+    "cumillah_banglish_speech": "aiyen halim khaite jamu",
+    "region_name": "cumillah",
+    "english_speech": "Come eat Halim today"
+  },
+  {
+    "bangla_speech": "হালিম আপনারা পেয়ে যাবেন",
+    "banglish_speech": "  halim apnara peye jaben",
+    "cumillah_bangla_speech": "হালিম আম্নেরা পাইয়া যাইবেন",
+    "cumillah_banglish_speech": "halim amnera paiya jaiben",
+    "region_name": "cumillah",
+    "english_speech": "Halim Anna will get it"
+  },
+  {
+    "bangla_speech": "ভাই কে কি বললো তা কানে না দিয়ে চালিয়ে যান ",
+    "banglish_speech": " vai k ki bollota kane na niye chaliye jan ",
+    "cumillah_bangla_speech": "ভাই কেডায় কিতা কইলো ইতান কানে না দিয়া চালায় যান",
+    "cumillah_banglish_speech": "vai kedai kita koilo etan kane na diya chalaiya jan",
+    "region_name": "cumillah",
+    "english_speech": "Ignore what your brother said and continue"
+  },
+  {
+    "bangla_speech": "ভালোই লাগলো শুনতে",
+    "banglish_speech": " valoi laglo sunte ",
+    "cumillah_bangla_speech": "ভালাই লাগলো হুনতে",
+    "cumillah_banglish_speech": "valoi laglo hunte",
+    "region_name": "cumillah",
+    "english_speech": "Good to hear"
+  },
+  {
+    "bangla_speech": "সকল মানুষ তাদের নিজ ভাষায় কথা বলে",
+    "banglish_speech": " sokol manush tader nij vashai kotha bole ",
+    "cumillah_bangla_speech": "হগল মানু তাগো তাগো ভাষা্ত কতা কয়",
+    "cumillah_banglish_speech": "hugol manu tago tago vasat kotha koi",
+    "region_name": "cumillah",
+    "english_speech": "All people speak their own language"
+  },
+  {
+    "bangla_speech": "আমরা যেভাবে কথা বলি",
+    "banglish_speech": " amora jevabe kotha boli ",
+    "cumillah_bangla_speech": "আমরা যেমনে কতা কই ",
+    "cumillah_banglish_speech": "amra jemne kota koi",
+    "region_name": "cumillah",
+    "english_speech": "the way we talk"
+  },
+  {
+    "bangla_speech": "চার বোন বাড়িতে আছি",
+    "banglish_speech": " char bon barite achi ",
+    "cumillah_bangla_speech": "চাইর বইন বাইত আছি",
+    "cumillah_banglish_speech": "chaer boin baiet achi",
+    "region_name": "cumillah",
+    "english_speech": "Four sisters are at home"
+  },
+  {
+    "bangla_speech": "যা খাবো সেটাই লাভ",
+    "banglish_speech": " ja khabo setae lav ",
+    "cumillah_bangla_speech": "যা খায়াম তাই লাভ",
+    "cumillah_banglish_speech": "ja khaiyam tai lav",
+    "region_name": "cumillah",
+    "english_speech": "What I eat is the profit"
+  },
+  {
+    "bangla_speech": "দেখেন সে কি নাটক করছে",
+    "banglish_speech": " dekhen se ki natok korche ",
+    "cumillah_bangla_speech": "দেহেন হেতি কি নাটক করতাছে",
+    "cumillah_banglish_speech": "dehen heti ki natok kortache",
+    "region_name": "cumillah",
+    "english_speech": "See what drama he is doing"
+  },
+  {
+    "bangla_speech": "এগুলো  আমাদের গাছ",
+    "banglish_speech": "  ",
+    "cumillah_bangla_speech": "এডি আমরার গাছ",
+    "cumillah_banglish_speech": "edi amar gas",
+    "region_name": "cumillah",
+    "english_speech": "These are our trees"
+  },
+  {
+    "bangla_speech": "কি বলতে হবে বলো",
+    "banglish_speech": "  ",
+    "cumillah_bangla_speech": "কি কওন লাগবো কওঁ",
+    "cumillah_banglish_speech": "ki kouon lagbo kou",
+    "region_name": "cumillah",
+    "english_speech": "tell me what to say"
+  },
+  {
+    "bangla_speech": "এসে আর খাই নাই",
+    "banglish_speech": "  ",
+    "cumillah_bangla_speech": "আইয়া আর খাইছি না",
+    "cumillah_banglish_speech": "aiya ar khaichi na",
+    "region_name": "cumillah",
+    "english_speech": "I did not come and eat"
+  },
+  {
+    "bangla_speech": "তার দেখার বিষয় না",
+    "banglish_speech": "  ",
+    "cumillah_bangla_speech": "হেতের দেহার বিষয় না ",
+    "cumillah_banglish_speech": "heter dehar bisoi na",
+    "region_name": "cumillah",
+    "english_speech": "Not his thing to watch"
+  },
+
+  {
+    "bangla_speech": "মাটির চুলা",
+    "banglish_speech": "  matir chula",
+    "cumillah_bangla_speech": "মাইট্টা চুলা",
+    "cumillah_banglish_speech": "maitta chula",
+    "region_name": "cumillah",
+    "english_speech": "Clay oven"
+  },
+  {
+    "bangla_speech": "ঐ যায়গায় যেয়ো না",
+    "banglish_speech": " oi jaigai jeyo na ",
+    "cumillah_bangla_speech": "হেদিকে যাইছ না",
+    "cumillah_banglish_speech": "hedike jaich na",
+    "region_name": "cumillah",
+    "english_speech": "Don't go there"
+  },
+  {
+    "bangla_speech": "ভাত খেতে আসো",
+    "banglish_speech": "  vat khete aso",
+    "cumillah_bangla_speech": "ভাত খাইতে আয়",
+    "cumillah_banglish_speech": "vat khaite ay",
+    "region_name": "cumillah",
+    "english_speech": "come to eat rice"
+  },
+  {
+    "bangla_speech": "আজকে আমি বাজার করতে যাব",
+    "banglish_speech": " ajke ami bajar korte jabo ",
+    "cumillah_bangla_speech": "আজগা আমি বাজার করতাম যায়াম ",
+    "cumillah_banglish_speech": "ajga ami bajar kortam jayam",
+    "region_name": "cumillah",
+    "english_speech": "Today I will go to the market"
+  },
+  {
+    "bangla_speech": "প্রতিদিন একই খাবার খেতে আর ভালো লাগে না",
+    "banglish_speech": " protidin ek e khabar khete valo lagena ",
+    "cumillah_bangla_speech": "প্রতিদিন এক খাওন খাইতে আর ভালালাগে না",
+    "cumillah_banglish_speech": "protidin ek khaon khaite vala lage na",
+    "region_name": "cumillah",
+    "english_speech": "I don't like eating the same food every day"
+  },
+  {
+    "bangla_speech": "তুমি হঠাৎ করে কোথা থেকে আসলে",
+    "banglish_speech": " tumi hotath kotha theke asle ",
+    "cumillah_bangla_speech": "তুই আতকা কইত্তে আইলি",
+    "cumillah_banglish_speech": "tui atka koitte aili",
+    "region_name": "cumillah",
+    "english_speech": "Where did you suddenly come from?"
+  },
+  {
+    "bangla_speech": "আজ সন্ধা বেলা ঘুরতে যাবো",
+    "banglish_speech": " aj sondha bela ghurte jabo ",
+    "cumillah_bangla_speech": "আইজ্জা হাইন্জা বেলা ঘুরতাম যামু",
+    "cumillah_banglish_speech": "ayejja hanja bela ghurtam jamu",
+    "region_name": "cumillah",
+    "english_speech": "I will go for a walk this evening"
+  },
+  {
+    "bangla_speech": "সকালে কাজ শুরু করি রাতেও শেষ হয় না",
+    "banglish_speech": "  sokale kaj suru kori rat eo sesh hoina",
+    "cumillah_bangla_speech": "বেইন্না বেলা কাম শুরু করি রাইতেও শেষ হয় না ",
+    "cumillah_banglish_speech": "beinna bela kam suru kori raiteo sesh hoina",
+    "region_name": "cumillah",
+    "english_speech": "I start work in the morning and it doesn't end at night"
+  },
+  {
+    "bangla_speech": "এই মহিলাটা খুব বেয়াদব",
+    "banglish_speech": " ei mohilata khub beyadob ",
+    "cumillah_bangla_speech": "এই বেডিডা হুদ্দা বেয়াদব",
+    "cumillah_banglish_speech": "ei bedida hudda beyadob",
+    "region_name": "cumillah",
+    "english_speech": "This woman is very rude"
+  },
+  {
+    "bangla_speech": "সারাটা দিন পরে পরে ঘুমায়",
+    "banglish_speech": "sarata din pore pore ghumai  ",
+    "cumillah_bangla_speech": "হারাডা দিন পইরা পইরা ঘুমায়",
+    "cumillah_banglish_speech": "harada din pora poira ghumai",
+    "region_name": "cumillah",
+    "english_speech": "After the whole day he sleeps"
+  },
+  {
+    "bangla_speech": "কাজের কোনো খবর নাই",
+    "banglish_speech": " kajer kono khobor nai ",
+    "cumillah_bangla_speech": "কাম কাইজের কোনো খবর নাই",
+    "cumillah_banglish_speech": "kam kaijer kono khobor nai",
+    "region_name": "cumillah",
+    "english_speech": "No work news"
+  },
+  {
+    "bangla_speech": "এই মেয়ে তুই এখানে কি করিস",
+    "banglish_speech": " ei meye tui ekhane ki korish ",
+    "cumillah_bangla_speech": "এই মাইয়া তুই এনো কি করোছ ",
+    "cumillah_banglish_speech": "ei maiya tui eno ki koroch",
+    "region_name": "cumillah",
+    "english_speech": "what are you doing here girl"
+  },
+  {
+    "bangla_speech": "আরে সে তো একটা চাপাবাজ",
+    "banglish_speech": "  are se to ekta chapabaj",
+    "cumillah_bangla_speech": "আও হেইতে তো একটা চাফাবাজ",
+    "cumillah_banglish_speech": "ao heite ekta chafabaj",
+    "region_name": "cumillah",
+    "english_speech": "Hey, he's a pushover"
+  },
+  {
+    "bangla_speech": "কথায় কথায় শুধু মিথ্যে কথা বলে",
+    "banglish_speech": " kothai kothai sudu mittha kotha bole ",
+    "cumillah_bangla_speech": "কতায় কতায় খালি মিছা কতা কয়",
+    "cumillah_banglish_speech": "kotai kotai khali misa kota koi",
+    "region_name": "cumillah",
+    "english_speech": "Words only tell lies"
+  },
+  {
+    "bangla_speech": "এখন আর আগের মতো খাইতে পারি না",
+    "banglish_speech": " ekhon ar ager moto khaite parina ",
+    "cumillah_bangla_speech": "এহন আর আগের মতন খাইতাম পারি না",
+    "cumillah_banglish_speech": "ehon ar ager moto khaitam pari na",
+    "region_name": "cumillah",
+    "english_speech": "Now I can't eat like before"
+  },
+  {
+    "bangla_speech": "তুমি না আগে দেখতে আরও সুন্দর ছিলা",
+    "banglish_speech": " tumi na age dekhte aro sundor sila ",
+    "cumillah_bangla_speech": " তুমি না আগে দেকতে আরও সুন্দর আছিলা",
+    "cumillah_banglish_speech": "tumi na age dekte aro sundor achila",
+    "region_name": "cumillah",
+    "english_speech": "You were more beautiful than before "
+  },
+  {
+    "bangla_speech": "পেয়ারা খাবা?",
+    "banglish_speech": " peyara khaba ",
+    "cumillah_bangla_speech": "গয়াম খাবি?",
+    "cumillah_banglish_speech": "goyam khabi",
+    "region_name": "cumillah",
+    "english_speech": "Eat guava?"
+  },
+  {
+    "bangla_speech": "কাছে আসো",
+    "banglish_speech": " kache asho ",
+    "cumillah_bangla_speech": "এইফিল আয়",
+    "cumillah_banglish_speech": "eifil ay",
+    "region_name": "cumillah",
+    "english_speech": "come closer"
+  },
+  {
+    "bangla_speech": "পানি খাব",
+    "banglish_speech": " pani khabo ",
+    "cumillah_bangla_speech": "পানি খায়াম",
+    "cumillah_banglish_speech": "pani khaiyam",
+    "region_name": "cumillah",
+    "english_speech": "drink water"
+  },
+  {
+    "bangla_speech": "ওরা কোথা থেকে আসছে?",
+    "banglish_speech": "ora kotha theke asche  ",
+    "cumillah_bangla_speech": "হেতারা কইত্তে আইছে ",
+    "cumillah_banglish_speech": "hetera koitte aiche",
+    "region_name": "cumillah",
+    "english_speech": "Where are they coming from?"
   }
 ]
