@@ -1527,7 +1527,7 @@
     "bangla_speech": "আপনাকে পড়ালেখা  করতে হবে",
     "banglish_speech": "apnake poralekha korte hobe",
     "kishoreganjh_bangla_speech": "আফনের পড়ালেহা করতে হইব",
-    "kishoreganjh_banglish_speech": "apner poraleha korte hibo",
+    "kishoreganjh_banglish_speech": "afner poraleha korte hoibo",
     "region_name": "kishoreganjh",
     "english_speech": "You have to study"
   },
@@ -1535,7 +1535,7 @@
     "bangla_speech": "আপনার কি কি পড়ালেখা করতে একদমই ভাল লাগে নাহ?",
     "banglish_speech": "apnar ki poralekha korte ekdomi valo lage nah?",
     "kishoreganjh_bangla_speech": "আফনের কি পড়ালেহা করতে একবারে ভালালাগে নাহ?",
-    "kishoreganjh_banglish_speech": "apner ki poraleha korte ekkerei valalage nah?",
+    "kishoreganjh_banglish_speech": "afner ki poraleha korte ekbare valalage nah?",
     "region_name": "kishoreganjh",
     "english_speech": "Do you not like to study at all?"
   },
@@ -1543,7 +1543,7 @@
     "bangla_speech": "তোর পড়ালেখা করতে হবে",
     "banglish_speech": "tor poralekha korte hobe",
     "kishoreganjh_bangla_speech": "তর পড়ালেহা করতেই হইব",
-    "kishoreganjh_banglish_speech": "tor poraleha korte hoibo",
+    "kishoreganjh_banglish_speech": "tor poraleha kortei hoibo",
     "region_name": "kishoreganjh",
     "english_speech": "You have to study"
   },
@@ -1551,7 +1551,7 @@
     "bangla_speech": "তুই কি আর পড়ালেখা করবি নাহ ?",
     "banglish_speech": "tui ki ar poralekha korbi nah ?",
     "kishoreganjh_bangla_speech": "তুই কি আর পড়ালেহা করতে নাহ?",
-    "kishoreganjh_banglish_speech": "tui ki ar poraleha korti nah?",
+    "kishoreganjh_banglish_speech": "tui ki ar poraleha korte nah?",
     "region_name": "kishoreganjh",
     "english_speech": "Will you study again?"
   },
@@ -1559,7 +1559,7 @@
     "bangla_speech": "তুই কি পড়ালেখা ছেড়ে দিতে চাস ?",
     "banglish_speech": "tui ki poralekha chere dite chas ?",
     "kishoreganjh_bangla_speech": "তুই কি পড়ালেহা ছাইরা দিতে চাছ?",
-    "kishoreganjh_banglish_speech": "tui ki poraleha chaira dite cas?",
+    "kishoreganjh_banglish_speech": "tui ki poraleha chaira dite cacho?",
     "region_name": "kishoreganjh",
     "english_speech": "Do you want to quit studying?"
   },
@@ -1567,7 +1567,7 @@
     "bangla_speech": "তুমি কি এখন খেতে বসবা  ?",
     "banglish_speech": "tumi ki ekhon khete boshba ?",
     "kishoreganjh_bangla_speech": "তুমি কি অহন খাইতে বইবা",
-    "kishoreganjh_banglish_speech": "tumi ki ehon khaite boiba",
+    "kishoreganjh_banglish_speech": "tumi ki ohon khaite boiba",
     "region_name": "kishoreganjh",
     "english_speech": "Are you going to eat now?"
   },
@@ -1575,7 +1575,7 @@
     "bangla_speech": "আজকে আমার খেতে ভালো লাগছে না",
     "banglish_speech": "ajke amar khete valo lagche na",
     "kishoreganjh_bangla_speech": "আচকে আমার খাইতাম ভাললাগতাছেনা",
-    "kishoreganjh_banglish_speech": "aijka amar khaite vala lagtasena",
+    "kishoreganjh_banglish_speech": "acke amar khaitam vallagtachena",
     "region_name": "kishoreganjh",
     "english_speech": "I don't feel like eating today"
   },
@@ -1583,7 +1583,7 @@
     "bangla_speech": "আমার  বিদ্যালয়ে  অনেক বন্ধু আছে",
     "banglish_speech": "amar biddaloye onek bondhu ache",
     "kishoreganjh_bangla_speech": "আমার ইস্কুলো অনেক বন্ধু আচে",
-    "kishoreganjh_banglish_speech": "amar schoole onek bondhu ase",
+    "kishoreganjh_banglish_speech": "amar schoolo onek bondhu ace",
     "region_name": "kishoreganjh",
     "english_speech": "I have many friends at school"
   },
@@ -1591,7 +1591,7 @@
     "bangla_speech": "আমার ছোট বোন বিদ্যালয়ে  যেতে চায় না",
     "banglish_speech": "amar choto bon biddaloye jete chay na",
     "kishoreganjh_bangla_speech": "আমার ছোডু বইন ইস্কুলো যাইতো চায় না",
-    "kishoreganjh_banglish_speech": "amar choto boin schoole jaite chay na",
+    "kishoreganjh_banglish_speech": "amar chudo boin schoole jaito cay na",
     "region_name": "kishoreganjh",
     "english_speech": "My younger sister doesn't want to go to school"
   },
@@ -1599,7 +1599,7 @@
     "bangla_speech": "আমার বিদ্যালয়ে  যেতে অনেক ভাল লাগে",
     "banglish_speech": "amar biddaloye jete onek valo lage",
     "kishoreganjh_bangla_speech": "আমার ইস্কুলে যাইতাম অনেক ভাললাগে",
-    "kishoreganjh_banglish_speech": "amar schoole jaite onek vala lage",
+    "kishoreganjh_banglish_speech": "amar schoole jaitam onek vallage",
     "region_name": "kishoreganjh",
     "english_speech": "I like going to school very much"
   },
@@ -1607,7 +1607,7 @@
     "bangla_speech": "সে তার গ্রামের একটি বিদ্যালয়ে পড়ালেখা করে",
     "banglish_speech": "se tar gramer ekti biddaloye poralekha kore",
     "kishoreganjh_bangla_speech": "হে হেই গ্রামের একটা ইস্কুলে পড়ালেহা করে",
-    "kishoreganjh_banglish_speech": "hey tar geramer ekta schoole poraleha kore",
+    "kishoreganjh_banglish_speech": "hey hei geramer ekta schoole poraleha kore",
     "region_name": "kishoreganjh",
     "english_speech": "He studies in a school in his village"
   },
@@ -1615,7 +1615,7 @@
     "bangla_speech": "তার বিদ্যালয়ে  গিয়ে পড়ালেখা করতে ভাল লাগে না",
     "banglish_speech": "tar biddaloye giye poralekha korte valo lage na",
     "kishoreganjh_bangla_speech": "হের ইস্কুলে যাইয়া পড়ালেহা করতে ভালা লাগে না",
-    "kishoreganjh_banglish_speech": "her school e jaya poraleha korte vala lage na",
+    "kishoreganjh_banglish_speech": "her schoole jaia poraleha korte vala lage na",
     "region_name": "kishoreganjh",
     "english_speech": "He does not like to go to school and study"
   },
@@ -1623,7 +1623,7 @@
     "bangla_speech": "সে বিদ্যালয়ে  গিয়ে বন্ধুদের সাথে গল্প করে",
     "banglish_speech": "se biddaloye giye bondhuder sathe golpo kore",
     "kishoreganjh_bangla_speech": "হে ইস্কুলে গেয়া বন্ধুরার লগে গপ্প হরে",
-    "kishoreganjh_banglish_speech": "hey school e jaya bondhurar sathe golpo kore",
+    "kishoreganjh_banglish_speech": "hey schoole gea bondhurar loge goppo hore",
     "region_name": "kishoreganjh",
     "english_speech": "He goes to school and chats with his friends"
   },
@@ -1631,7 +1631,7 @@
     "bangla_speech": "সে বিদ্যালয়ের  মাঠে প্রতিদিন ক্রিকেট খেলে",
     "banglish_speech": "se biddaloye mathe protidin cricket khele",
     "kishoreganjh_bangla_speech": "হে ইস্কুলের মাডো পতিদিন টিহেট কেলে",
-    "kishoreganjh_banglish_speech": "hey school er mathe prottekdin cricket khele",
+    "kishoreganjh_banglish_speech": "hey schooler mado potidin tihet kele",
     "region_name": "kishoreganjh",
     "english_speech": "He plays cricket everyday in the school ground"
   },
@@ -1639,7 +1639,7 @@
     "bangla_speech": "সে বিদ্যালয়ের মাঠে মাথা ঘুরিয়ে পরে গিয়েছিল",
     "banglish_speech": "se biddaloye mathe matha ghuriye pore giyechilo",
     "kishoreganjh_bangla_speech": "হে ইস্কুলের মাডো মাথা ঘুরাইয়া ফইরা গেছিন",
-    "kishoreganjh_banglish_speech": "hey school er mathe matha ghuraya poira gesiloo",
+    "kishoreganjh_banglish_speech": "hey schooler mado matha ghuraia foira gechin",
     "region_name": "kishoreganjh",
     "english_speech": "He turned around in the school grounds"
   },
@@ -1647,7 +1647,7 @@
     "bangla_speech": "সে অনেক দিন আগে তার বিদ্যালয়ের একটি মেয়েকে ভালোবাসতো",
     "banglish_speech": "se onek din age tar biddaloyer ekti meyeke valobasto",
     "kishoreganjh_bangla_speech": "হে অনেকদিন আগে হের ইস্কুলের একটা ছেড়িরে ভালবাসতো",
-    "kishoreganjh_banglish_speech": "hey onekdin age her school er ekta cherire valobasto",
+    "kishoreganjh_banglish_speech": "hey onekdin age her schooler ekta cherire valobasto",
     "region_name": "kishoreganjh",
     "english_speech": "He loved a girl from his school a long time ago"
   },
@@ -1655,7 +1655,7 @@
     "bangla_speech": "ছেলেটি তাঁর গ্রামের ছোটো  একটি  বিদ্যালয়  থেকে পড়ালেখা করে এসএসসি  পাশ করেছে",
     "banglish_speech": "cheleti tar gramer choto ekti biddaloy theke poralekha kore SSC pass koreche",
     "kishoreganjh_bangla_speech": "ছেড়াটা হের গ্রামের ছোট একটা ইস্কুলের পড়ালেহা কইরা এসএসসি পাশ করছে",
-    "kishoreganjh_banglish_speech": "cherata her gramer choto ekta school thaikka poraleha koira SSC pash korse",
+    "kishoreganjh_banglish_speech": "cherata her gramer choto ekta schooler poraleha koira SSC pash korche",
     "region_name": "kishoreganjh",
     "english_speech": "The boy studied from a small school in his village and passed SSC"
   },
@@ -1663,7 +1663,7 @@
     "bangla_speech": "তোমাদের বাসা কোথায়?",
     "banglish_speech": "tomader basa kothay?",
     "kishoreganjh_bangla_speech": "তোমরার বারি কই?",
-    "kishoreganjh_banglish_speech": "tomrar basha koi?",
+    "kishoreganjh_banglish_speech": "tomrar bari koi?",
     "region_name": "kishoreganjh",
     "english_speech": "Where is your home?"
   },
@@ -1671,7 +1671,7 @@
     "bangla_speech": "ঢাকা বাংলাদেশের রাজধানী",
     "banglish_speech": "dhaka bangladesher rajdhani",
     "kishoreganjh_bangla_speech": "ঢাহা বাংলাদেশের রাজধানী।",
-    "kishoreganjh_banglish_speech": "dhaka bangladesher rajdhani",
+    "kishoreganjh_banglish_speech": "daha bangladesher rajdhani",
     "region_name": "kishoreganjh",
     "english_speech": "Dhaka is the capital of Bangladesh"
   },
@@ -1679,7 +1679,7 @@
     "bangla_speech": "তুমি কি আমার সাথে প্রেম করবা?",
     "banglish_speech": "tumi ki amar sathe prem korba?",
     "kishoreganjh_bangla_speech": "তুমি কি আমার লগে প্রেম করবা?",
-    "kishoreganjh_banglish_speech": "tumi kita amar sathe prem korba?",
+    "kishoreganjh_banglish_speech": "tumi ki amar loge prem korba?",
     "region_name": "kishoreganjh",
     "english_speech": "Will you make love with me?"
   },
@@ -1687,7 +1687,7 @@
     "bangla_speech": "আমি আজকে সকালে ফুটবল খেলেছি",
     "banglish_speech": "ami ajke sokale football khelechi",
     "kishoreganjh_bangla_speech": "আমি আজকে সহালে ফুটবল কেলচি",
-    "kishoreganjh_banglish_speech": "ami ajke sokale football khelchi",
+    "kishoreganjh_banglish_speech": "ami ajke sohale football kelci",
     "region_name": "kishoreganjh",
     "english_speech": "I played football this morning"
   },
@@ -1695,7 +1695,7 @@
     "bangla_speech": "আমি তোমার মনের কথা বুঝি না",
     "banglish_speech": "ami tomar moner kotha bujhi na",
     "kishoreganjh_bangla_speech": "আমি তোমার মনের কতা বুজি না।",
-    "kishoreganjh_banglish_speech": "ami tomar moner kotha bujhi na",
+    "kishoreganjh_banglish_speech": "ami tomar moner kota buji na",
     "region_name": "kishoreganjh",
     "english_speech": "I don't understand your mind"
   },
@@ -1703,7 +1703,7 @@
     "bangla_speech": "তোমার জন্য আমার খুব কষ্ট হয়",
     "banglish_speech": "tomar jonno amar khub koshto hoy",
     "kishoreganjh_bangla_speech": "তোমার লাইজ্ঞা আমার খুব কষ্ট অয়",
-    "kishoreganjh_banglish_speech": "tomar laigga amar mela koshto hoy",
+    "kishoreganjh_banglish_speech": "tomar laigga amar khub koshto oy",
     "region_name": "kishoreganjh",
     "english_speech": "I feel so bad for you"
   },
@@ -1711,7 +1711,7 @@
     "bangla_speech": "আমাদের স্বপ্ন অনেক বড়",
     "banglish_speech": "amader shopno onek boro",
     "kishoreganjh_bangla_speech": "আমরার স্বপ্ন অনেক বড়",
-    "kishoreganjh_banglish_speech": "amrar sbopno mela boro",
+    "kishoreganjh_banglish_speech": "amrar sopno onek boro",
     "region_name": "kishoreganjh",
     "english_speech": "Our dreams are big"
   },
@@ -1719,7 +1719,7 @@
     "bangla_speech": "অল্পবয়সী একটি  ছেলে বাইরে ফুটপাতে দৌড়াচ্ছে",
     "banglish_speech": "olpoboyoshi ekti chele baire footpath e douracche",
     "kishoreganjh_bangla_speech": " অলফ বয়সী একটা ছেড়া বাইরে রাস্তারসাইডে দৌড়াইতাছে",
-    "kishoreganjh_banglish_speech": "kom boyosko ekta chera baire futpate douraitase",
+    "kishoreganjh_banglish_speech": "olfo boyosi ekta chera baire rastarsaide douraitase",
     "region_name": "kishoreganjh",
     "english_speech": "A young boy runs outside on the sidewalk"
   },
@@ -1727,7 +1727,7 @@
     "bangla_speech": "একটি ছোট শিশু বিছানায় লাফিয়ে উঠছে",
     "banglish_speech": "ekti choto shishu bichanay lafiye uthche",
     "kishoreganjh_bangla_speech": "একটা ছুডু বাইচা বিছানাত ফাইলেইয়া উটচে",
-    "kishoreganjh_banglish_speech": "ekta chuto abu bichanat lafaiya uthche",
+    "kishoreganjh_banglish_speech": "ekta chudu baica bichanat faileia uthce",
     "region_name": "kishoreganjh",
     "english_speech": "A small child is jumping on the bed"
   },
@@ -1735,7 +1735,7 @@
     "bangla_speech": "একটি ছেলে বিছানায় লাফাচ্ছে",
     "banglish_speech": "ekti chele bichanai lafacche",
     "kishoreganjh_bangla_speech": "একটা ছেড়া বিচনাত ফাইলেইতাচে",
-    "kishoreganjh_banglish_speech": "ekta chera bichanat lafaitase",
+    "kishoreganjh_banglish_speech": "ekta chera bicnat faileitace",
     "region_name": "kishoreganjh",
     "english_speech": "A boy is jumping on the bed"
   },
@@ -1743,7 +1743,7 @@
     "bangla_speech": "একটি ছেলে এক বিছানা থেকে অন্য বিছানায় লাফ দিচ্ছে",
     "banglish_speech": "ekti chele ek bichana theke onno bichanay laf dicche",
     "kishoreganjh_bangla_speech": "একটা ছেড়া এক বিছানাচতে আরেক বিছানাত ফাল দিচে",
-    "kishoreganjh_banglish_speech": "ekta chera ek bichanatton arekta bichanat laf ditase",
+    "kishoreganjh_banglish_speech": "ekta chera ek bichanacte arek bichanat fal dice",
     "region_name": "kishoreganjh",
     "english_speech": "A boy is jumping from one bed to another"
   },
@@ -1767,7 +1767,7 @@
     "bangla_speech": "আমার স্বামী আমাকে খুব ভালোবাসে",
     "banglish_speech": "amar sami amake khub valobashe",
     "kishoreganjh_bangla_speech": "আমার জামাই আমারে অনেক ভালবাসে",
-    "kishoreganjh_banglish_speech": "amar jamai amare mela valobashe",
+    "kishoreganjh_banglish_speech": "amar jamai amare onek valobase",
     "region_name": "kishoreganjh",
     "english_speech": "My husband loves me very much"
   },
@@ -1775,7 +1775,7 @@
     "bangla_speech": "স্কুল জীবন থেকে তাদের প্রেম ছিলো",
     "banglish_speech": "school jibon theke tader prem chilo",
     "kishoreganjh_bangla_speech": "ইস্কুল জীবনতে হেরার প্রেম আচিন",
-    "kishoreganjh_banglish_speech": "school jibonte tarar prem asiloo",
+    "kishoreganjh_banglish_speech": "school jibonte herar prem acin",
     "region_name": "kishoreganjh",
     "english_speech": "They had been in love since their school days"
   },
@@ -1783,7 +1783,7 @@
     "bangla_speech": "আমি বিবাহ করেছি দশ বছর হয়",
     "banglish_speech": "ami bibaho korechi dosh bochor hoy",
     "kishoreganjh_bangla_speech": "আমি বিয়া হরচি দশ বছর অইচে",
-    "kishoreganjh_banglish_speech": "ami biya korsi dosh bochor hoise",
+    "kishoreganjh_banglish_speech": "ami bia horci dosh bochor oice",
     "region_name": "kishoreganjh",
     "english_speech": "I have been married for ten years"
   },
@@ -1799,7 +1799,7 @@
     "bangla_speech": "বহুদিন পরে একটা ভাল ছবি দেখলাম",
     "banglish_speech": "bohudin pore ekta valo chobi dekhlam",
     "kishoreganjh_bangla_speech": "অনেকদিন ফরে একটা ভালা চবি দেকলাম",
-    "kishoreganjh_banglish_speech": "meladin pore ekta vala chobi dekhlam",
+    "kishoreganjh_banglish_speech": "onekdin fore ekta vala cobi deklam",
     "region_name": "kishoreganjh",
     "english_speech": "I saw a good picture after a long time"
   },
@@ -1807,7 +1807,7 @@
     "bangla_speech": "অসম্ভব ভালো লিখেছেন",
     "banglish_speech": "osomvob valo likhechen",
     "kishoreganjh_bangla_speech": "খুব ভালা লিখচুইন",
-    "kishoreganjh_banglish_speech": "osomvob vala likhsen",
+    "kishoreganjh_banglish_speech": "khub vala likcuin",
     "region_name": "kishoreganjh",
     "english_speech": "Very well written"
   },
@@ -1815,7 +1815,7 @@
     "bangla_speech": "বহুদিন পরে একটা ভালো লেখা পড়লাম",
     "banglish_speech": "bohudin pore ekta valo lekha porlam",
     "kishoreganjh_bangla_speech": "অনেকদিন ফরে একটা ভালা লেহা পড়লাম",
-    "kishoreganjh_banglish_speech": "meladin bade ekta vala leha porlam",
+    "kishoreganjh_banglish_speech": "onekdin fore ekta vala leha porlam",
     "region_name": "kishoreganjh",
     "english_speech": "I read a good article after a long time"
   },
@@ -1823,7 +1823,7 @@
     "bangla_speech": "প্রচণ্ড মাথা ব্যথা করছিলো",
     "banglish_speech": "prochondo matha betha korchilo",
     "kishoreganjh_bangla_speech": "অনেক মাথা ব্যথাবেদনা করতাসিন",
-    "kishoreganjh_banglish_speech": "bhut matha betha kortasilo",
+    "kishoreganjh_banglish_speech": "onek matha bethabedna kortasin",
     "region_name": "kishoreganjh",
     "english_speech": "Had a severe headache"
   },
@@ -1831,7 +1831,7 @@
     "bangla_speech": "কিছুই বুঝতে পারলাম না",
     "banglish_speech": "kichui bujhte parlam na",
     "kishoreganjh_bangla_speech": "কিচচুই বুজলাম না",
-    "kishoreganjh_banglish_speech": "kinutai bujhte parlam na",
+    "kishoreganjh_banglish_speech": "kccui bujlam na",
     "region_name": "kishoreganjh",
     "english_speech": "I did not understand anything"
   },
@@ -1839,7 +1839,7 @@
     "bangla_speech": "তিনি এটা দেখে জ্ঞান হারিয়ে ফেললেন",
     "banglish_speech": "tini eta dekhe gyaan hariye fellen",
     "kishoreganjh_bangla_speech": "হেইলা এইডা দেইক্ষা জ্ঞান আরায়া ফালচিন",
-    "kishoreganjh_banglish_speech": "hey eida deikkha jyan haraya falaise",
+    "kishoreganjh_banglish_speech": "heyla eida deikkha gen araya falcin",
     "region_name": "kishoreganjh",
     "english_speech": "He fainted at this"
   },
