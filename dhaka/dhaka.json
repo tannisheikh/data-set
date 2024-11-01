@@ -1893,7 +1893,7 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "কতায় কয় যত মুচকিল তত আচান",
+    "bangla_speech": "কথায় বলে যত মুশকিল তত বিপদমুক্ত",
     "banglish_speech": "",
     "dhaka_bangla_speech": "কতায় কয় যত মুচকিল তত আচান",
     "dhaka_banglish_speech": "",
@@ -1901,9 +1901,185 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আরে ঢাকা শহরের নবাবদের বাড়ীর নামই হল আহসান মঞ্জিল",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আরে বে ঢাহা ছহরের নোয়াবগো বারির নামই অইল আচান মুনজিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখনও সময় আছে ভালো কাজ করে পাবলিকদের শান্তি দেও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এহন বি ছময় আচে বালা কাম কইরা পাবলিকরে আচানি দেও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমাদের বাপ দাদারা সোজা মানুষ ছিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমাগো বাপ দাদারা হোজা মানু আচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কি ছিলে আর এখন এখন কি হলে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "কি আচিলা আর অহন কি অইলা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বাসায় আছিস কথা বলিস না কেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বাছায় আছছ কতা কছ না ক্যালা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আষাঢ় মাস কানি ব্যাঙ্গের পহেলা প্রথম মাস",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আছার মাছ কানি ব্যাঙ্গের পইল্লা পরথম মাছ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আচার বিচার না মানতে পারলে মহল্লা ছেড়ে চলে যাও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আছার বিছার না মানবার পারলে মহল্লা ছাইরা চইল্যা যাও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শয়তান আছর করলে ভালো কথা বাহির হয়না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছয়তানে আছোর করলে বালা কতা বাহার অহেনা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অনুমতি ছাড়া পুলিশ চব্বিশ ঘন্টার বেশি সময় হাজতে আসামি রাখতে পারে না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অনুমতি ছারা পুলিছ চাব্বিছ গন্টার বেছি ছোময় আজতে আছামী রাকবার পারে না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "পীর সাহবের কাম কাজ সবই অলৌকিক",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "পীরছাবের কাম কাইজ ছবই আজব",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ফ্রি খেয়ে গীত গাওয়া ছাড়া তোমার আর কোন কাজ নেই",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আজাইরা খ্যায়া গজাইরা গীত গায়োন ছারা তুমার কুনো কাম কাম নাইক্যা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আজরাইল আসলে কোন বাহানা খাটবে না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আজরাইল আইলে কুনো অজুয়ত খাটব না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আযানের মতো মধুর সুর আর কোন জায়গায় শুনতে পাবে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আজানের মোতন মদুর ছর আর কোনখানে হুনবার পাইবা না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শিরিক করলে করলে আযাব থেতে মাপ পাবে না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছেরেক করলে আজাবের মাপ পাইবা না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এক ঘন্টার হাজার টাকা লস গেলে খাবো কি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এক গন্টায় আজার ট্যাকা লোচকান গেলে খামু কি",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আরে আছো নাকি কেউ কুত্তার মত চিৎকার করতাছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আব্বে আছস নিহি কেউ কুত্তার লাহার চিল্লাইতাছে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অবিবাহিত মেয়েটা আচেনা মানুষের সাথে ঘোরে কেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমবিয়াতা মাইয়্যাটা বেগানা মানুর লগে গুরে ক্যালা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মোঘল আমলে ঢাকা শহরে মুসলিম কাপড়ের বড় বাজার ছিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মোগল আমলে ঢাহা ছহরে মুছলিন কাফোরের বর বাজার আচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুনকীর নাকীর ফেরেশতা সব আমলনামা লিখে রাখতাছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুনকীর নকীর ফিরিছতা ছব আমলনামা লেইখ্যা রাকতাচো",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমাদের নাজায়েজ কাজ কামের হিসাব জনসাধারণ ঠিকই রাখে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমাগো নাজায়েজি কাইজ কামের হিছাব আম মানু ঠিকই রাকে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমেরিকা অনেক শক্তিশালী দেশ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমরিকা বহুত ছকতিশালী দ্যাছ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "টক দেখলে কার জিব্বায় পানি আসেনা",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমলি দেকলে কার জিব্বায় পানি আহেনা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বিচার শুরু করে দেখায় দিছে আওয়ামীলিগ ইমান আমান ঠিক রেখে কাজ করে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বিচার ছুরু কইরা দেহায়া দিচে আমি লীগ ইমান আমান ঠিক রাইখা কাম করে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
@@ -1939,13 +2115,5 @@
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
-  },
-  {
-    "bangla_speech": "",
-    "banglish_speech": "",
-    "dhaka_bangla_speech": "",
-    "dhaka_banglish_speech": "",
-    "region_name": "dhaka",
-    "english_speech": ""
-  },
+  }
 ]
