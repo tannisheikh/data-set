@@ -994,7 +994,7 @@
     "dhaka_bangla_speech": "ওই ঐ যে নীল ডেরামে ছামী বছ করনের লেগা পানি ফু দিয়া রাখছি ঐখান থিক্কা এক বোতল পানি দিয়া দে,",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "'"
+    "english_speech": "Give me a bottle of water from that blue drum where I am keeping water for my husband to sit."
   },
   {
     "bangla_speech": "বোতল আনছ নি না আনলে আলাদা দশটাকা দেওয়া লাগবো।",
@@ -1002,7 +1002,7 @@
     "dhaka_bangla_speech": "বোতল আনছো নি না আনলে আলাদা দশটাক্কা দেওন লাগবো।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": "'"
+    "english_speech": "If you don't bring a bottle, you will have to pay ten taka separately."
   },
   {
     "bangla_speech": " নিয়ম করে তিন বেলা খাওয়াবা বলে দিলাম। এক সপ্তাহ পর আবার আইসো।",
@@ -1010,7 +1010,7 @@
     "dhaka_bangla_speech": " নিয়ম কইরা তিন বেলা খাওয়াইবা কয়া দিলাম। এক ছপ্তাহ পর আবার আইছো।",
     "dhaka_banglish_speech": ".",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "I told him to eat three meals regularly. Come again after a week."
   },
   {
     "bangla_speech": "এক সপ্তাহ পর আবার আইসো।",
@@ -1018,7 +1018,7 @@
     "dhaka_bangla_speech": "এক ছপ্তাহ পর আবার আইছো।",
     "dhaka_banglish_speech": ".",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Come again after a week."
   },
   {
     "bangla_speech": "আরে ঐ শহীদ এই নে একশ টাকা",
@@ -1026,7 +1026,7 @@
     "dhaka_bangla_speech": "আব্বে ঐ ছহীদ এই ল একছ টাকা",
     "dhaka_banglish_speech": "'",
     "region_name": "dhaka",
-    "english_speech": "'"
+    "english_speech": "Oh, that martyr, this is one hundred taka"
   },
   {
     "bangla_speech": " আমার বড় ছেলেকে দিয়ে বল সে বাজারে যাইতে নাহলে আজকে খাওয়া নাই",
@@ -1034,7 +1034,7 @@
     "dhaka_bangla_speech": "আমার বড় পোলারে দিয়া ক হেরে বাজারে যাইতে, নইলে আইজ খাওন নাইক্কা।'",
     "dhaka_banglish_speech": "'",
     "region_name": "dhaka",
-    "english_speech": "'"
+    "english_speech": "Tell my elder son to go to the market or he will not eat today"
   },
   {
     "bangla_speech": "কি হইছে তুমি এখন আসছো কেন",
@@ -1042,7 +1042,7 @@
     "dhaka_bangla_speech": "কি অইছে তুমি অখন আইছো কেলা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "what happened why are you coming now"
   },
   {
     "bangla_speech": "তুমি জানোনা এখন মেয়ে মানুষের টাইম",
@@ -1050,7 +1050,7 @@
     "dhaka_bangla_speech": "তুমি জানোনা অখন মাইয়া মাইনছের টাইম।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "You don't know it's time for girls"
   },
   {
     "bangla_speech": "বিকালে আসো তখন শুনবনে",
@@ -1058,7 +1058,7 @@
     "dhaka_bangla_speech": "বিকালে আহো তখন ছুনমুনে।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Come in the afternoon then Shunban"
   },
   {
     "bangla_speech": " কিন্তু বহুৎ বিপদে পরে আসছি এই টাইমে।",
@@ -1066,7 +1066,7 @@
     "dhaka_bangla_speech": "মাগার বহুৎ বিপদে পইরা আইছি এই টাইমে।'",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "But I am coming at this time with great danger."
   },
   {
     "bangla_speech": "তাড়াতাড়ি বলো দেখি কি হইছে",
@@ -1074,7 +1074,7 @@
     "dhaka_bangla_speech": "তাড়াতাড়ি কও দেহি কি হইছে?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Tell me quickly what happened"
   },
   {
     "bangla_speech": "হ্যাঁ বিপদে পড়লেই তো আমার কাছে মানুষ আসে, হুদাইতো আর আসেনা",
@@ -1082,7 +1082,7 @@
     "dhaka_bangla_speech": "হ বিপদে পড়লেই তো আমার কাছে মাইনছে আহে, হুদাইতো আর আহেনা, ",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Yes, people come to me when they are in danger, Hudaito does not come anymore"
   },
   {
     "bangla_speech": "সেদিন মোড়ের মাথায় দাড়িয়ে আছি",
@@ -1090,7 +1090,7 @@
     "dhaka_bangla_speech": "ছেদিন মোড়ের মাথায় খারায় রইছি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "I am standing at the crossroads that day"
   },
   {
     "bangla_speech": "ঐ জানি কোথায় থেকে দোড়ে আসলো বলতে পারলাম না",
@@ -1098,7 +1098,7 @@
     "dhaka_bangla_speech": "উই জানি কইথিক্কা লৌড় পাইরা আইলো কইবার পারুম না।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "I couldn't tell you where it came from"
   },
   {
     "bangla_speech": "তার ছেলে সপন আমার ন্যাংটা কালের বন্ধু",
@@ -1106,7 +1106,7 @@
     "dhaka_bangla_speech": "হের পুলা ছপন আমার ন্যাংটা কালের দোস্ত।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "His son Sapan is my old friend"
   },
   {
     "bangla_speech": "বন্ধু এই জিনিসটা একটু রাখতে পারবি?",
@@ -1114,7 +1114,7 @@
     "dhaka_bangla_speech": "দোস্ত এই জিনিসটা একটু রাখবার পাড়বি'?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
-    "english_speech": ""
+    "english_speech": "Can you keep this thing friend?"
   },
   {
     "bangla_speech": "আমার হাতে কাগজে পেঁচানো কি একটা পেকেট দরিয়ে দিয়েই দৌড়",
@@ -2797,537 +2797,1407 @@
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "চিঠিতে যা যা আছে তা পড়ে ঠিকঠাক বুঝে তারপর রিয়েক্ট করেন",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "চিঠিতে যা যা আছে তা পইরা ঠিকঠাক বুইঝা তারপর রিএক্ট কইরেন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "পুরোটা না পড়ে আগেই লাফায়েন না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "পুরাটা না পইরা আগেই লাফায়েন না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আগে সিচুয়েশন বুঝার চেষ্টা করেন পরে যা ইচ্ছা করেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আগে সিচুয়েশন বুঝবার চেষ্টা কইরেন পরে যা ইচ্ছা কইরেন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখন শুনে নেন যতক্ষনে আপনি চিঠিটা পরবেন ততক্ষণে আমরা অনেক দূরে চলে গেছি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এহন সুননা লন যতক্ষনে আপনি চিডি ডা পরবেন,ততক্ষনে আমরা অনেক দূরে চইল্লা গেছি গা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখন ভাবতেছেন আমরা দূরে কোথায় গেছি,কেন গেছি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এহন ভাবতাছেন আমরা দূরে কই গেছি,কেন গেছি",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আপনাদের জমিদারি ঝগড়ার জন্য আমরা অনেক ফাইট দিছি এতোদিন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আপনেগো এই খানদানি ঝগড়ার লাইগা আমরা অনেক ফাইট দিছি এতোদিন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এই ঝগড়ার জন্য আমাদের ভালোবাসা দেখতে পারি নাই",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এই ঝগড়ার লাইগা আমাগো মহব্বত দেখবার পারি নাইক্কা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখন আমরা তিন জনে মিলে একটা সিদ্ধান্ত নিছি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এলা আমরা তিন জনে মিইলা একটা ছিদান্ত নিছি",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমার মত সৎ মানুষ এই পাড়ায় খুবই কম",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমার মোতন সচ্চ মানু এই মহল্লায় অতি বিরল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আজকের দিনে ধর্ম পালন অনেক কঠিন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আইজের দিনে দীন ধইরাখা খুবি কোঠিন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এত বৃষ্টি হলে রাস্তায় বের হওয়া মুশকিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এত বারিছ অইলে রাস্তায় বাইর অইনো মুচকিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "পীর সাহেবের দোয়া সবাই চায় ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "পীরছাবের দুয়া সবাই লইনো চায়",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুশকিলে পড়ে মানুষের আসল রূপ বের হয় ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুচকিলে পরলে মানুর আসল রুপ বাইর অয়",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বাড়িতে থাকলে মা বাবার সাথে সময় কাটাও ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বারিতে থাকলে মা বাপের লগে ছময় কাটাও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আহসান মঞ্জিলে অনেক পুরনো ইতিহাস আছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আচান মুনজিলে অনেক পুরান ইতিহাছ আচে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমি তোমাকে সব সময় পাশে পাবো ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমি তুমারে সব ছময় পাসে পাইমু",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "খাটি মানুষ খুব কম দেখা যায়",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "খাছ মানু অতি কম দেহা যাই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ঢাকার রাস্তায় জ্যাম লেগেই থাকে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ঢাহার রাস্তায় জ্যাম লেগা থাকেই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষের জীবন একটাই, ভালো করে বাঁচো ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মানুর জীবান একটাই, বালা কইরা বাঁচো",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আজ রাতের আকাশে অনেক তারা দেখা যাবে ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আইজ রাইতের আচমানি অনেক তারা দেহা যাইবে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "পুলিশ ছাড়া রাস্তা নিরাপদ না",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "পুলিছ ছারা রাস্তা নিপদ না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কোরবানি করা ফরজ কাজ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "কুরবানি করা ফরজ কাম",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এত সুন্দর দিন আর কখনো দেখিনি ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "এত সুন্দর দিন অগে ককনু দেখিনাই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমরা সবাই মিলে ভালো কাজ করি ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমরা সবাই মিলি বালা কাম কইরা যাই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "খারাপ লোকদের থেকে দূরে থাকো",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "খারাপ লোদের ছোড়ে থাইকো",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার হাসি আমার খুব ভালো লাগে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমার হাঁসি আমার খুউব ভালা লাগে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ঢাকার খাবার খুব মজার",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ঢাহার খাওন খুউব মজা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "সৎ লোকেরা সবসময় শান্তিতে থাকে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "সচ্চ লোরা সব ছময় ছানতিতে থাকে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "লোভ দেখিয়ে শয়তান সব মানুষের ঈমান নষ্ট করে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অছাওছা দিয়া ছয়তান মানুশগোর ঈমান নাছ করে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শেখ সাহেবের ডাকেই পতাকা উড়েছিল ভার্সিটির ছেলেরা ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছেক ছাবের ডাকে ফেলাগ উরায়া বারচিটির পোলাপানরা ছিনল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুক্তিযোদ্ধাদের নাম কাটলে বড় অসন্মান হবে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুকতি যুদদাগো নাম কাইটা অইন্ন নাম রাখন বড় আছনমানি অইব",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "জীবনের চাবি মরার আগে দিয়ে যাও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জনমের চাবি মরবার আগেই দেও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার কোনো অজুহাত মানা হবে না ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমার অজুয়াত কুনো মানা যাইব না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমার দাদি ওছিয়ত করে গেছেন জমি জমা নিয়ে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমার দাদি জমি জমার অছিয়ত কইরা গ্যাছ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ধর্ম নিয়ে অশান্তি করা মন্দ কাজ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "দরম লইয়্যা অছানতি কইরন খারাপ কাম",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তোমার চেহারায় অশান্তির ছাপ স্পষ্ট",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমার চেহারা দেইখ্যা অছচতির ছাপ পরচে    ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুক্তিসেনাদের মনের ভিতরে স্বাধীনতার আগুন ছিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুকতিগো মোনের ভিতর ছাদীনতার আগুন আচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষকে খুশি রাখতে পারলে আল্লাহ সন্তুষ্ট",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মানুরে খোছি রাকবার পারলে আল্লায় খোছ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হুজুর কাল বইবেন কি না?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হুজুর কাইল বইবেনতো?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হ্যাঁ, অবশ্যই বসবো!",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " হ হ, বহুম নাকি!",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কেমন কথা বলছো এটা? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " কেমুন কতা কইতাছো?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "চোখের সামনে মুন্নীর মা ভেসে উঠলো ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "চৌক্ষের সামনে মুন্নীর মার চেহারা চিল্লিক দিয়া উঠলো",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আরেকটা বিয়ে করতে হবে মনে হচ্ছে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আরেকটা বিয়া করন লাগবো মোনতাছে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "সারাদিনের দশ বিশ টাকা দিয়ে সংসার চলবে কেমনে? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "সারাদিনের দছ বিছ ট্যাকা দিয়া ছংসার চলবো কেমতে?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মাথা ঘুরছে আর দাঁড়িয়ে থাকতে পারছিনা ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মাথা ঘুরতাছে আর খাড়াই থাকতে পারতাছিনা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আকাশে মেঘ না থাকলে বৃষ্টি হবে কিভাবে?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আছমানে ম্যাগ না থাকলে বারিছ অইব কেমনে?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ফাজিলটাকে এখনই ধরে নিয়ে আসো",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ফাজিলটারে অকখনে দইরা লইয়া আহ",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অক্ষর জানো না, আবার হিরো হতে চাও ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অক্কর গ্যায়ান নাই, আবার হিরো হইতে চাও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "একটা একটা করে না, সব একসাথে দাও",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অউগ্যা অউগ্যা কইরা না দিয়া সব এক লগে দেও",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ক্ষমতা না থাকার পিরি, আবার হতে চাই কমিশনার ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "খোমার না থাকার ছিরি, আবার অইবার চাহে কমিছনার",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ধনুক থেকে তীর বের হয়ে যাওয়ার দল তুমি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " দনু অইতে তীর বারায়া যায়োনের দল তুমরা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "রাস্তার মোড়ে কি হচ্ছে দেখতে পাচ্ছো না কেন?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " রাস্তার মোচরার মইদ্যে কি অইতাচে দেহ না ক্যালা?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "জালিম আর জুলুমের অত্যাচারে দেশ লণ্ডভণ্ড",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জালিম আর জুলুমের অইত্যাচারে দেশ লন্ডবন্ড",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মেয়ের কথার অনুষ্ঠানে খাওয়া দাওয়া খুব ভালো ছিল",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মাইয়ার কথাপাকার অনুষ্ঠানের খায়োনউয়োন জব্বর বালা অইচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বিশ্বকবি রবীন্দ্রনাথ নওয়াবদের তুরাগ নৌকায় ঘুমিয়ে খুব খুশি ছিলেন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বিচ্ছকবি রবিন-দোরনাত নোয়াবগো তুরাগ বোটে নিম পাইরা খুউব খোচগ অইচিল",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখনকার সিনেমায় আগের মতন কাহিনি দেখা যায় না ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অহনের ফিলিমে আগের মোতন কাহানি দেহা যাই না",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আগে দেখে নাও ওর পিছনের নেতাটা কে",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আগে দেইখা লও অর পিচের নেতাটা ক্যাঠা",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষের মনে অবিশ্বাস ঢুকলে বের করা কঠিন",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " মানুর মনে অবিচছাছ ঢুকলে বাইর করন কুঠিন",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমার মেয়েকে দিয়ে বল সে রান্না করুক, নইলে আজকে খাবার নেই।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " আমার মাইয়্যারে দিয়া ক হেরে রান্দা করুক, নইলে আইজ খাওন নাইক্কা।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " কি হয়েছে তুমি এত দেরি করে আসছো কেন?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " কি অইছে তুমি এত দেরি কইরা আইছো কেলা?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তুমি জানো না এখন ছেলে মানুষের সময়।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তুমি জানোনা অখন পোলা মাইনছের টাইম।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "সন্ধ্যায় আসো, তখন কথা হবে।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " ছন্ধ্যায় আহো, তখন কতা অইব।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অনেক বিপদে পড়ে এই সময়ে এসেছি।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বহুৎ বিপদে পইরা এই টাইমে আইছি।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তাড়াতাড়ি বলো, কি হয়েছে বলো দেখি।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তাড়াতাড়ি কও, কি অইছে দেহি?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বিপদে পড়লেই তো আমার কাছে সবাই আসে, অন্য সময় তো কেউ আসে না।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বিপদে পড়লেই তো আমার কাছে সবাই আহে, হুদাই তো আর কেউ আহেনা।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "সেদিন রাস্তায় দাঁড়িয়ে ছিলাম।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ছেদিন রাস্তা খারায় রইছিলাম।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " জানি না কোথা থেকে দৌড়ে এলো।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জানি না কইথিক্কা লৌড় দিয়া আইলো।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "তার মেয়ে আমার ছোট বেলার বন্ধু। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হের মাইয়া আমার ন্যাংটা কালের দোস্ত।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বন্ধু, তুমি কি এই জিনিসটা রাখতে পারবে?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " দোস্ত, তুমি কি এই জিনিসটা রাখন পারবা?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হাতে কাগজে পেঁচানো কিছু ধরিয়ে দিয়ে দৌড়ে চলে গেল।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হাতে কাগজে পেচাইয়া কিছু ধরায়া দিয়া লৌড় দিলো।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "দেখে তো আমি প্রায় অজ্ঞান হয়ে যাচ্ছিলাম।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "দেইখ্যা তো আমি প্রায় ফিট অইয়া যাইতাছিলাম।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "উঁকি দিয়ে দেখি, কাগজের মধ্যে একটা পিস্তল।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "চুপি দিয়া চাইয়া দেখি, কাগজের মধ্যে এক খান পিস্তল।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "সকালে এসে বললো, কালকের জিনিসটা দাও। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " ছক্কাল বেলা আইয়া কইলো, কাইলকার জিনিছটা দে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " তাড়াতাড়ি বাড়ি এসে ট্রাংকের মধ্যে রেখে দিলাম।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "তাড়াতাড়ি বাইত আয়া টেরাংকের মধ্যে থুইলাম।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বললো, সন্ধ্যায় আমাদের বাড়ি আসো, তোমাকে বিরিয়ানি খাওয়াব। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "কইলো, ছন্ধ্যায় আমগো বাইত আহিছ, তুমারে বিরানী খিলামু।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ভয়ে ভয়ে বাইরে বের করে দিলাম।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ডরে ডরে বাইর কইরা দিলাম।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অনেক কিছু ছিল, কিন্তু আমি কিছুই খাইনি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " বহুৎ কিছু আছিল, মাগার আমি কিছুই খাই নাইক্কা।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হুজুর, বিরিয়ানির কথা শুনে লোভ সামলাতে পারিনি।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হুজুর, বিরানীর কথা হুইনা লোভ ছামলাইতে পারিনাইক্কা।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "শুনে সে তো বাড়ি মাথায় তুলে নিলো। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " হুইনা হ্যায় তো বাড়ি মাথায় তুইলা নিলো।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মাকে সব ঘটনা খুলে বললাম। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মায়েরে ছব ঘটনা খুইলা কইলাম।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এখন হুজুরের কাছে যাও। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "অখন হুজুরের কাছে যা।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "না হলে বিরিয়ানি খেয়ে তোর এই অবস্থা কেন হলো?",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "নইলে বিরানী খায়া তর এমুন অইবো কেলা?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এজন্যই এই সময়ে এসেছি, হুজুর। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এর লাগাই এই টাইমে আইছি হুজুর।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "তোর বাবা একদল, সপনের বাবা আরেক দল।",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "তর বাপ এক পাট্টি, সপনের বাপ আরেক পাট্টি।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "হ্যাঁ, তোর মা ঠিকই বলেছে। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হ, তর মায়ে ঠিকই কইছে।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এমন কাজ আমি আর জীবনে করবো না। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এমুন কাম আমি আর জিন্দেগীতে করুম না।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " আচ্ছা, এখন যাও, পানি পড়া আর তাবিজ দিচ্ছি, কোনো ভয় নেই। ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আইচ্ছা, অখন যা, পানি পড়া আর তাবিজ দিছি, কুনো ডর নাইক্কা।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মায়ের জন্য আসতে বলেছে, তাড়াতাড়ি কর",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মায়ের জন্য আইবার কইছে, তাড়াতাড়ি করো।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মিথ্যা বলে লাভ নেই",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মিছা কইরা লাভ নাই",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "তুমি রাতে ঘুমিয়ে দেখো সত্যি বলছি কি না",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "তুমি রাইতে জাইগা দেখ হাচা কই না মিছা কই",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " আমি কি বলবো বুঝতে পারছি না ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আমি কি কমু বুইজ্যা পাইনাই",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এই কথা শুনে আমি তিন রাত জেগে ছিলাম",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " এই কতা হুইনা আমি তিন রাইত জাইগা রইছিলাম",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মাঝরাতে উঠে দেখলাম সে ঘর থেকে বের হচ্ছে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মাজরাইতে উইঠা দেখলাম হ্যায় ঘর থিকা বাইর অইতাছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "হাতে একটি প্যাকেট আছে ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " হাতে একখান ঠোংগা আছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "প্যাকেট থেকে কি জানি বের করে খাওয়াচ্ছে ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ঠোংগা থিকা কি জানি বাইর কইরা খিলাইতাছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এরপর থেকে আমি লক্ষ্য করছি  ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এর পর থেইক্কা আমি খিয়াল কইরা দেখছি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "প্রায় রাতেই সে বাইরে যাবার জন্য উঠে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "প্রায় রাইতেই হ্যায় বাইরে যাইবার লাইগ্গা উঠে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মেয়ে বাইরে যাওয়ার জন্য উঠে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মাইয়া বাইরে যাইবার লাইগ্গা উঠে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আমার দুটি ছোট মেয়ে আছে ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আমার দুইখান পিচ্চি মাইয়া আছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "চিন্তা করো না সব ঠিক হয়ে যাবে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " চিন্তা কইরো না ছব ঠিক হইয়া যাইব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "স্বামীকে পানি পড়া খাওয়াতে পারবা না",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "সোয়ামীরে পানি পড়া খিলাইতে পারবা না?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " হ্যাঁ, পারবো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হ, পারুম",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "শহীদ কোথায় গেলো? ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ছহীদ কই গেলো?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " হুজুর, আমি এখানে দাঁড়িয়ে আছি ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " হুজুর, আমি এহানে খাড়ায় আছি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "নীল ড্রামে রাখা পানি ফু দিয়ে এনে দাও",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "নীল ডেরামে রাখা পানি ফু দিয়া আন",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "বোতল আনছো না আনলে দশ টাকা দিতে হবে ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "বোতল আনো নাই, আনলে দশ টাক্কা দিবার লাগব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " নিয়ম করে তিন বেলা খাওয়াবা বলেছি, এক সপ্তাহ পর আসো ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "নিয়ম কইরা তিন বেলা খাওয়াইবা কইছি, এক ছপ্তাহ পর আইছো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এক সপ্তাহ পর আবার আসো ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এক ছপ্তাহ পর আবার আইছো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "শহীদ, এই নাও একশ টাকা",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ছহীদ, এই ল একছ টাক্কা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " মিথ্যে কথা বললে আল্লাহ রেগে যাবেন",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " মিছা কইলে আল্লায় নারাজ অইব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "রাতে ঘুমিয়ে দেখো আমি ঠিক বলছি কি না",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "রাইতে জাইগা দেখ আমি ঠিক কইতাছি কি না",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এত কথা শুনে আমি অনেক চিন্তিত",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এত কতা হুইনা আমি বহুৎ চিন্তায় আছি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "কসম খাই ঘরে কেউ নেই ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "কছম খাই, ঘরে কেউ নাই",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "প্যাকেটে কি আছে দেখো ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ঠোংগায় কি আছে দেখ",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "প্রতিরাতে সে বাইরে যেতে চায় ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "প্রায় রাইতেই হ্যায় বাইরে যাইতে চায়",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মেয়ে বাইরে যেতে চায়",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মাইয়া বাইরে যাইতে চায়",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আমার ছোট মেয়েদের জন্য চিন্তা করি ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আমার পিচ্চি মাইয়াগো লইয়া চিন্তা করি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "হ্যাঁ, আমি জানি সব ঠিক হয়ে যাবে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " হ, আমি জানি ছব ঠিক হইব",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "সবাই এসে বসার চেষ্টা করছে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": ": সবাই এসে বসবার চেষ্টা করতাছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "কে কার আগে তার সমস্যার কথা বলবে ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "কে কার আগে তার সমস্যার কতা কইবো ",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "এটা নিয়ে হালকা ধাক্কাধাক্কি শুরু হলো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "এইডা লইয়া মৃদু ধাক্কা ধাক্কি অইতে লাগলো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "হুজুরের অ্যাসিস্ট্যান্ট শহীদ তাড়াতাড়ি উঠলো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হুজুরের অ্যাসিস্ট্যান্ট শহীদ তাড়াতাড়ি উঠলো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আরে কেন এত ঠেলাঠেলি করতেছো?",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " আরে ক্যালা এত ঠেলাঠেলি করতাছো?",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " চুপ করে বসে থাকো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "চুপ কইরা বসা থাকো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "একটু দূরে থাকো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "একটু দুরে থাইকো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "সিরিয়াল করে বসো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "সিজিল কইরা বসা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "হুজুরের খাটের কাছে যাও না",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হুজুরের খাটের কাছে যাইও না",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "মেয়ে, ছেলেকে সামলাও ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "মাইয়া, পোলারে ছামলা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "কি হয়েছে বলো ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "কি অইছে কও",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " হুজুর, আমার ছেলে তিন দিন ধরে রাতে ঘুমায় না",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হুজুর, আমার পুলাডা তিন দিন ধইরা রাইতে ঘুমায় না",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "শুধু চমকে চমকে উঠে আর চিৎকার করে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "খালি চইমকা চইমকা উঠে আর চিক্কুর পাইরা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আমার শাশুড়ি বললো জীনের বদ নজর লাগছে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আমার ছাছুড়ি কইলো জীনের বদ নজর লাগছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "ঝেড়ে দেন হুজুর ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ঝাইরা দেন হুজুর",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আউগাইয়োনা, কাছে আনো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আউগাইয়োনা, কাছে আনো",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "ছেলের চেহারাটা দেখুন ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "পুলার চেহারাডা দেখ",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "শাশুড়ি ঠিক বলেছে, বদ নজর লেগেছে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " ছাছুড়ি ঠিকই কইছে, বদ নজর লেগেছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " হুজুর ছোট কাগজে লেখা তাবিজ দিলো ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "হুজুর ছোট্ট কাগজে লেখা তাবিজ দিছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " রুপার তাবিজে কালো সুতা দিয়ে কোমরে বাঁধো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "রুপার তাবিজে কালা ছুতা দিয়া কোমরে বাইন্ধা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "সন্ধ্যায় ছেলে নিয়ে বাইরে গিয়েছিলে",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "ছন্ধ্যায় পোলারে লইয়া বাইর অইছিলা",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " কি বলছো তুমি",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "কি কইতাছো তুমি",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " একটু জোরে বলো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "একটু জোরে কও",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " ঠিকমতো শুনতে পাচ্ছি না ",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": " ঠিকমতো ছুনবার পাইতাছি না",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": " আর কি বলবো",
     "banglish_speech": "",
-    "dhaka_bangla_speech": "",
+    "dhaka_bangla_speech": "আর কি কমু",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমার স্বামী বস্তির এক মহিলার সাথে আসা যাওয়া করে ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমার ছোয়ামী বস্তির এক মাইয়ার লগে আসা যাওয়া করে",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " প্রথম প্রথম কিছুই বুঝতে পারিনি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "পয়লা পরথম কিছুই বুঝবার পারিনাই",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "ঘরের সাথে থাকে বুলবুলি ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "ঘরের লগে থাকে বুলবুলি",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আমাকে ডেকে বললো ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমারে ডাইকা কইলো",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মুন্নীর বাবা আদুরীর সাথে প্রেম করছে ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মুন্নীর বাপ আদুরীর লগে পিরীত করতাছে",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
   },
   {
-    "bangla_speech": "",
+    "bangla_speech": "আল্লাহর কৃপায় আমার পরিবার এখন সুখে আছে",
     "banglish_speech": "",
+    "dhaka_bangla_speech": "আল্লার রহমতে আমার ছংছার এখন সুখে আছে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "banglish_speech": "দুনিয়ার দশটা সন্তান আমার কাছে ধন।",
     "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "দুইন্নার দছটা পোলাপান আমার কাছে ধন।",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " কে কি করতে চায় আমি বুঝতে পারছি না।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " কে কি করবার লাগছে আমি বুঝবার পারতাছি না।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মহল্লার লোকজন আমাকে ডেকে বলে তাদের সমস্যা।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " মহল্লার মাইনছে আমারে ডাইকা কয় তাদের ছমছ্যা।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হুজুর, কিছু মনে করবেন না, একটা কথা বলি।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হুজুর, কিছু মনে লয়েন না, একখন কতা কই।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মহল্লার লোকেরা আপনাকে অনেক সম্মান করে। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মহল্লার মানুছ আপনেরে বহুত ছন্মান করে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আপনার ছেলে হাসেম আর কাসেম আপনার মতো নয়।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আপনের পোলা হাসেম আর কাছেম আপনের লাহান না।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "হ্যাঁ, আপনি ঠিকই বলেছেন।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " হ, আপনে ঠিকই কইছেন।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " মা মারা যাওয়ার পর সন্তানরা অসহায়। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মা মরা পর পোলাপানগো অসহায়।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "অনেক কিছু খেয়াল রাখতে পারি না। Dhak",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "অনেক কিছু খেয়াল করবার পারি না।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কে কোথায় কি করছে বুঝতে পারি না। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " কে কেঠা কি করতাছে বুঝবার পারি না।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": " আমার পরিবারের সব কথা তোমরা জানো। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আমার পরিবারের সব কতা তুমরা জানো।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কথা বলতে বলতে বারেক ফকিরের মাথা নিচু হয়ে আসে। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "কতা কইতে কইতে বারেক ফকিরের মাথা নীচু হয়ে আসে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "না, আমি আরেকটা বিয়ে করতে হবে ভাবছি",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "না, আমি আরেকটা ছাদী করন লাগবো ভাবতাছি।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "না হলে সন্তানরা বিপথে যাবে। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "না হইলে পোলাপানগো খারাপ পথে যাইব।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "মানুষ এসে বৈঠকখানায় বসে থাকে।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মাইনছে বৈঠকখানায় আয়া বয়া থাকে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "উঠানে দাঁড়িয়ে কি করছেন? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "উঠানে খারায়া কি করতাছেন?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "আসতে চান না কেন, কবে থেকে ডাকছি।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আইতে চান না ক্যান, কহন থেইক্কা ডাকতাছি।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "চাচা, চা খেয়ে আমার সাথে বাজারে যাবেন?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": " চাচা চা খাইয়া আমার লগে বাজারে যাইবেন?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বাজার থেকে কি কি কিনলে? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বাজার থন কি কি কিনিছস?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "জলিল ভাই, কি হইছে? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "জলিল ভাই, কি অইছে?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শুনলাম সব ঠিক আছে, কিন্তু কিছুই দেখতে পেলাম না।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হুনলাম ছব ঠিক আছে, মগর কিছুই দেখনাই।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },{
+    "bangla_speech": "আজ স্যার আমারে খুব আদর করছে।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "আইজকা ছার আমারে খুব আদর করছে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "গাড়ি থুয়া গরু পালায় দৌড় দিছে।",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "গারি থুয়া গরু পালায় দৌড় দিছে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "কেন করছ এইসব?",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "কেলা করছ এইসব?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "শোনেন নাই? ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "হুনেন নাই?",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "এখনো সেই দালান টিকে আছে। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "মগর অখনো দালান টিকে আছে।",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "বাবা এই বাড়ি তৈরি করে গিয়েছিল। ",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "বাপ এই বাড়ি তৈরি করে গিয়েছিল।",
     "dhaka_banglish_speech": "",
     "region_name": "dhaka",
     "english_speech": ""
@@ -3365,4 +4235,16 @@
     "english_speech": ""
   },
 
+
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  
+
 ]
+
