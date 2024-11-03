@@ -2173,6 +2173,182 @@
     "english_speech": "That's why I love you so much my friend"
   },
   {
+    "bangla_speech": "প্রথম করি আল্লাহ রাসূল বান্দা মাঠির কথা বলতে গেলে দুয়ার তো আর বন্ধ না",
+    "banglish_speech": "prothom kori allah rasul banda mathir kotha bolte gele duar tu ar bondo na",
+    "dhaka_bangla_speech": "পয়লা করি আল্লা রসুল বন্দনা মাডির কতা কইতে গ্যালে দুয়ার তো আর বন্দ না",
+    "dhaka_banglish_speech": "poyla kori alla rasul bondona kota koite gale duar tu ar bondo na",
+    "region_name": "dhaka",
+    "english_speech": "First of all, if we talk about the servant of Allah's Messenger, the door is no longer closed"
+  },
+  {
+    "bangla_speech": "নানান রকমের মানুষ দেখি নানান মতের আমদানি কাজের কথা বলে না তো কেউ কিনছে বউয়ের জামদানি",
+    "banglish_speech": "nanan rokomer manush dekhi nanan moter amdani kajer kotha bole na tu keu kineche bouer jamdani",
+    "dhaka_bangla_speech": "নানান কিসিম মানুষ দেহি নানান মতের আমদানি কামের কতা কয় না তো কেউ কিনছে বৌয়ের জামদানি",
+    "dhaka_banglish_speech": "nanan kisim manush dehi nanan moter amdani kamer kota koy na tu keu kineche bouyer jamdani",
+    "region_name": "dhaka",
+    "english_speech": "I see different kinds of people talking about different import jobs, so someone is buying wife's jamdani"
+  },
+  {
+    "bangla_speech": "মনের চোখে আলো আছে, অন্ধ  না মাঠির মানুষ খুব ভালো জীবন কাটায় মন্দ না",
+    "banglish_speech": "moner cokhe alo ache, ondo na mathir manush khub valo jibon katay mondo na",
+    "dhaka_bangla_speech": "মনের চৌক্কে পশর আছে, অন্দ না মাডির মানুষ জবর বালা জীবন কাডায় মন্দ না",
+    "dhaka_banglish_speech": "moner cokke posor ache, ondo na madir manush jobor bala jibon kaday mondo na",
+    "region_name": "dhaka",
+    "english_speech": "There is light in the eyes of the mind, the people of the field are not blind, they live a very good life, not bad"
+  },
+  {
+    "bangla_speech": "সকল কিছুই এলোমেলো দেখি, ছন্দ না জীবন নদীর মনেরকথায় মাঠির মানুষ বন্ধনা",
+    "banglish_speech": "sokol kichui elomelo dekhi, chondo na jibon nodir monerkothay mathir manush bondona",
+    "dhaka_bangla_speech": "হগল কিছুই আউলা দেহি, ছন্দ না জীবনগাঙের পরানকথায় মাডির মানুষ বন্দনা",
+    "dhaka_banglish_speech": "hogol kichui aula dehi, chondo na jibonganger madir manush bondona",
+    "region_name": "dhaka",
+    "english_speech": "I see everything in random order, no rhythm or life in the mind of the river"
+  },
+  {
+    "bangla_speech": "গভীর রাতে ঘুম আসে না নরসুন্দার কান্নায় কেমন করে ধরা পড়েছি অচিন সুতার বন্ধনে",
+    "banglish_speech": "gobhir rate ghum ase na norosundar kannay kemon kore dhora porechi acin sutar bondone",
+    "dhaka_bangla_speech": "রাইত বিরাইতে ঘুম আইয়্যে না নরসুন্দার কান্দনে ক্যামুন কইর‍্যা বান্দা পড়ছি অচিন হুতার বান্দনে",
+    "dhaka_banglish_speech": "rait biraite ghum aie na norsundar kandone keamun koira banda porchi acin hutar bandone",
+    "region_name": "dhaka",
+    "english_speech": "I don't get sleep late at night, how am I caught in the knot of the thread of Narsunda's cry"
+  },
+  {
+    "bangla_speech": "রাস্তা ধরে চলা যায় না ধাক্কা খেয়ে পড়তে হয় যানবাহনের নিচে পরে কবে জানি মরতে হয়",
+    "banglish_speech": "rasta dhore cola jay na dhakka kheya porte hoy janbahoner nice pore kobe jani morte hoy",
+    "dhaka_bangla_speech": "সড়ক ধইর‍্যা চলন যায় না আছাড় খায়‍্যা পড়তে অয় গাড়ি গুড়ার তলে পইড়্যা কবে জানি মরতে অয়",
+    "dhaka_banglish_speech": "sorok dhoira colon jay na achar khaya porte oy gari gurar tole poira kobe jani morte oy",
+    "region_name": "dhaka",
+    "english_speech": "You can't walk on the road, you have to get hit and fall under the vehicles and you know when you have to die"
+  },
+  {
+    "bangla_speech": "ভাঙ্গাচোরা সকল রাস্তা ঠিক করার খবর নাই পিলার লাগায় রংয়ের বাতির মন বলতেছে কবর যাই",
+    "banglish_speech": "vangacura sokol rasta thik korar khobor nai pilar lagay ronger batir mon bolteche kobor jai",
+    "dhaka_bangla_speech": "ভাঙ্গাচোরা হগল সড়ক ঠিক করনের খবর নাই খাম্বা লাগায় রঙ্গের বাতির মন কইতাছে, 'কবর যাই'",
+    "dhaka_banglish_speech": "vangacura hogol sorok thik koroner khobor nai khamba lagay ronger batir mon koitache, kobor jai",
+    "region_name": "dhaka",
+    "english_speech": "There is no news of fixing all the broken roads, the mind of the colored lamp is saying go to the grave"
+  },
+  {
+    "bangla_speech": "কিশোরগঞ্জের মাঠি কান্না করে মানুষ তবুও হাসতেছে এসব দেখে মন আমার চোখের জলে ভাসতেছে",
+    "banglish_speech": "kishorgonjer mathi kanna kore manush tabuo asteche esob dekhe mon amar cokher jole vasteche",
+    "dhaka_bangla_speech": "কিশোরগঞ্জের মাডি কান্দে মাইনষে তবু হাসতাছে এইতা দেইখ্যা পরান আমার চৌক্কের জলে ভাসতাছে।",
+    "dhaka_banglish_speech": "kishorgonjer madi kande mainse tabu hasteche aida deikha poran amar coikker jole vasteche",
+    "region_name": "dhaka",
+    "english_speech": "My heart is filled with tears when I see people crying in the fields of Kishoreganj and still laughing"
+  },
+  {
+    "bangla_speech": "শুনছি কতই নানান কথা জঙ্গলবাড়ির জঙ্গলে পাখি গান গেয়ে যায় চাঁদ সূর্যের রং গলে",
+    "banglish_speech": "shunchi kotoi nanan kotha jongol barir jongole pakhi gan geya jay cad surjer rong gole",
+    "dhaka_bangla_speech": "হুনছি কতই নানান কতা জঙ্গলবাড়ির জঙ্গলে পক্ষী নাহি গান গায়া যায় চান সুরুজের রঙ গলে",
+    "dhaka_banglish_speech": "hunchi kotoi nanan kota jongolbarir jongole pokkhi nahi gan gaya jay can surujer rong gole",
+    "region_name": "dhaka",
+    "english_speech": "I hear so many different things in the forest of Jangalbari, the birds sing, the colors of the moon and the sun melt"
+  },
+  {
+    "bangla_speech": "দেখে এসেছি অবহেলা ঈশা খানের কবরে অন্ধকারেতে তালা মারা নাই কোনো খবরে",
+    "banglish_speech": "dekhe esechi obohela isha khaner kobore ondokarete tala mara nai kono khobore",
+    "dhaka_bangla_speech": "দেইখ্যা আইছি অবহেলা ঈশা খানের কবরে অন্দরেতে তালা মারা নাইগ্যা কুনু খবরে",
+    "dhaka_banglish_speech": "deikha aichi obohela isha khaner kobore ondorete tala mara naiga kono khobore",
+    "region_name": "dhaka",
+    "english_speech": "I have seen that the grave of Ahela Isha Khan has not been locked in the dark without any news"
+  },
+  {
+    "bangla_speech": "ময়লা ভর্তি উঠান ঘাটে বাস করে কে",
+    "banglish_speech": "moyla bhorti uthan ghate bas kore ke",
+    "dhaka_bangla_speech": "ময়লা ভরা উড়ান গাডে 'বসত করে কেডায়",
+    "dhaka_banglish_speech": "moyla vora uran gade bosot kore keday",
+    "region_name": "dhaka",
+    "english_speech": "Who lives in a yard full of dirt"
+  },
+  {
+    "bangla_speech": "জিজ্ঞাসা করাতেই মারলো আঘাত আধ-বুড়া এক লোক",
+    "banglish_speech": "jiggasa koratei marlo aghat adh-bura ek luk",
+    "dhaka_bangla_speech": "জিগাইছি যেই, মারলো ঝাড়ি আধ-বুইড়্যা এক বেডায়",
+    "dhaka_banglish_speech": "jigaichi jei, marlo jhari adh-buira ek beday",
+    "region_name": "dhaka",
+    "english_speech": "A middle-aged man was shocked to ask"
+  },
+  {
+    "bangla_speech": "বলছি খুব তৃষ্ণা লাগছে",
+    "banglish_speech": "bolchi khub tresna lagche",
+    "dhaka_bangla_speech": "কইছি, 'জবর তিরাস লাগছে'",
+    "dhaka_banglish_speech": "koichi, jobor tiras lagche",
+    "region_name": "dhaka",
+    "english_speech": "I am very thirsty"
+  },
+  {
+    "bangla_speech": "দেখিয়ে দিলো কল আছে",
+    "banglish_speech": "dekhiya dilo kol ache",
+    "dhaka_bangla_speech": " দেহায়‍্যা দিলো, 'কল আছে'",
+    "dhaka_banglish_speech": "dehaiya dilo kol ache",
+    "region_name": "dhaka",
+    "english_speech": "Showed that there is a call"
+  },
+  {
+    "bangla_speech": "বললো গিয়ে খাইতে থাকতে",
+    "banglish_speech": "bollo giye khaite thakte",
+    "dhaka_bangla_speech": "কইলো, 'গিয়া খাইতে থাহেন",
+    "dhaka_banglish_speech": "koilo, giya khaite thahen ",
+    "region_name": "dhaka",
+    "english_speech": "Said to go and eat"
+  },
+  {
+    "bangla_speech": "কলটা ভরা পানি আছে",
+    "banglish_speech": "kolta vora pani ache",
+    "dhaka_bangla_speech": "কলডা ভরা জল আছে'",
+    "dhaka_banglish_speech": "kolda vora jol ache",
+    "region_name": "dhaka",
+    "english_speech": "The faucet is full of water"
+  },
+  {
+    "bangla_speech": "এমন আজব কান্ড দেখে করেছি চিন্তা জবর ভাই",
+    "banglish_speech": "emon ajob kando dekhe korechi cinta jabor vai",
+    "dhaka_bangla_speech": "এ্যামুন আজব কাণ্ড দেইখ্যা করছি চিন্তা জবর ভাই",
+    "dhaka_banglish_speech": "amun ajob kando deikha korchi cinta jabor vai",
+    "region_name": "dhaka",
+    "english_speech": "Seeing such a strange incident, I thought Jabar brother"
+  },
+  {
+    "bangla_speech": "সকলে বলে বহুত আচ্ছা আসল কথার খবর নাই",
+    "banglish_speech": "sokole bole bhut accha asol kothar khobor nai",
+    "dhaka_bangla_speech": "হগলে কয়, 'বহুত আচ্ছা' আসল কতার খবর নাই।",
+    "dhaka_banglish_speech": "hoole koy, bhut accha asol kotar khobor nai",
+    "region_name": "dhaka",
+    "english_speech": "Everyone says very well, there is no real news"
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
+    "bangla_speech": "",
+    "banglish_speech": "",
+    "dhaka_bangla_speech": "",
+    "dhaka_banglish_speech": "",
+    "region_name": "dhaka",
+    "english_speech": ""
+  },
+  {
     "bangla_speech": "কত সুন্দর তুমি,প্রেমে পড়েছি আমি",
     "banglish_speech": "koto shundor tumi,preme porechi ami",
     "kishoreganjh_bangla_speech": "",
