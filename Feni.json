@@ -1,0 +1,680 @@
+[
+    {
+        "bangla_speech": "আমার জন্য দোয়া করো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "মা কইছে আরে ভাত খাইতো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "বাবা বলেছে সবার সাথে ভদ্রভাবে কথা বলতে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আর বাপে কইছে লগে ঠিক করি কথা কইতাম",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "মা বলেছে খালি হাতে বাইরে যেও না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "মা কইছে খাইল্লা হাতে বারে না যাইবার লাই",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি সবসময় নিজের কাজ নিজে করবা",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় তোয়ার বেক কাম নিজে কইরবা",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার কী হয়েছে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোয়ার আবার কিছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "মা রান্নাঘরে রান্না করে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "মা পাকঘরে পাক করে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোদের বাড়ির সামনে দাঁড়িয়ে আছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোগো বাইর গাডায় খারাই রইছি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এখানে বেশি শব্দ করো না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ানে বেশি চিল্লাচিল্লি করিচ্ছা",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি কিছু খাবে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কিছু খাইবানি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি এখনও ভাবছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় অনো চিন্তা করিয়ের",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তাকে এখানে পাঠিয়ে দেও",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতেরে ইয়ানে হাডাই দে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এখন তুমি কী করবে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "অন তুই কিয়া করবি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে তোমার জন্য অপেক্ষা করছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতে তোর লাই বইরইছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এটা একটা নতুন দিন",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আইজ্জা নতুন এক্কান দিন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তারা সবাই চলে গেছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেগুন ব্বেগুন গেছে ",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি কি তোমার কাজ শেষ করেছ?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় তোয়ার কাম কইরছো নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি আজ বাইরে যাবো না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় আইজ্জা বারে যাইতান্ন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এটা এখানে রাখো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ান ইয়ানে রাখ",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার সঙ্গ পেতে ভালো লাগে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোয়ার লগে থাইকতে ভালা লাগে আর",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি তাকে অনেকদিন ধরে চিনি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় হেতেরে মেলা আগেতুন চিনি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি কী ভাবছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কিয়া চিন্তা করোরি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমাদের কিছু বলার আছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা কিছু কমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে আমার কাছের বন্ধু",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতে আর লগের বন্ধু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি ভালো আছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় ভালা আছো নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা সবাই প্রস্তুত",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা রেডি আছি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা সবাই আছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা ব্বেগুন আছি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে তার কাজ করছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতি হিতির কাম করের",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি তোমার কথা শুনেছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার কথা হুইঞ্চি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এখানে বেশি সময় নেই",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ানে আর এত সময় নাই",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা একই জায়গায় যাবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা এক্কানেই জামু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে খুব দেরি করছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতি বেশি দেরি করিয়ালাইছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার কি খেতে ইচ্ছা করছে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোয়ার কিয়া খাইতো মনচার",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি এই কাজটা শেষ করবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় কাম ইয়ান শেষ করমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার জন্য কিছু উপহার এনেছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ারলাই এক্কান জিনিস আঞ্চি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আয় তোয়ারলাই এক্কান জিনিস আঞ্চি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার লগে থাকমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তাকে বলো কিছু মনে না করতে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতিরে কইছ কিছু না মতে কইরতো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আজ খুব সুন্দর দিন",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "এইজ্জা দিন ইয়ান কি সন্দর",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা একসাথে খাবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা এক লগে খামু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি কি এখানেই থাকবে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় ইয়ানে থাইকবা নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তাকে নিয়ে চিন্তা করো না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতিরে লই চিন্তা করণ লাইগদো ন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি তোমার জন্য অপেক্ষা করবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার লাই বইথাকমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আজকের দিনটা ভালো লাগছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আইজ্জার দিন আন ভালা লাগের",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার জন্য কিছু আনবো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোয়ার লাই কিছু আনন লাইগবো নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এটা সহজ নয়",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ান সোজা ন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি তোমাকে পরে বলবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার হরে কইমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে কোথায় গেলো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতে কন্ডায় গেছে?",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা ভালো আছি।",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা ভালা আছি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে কী করছে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতি কিচ্ছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "এটা আমার প্রয়োজন",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ান আর লাইগবো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি এখানে আসো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় আর কাছে আইয়ো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমরা কি বাইরে যাবো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা বারে যাইতাম নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তার জন্য অপেক্ষা করো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতির লাই বয়",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তুমি কী বলছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কিয়া কইছত",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আমি তোমার সাথে থাকবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার লগে থাকুম",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে খুব দুঃখিত",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতের মেলা খারাপ লাইগছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "এখানে খুব গরম",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ানে যে গরম",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তোমার জন্য সব ঠিক হয়ে যাবে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তোয়ার লাই ব্বেজ্ঞান ঠিক হই যাইবো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আমাদের আর দেরি করা উচিত না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা আর দেরি করণ ঠিক হইতো ন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তুমি কফি খাবে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কফি খাইবা নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "এটা এখনো শেষ হয়নি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ান ইয়ানে শেষ হয় ন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তুমি কি ঘুমাতে যাচ্ছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কি ঘুম যাইবার লাই যর নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আমরা বাইরে বসবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা বারে বইমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "সে আমার সাথে আছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতে আর লগে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তুমি কীভাবে এসেছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় কেন্নে আইছো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তাকে সব বলো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতেরে ব্বেগেন কন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "এখানে কেউ নেই",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ানে কেও নাই",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+
+
+      {
+        "bangla_speech": "আমাকে অনেক সাহায্য করেছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আরে মেলা সাইয্য কইরছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি কি কিছু জানো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুমি কি কিছু জানো?",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি তাকে দেখতে চাই",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় হেতেরে চামু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "এখানে কী খুব ঠান্ডা",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ানে ঠান্ডা বেশি নি কি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+
+      {
+        "bangla_speech": "আমার মনে হচ্ছে তুমি ভুল করছো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আর মনে হর তুইয় ভুল করর",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+
+
+      {
+        "bangla_speech": "তুমি আমাকে চিনতে পেরেছো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় আরে চিনছো নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "এটা তোমার জন্যই এনেছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "ইয়ান তোয়ার লাই আইঞ্চি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+
+      {
+        "bangla_speech": "আমি তাকে ফোন করবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় তোয়ার ফোন দিমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আজ খুব ব্যস্ত দিন",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আইজ্জা মেলা ঝামিলার দিন",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "সে আমাকে খুব ভালোবাসে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতি আরে মেলা ভালোবাসে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "তুমি কি আমাকে বিশ্বাস করো?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় আরে বিশ্বাস করো নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আমি এখনও জানি না",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় অনো জানি না",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+
+      {
+        "bangla_speech": "আমরা একসাথে খেলবো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আন্ডা এক্কত্তরে খেলমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তাকে বলো এখানে আসতে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হিতিরে ক ইয়ানে আইতো",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আমি একটি বই পড়ছি",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আয় বই ইজ্ঞা হড়িয়ের",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তোমার কি কিছু বলার আছে?",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় আরে কি কিয়া কইবা নি",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "তুমি খুব ভালো কাজ করেছো",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "তুইয় তো বালাই কাম করর",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": " অনেক মানুষ আছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "মেলা মানু্ষ",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "আজকে অনেক মজা হবে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "আইজ্জা মেলা শতানি করমু",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "সে আমাকে সব কিছু বলেছে",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "হেতে আরে ব্বেজ্ঞান কইছে",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      },
+      {
+        "bangla_speech": "",
+        "banglish_speech": "",
+        "shariatpur_bangla_speech": "",
+        "shariatpur_banglish_speech": "",
+        "english_speech": ""
+      }
+
+
+
+
+]
